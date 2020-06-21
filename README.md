@@ -1,0 +1,1 @@
+# Fork of https://translate.sailfishos.org/ en_GB
