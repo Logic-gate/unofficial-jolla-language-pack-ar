@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="ar">
+<TS version="2.1" language="ar">
 <context>
     <name></name>
     <message id="settings-me-remove_from_favorites">
@@ -22,7 +22,7 @@
         <location filename="../plugin/qml/SettingsErrorNotification.qml" line="27"/>
         <source>Disabled by %1 Device Manager</source>
         <extracomment>%1 is an operating system name without the OS suffix</extracomment>
-        <translation>تم  نعطيلها من قبل %1 إدارة الجهاز</translation>
+        <translation>تم تعطيلها من قبل إدارة جهاز %1</translation>
     </message>
     <message id="settings-la-disabled_because_flight_mode_enabled">
         <location filename="../plugin/qml/SettingsErrorNotification.qml" line="32"/>
