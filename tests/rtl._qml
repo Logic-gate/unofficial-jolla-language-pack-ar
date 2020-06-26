@@ -1,0 +1,5 @@
+// RTL SUPPORT
+	LayoutMirroring.enabled: true
+	LayoutMirroring.childrenInherit: true
+	anchors.left: parent.left
+// END RTL SUPPORT

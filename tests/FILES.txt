@@ -1,0 +1,3 @@
+langtest.qml:12
+langtest2.qml:10
+langtest3.qml:23
