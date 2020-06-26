@@ -31,6 +31,7 @@ do
     		then
     			grep -v -x -f $RTLSTRING $FILE > $TEMP
     			mv $TEMP $FILE
+    			chmod 644 $FILE
 				echo $FILE "Deleted RTL SUPPORT --> Line" $LINE
     		else
     			echo $FILE "No RTL Support Found"

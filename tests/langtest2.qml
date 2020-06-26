@@ -9,6 +9,7 @@ import Sailfish.Silica.private 1.0 as Private
 
 Dialog {
 
+
     id: dialog
     
     property date defaultDate: new Date()
