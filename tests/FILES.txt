@@ -1,3 +1,2 @@
-langtest.qml:12
-langtest2.qml:10
-langtest3.qml:23
+/usr/share/jolla-calendar/pages/EventEditPage.qml:146
+/usr/share/jolla-calendar/pages/EventViewPage.qml:11
