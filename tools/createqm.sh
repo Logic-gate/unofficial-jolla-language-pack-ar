@@ -26,12 +26,12 @@ then
     exit -1
 fi
 
-mkdir -p regions/{$POOTLE_LANG}/usr/share/translations
-rm -rf regions/{$POOTLE_LANG}/usr/share/translations/*
+mkdir -p regions/$POOTLE_LANG/usr/share/translations
+rm -rf regions/$POOTLE_LANG/usr/share/translations/*
 i=0
 TS_COUNT=$(wc -l < $PACKAGELISTFILE)
 while IFS='' read -r line || [[ -n "$line" ]]; do
     FILENAME=$(echo "$line" | sed "s/.*\///")
     FILENAME=$(echo $FILENAME | awk -F"." '{print $1}')
-    lrelease -idbased source/unofficial-jolla-language-pack-ar/$line -qm regions/{$POOTLE_LANG}/usr/share/translations/$FILENAME-${QM_SUFFIX}.qm
+    lrelease -idbased source/unofficial-jolla-language-pack-ar/$line -qm regions/$POOTLE_LANG/usr/share/translations/$FILENAME-${QM_SUFFIX}.qm
 done < $PACKAGELISTFILE

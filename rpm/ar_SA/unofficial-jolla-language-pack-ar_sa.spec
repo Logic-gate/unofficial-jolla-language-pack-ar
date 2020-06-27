@@ -5,8 +5,8 @@
 %define QM_SUFFIX ar_SA
 
 Name: unofficial-jolla-language-pack-%{RPM_SUFFIX}
-Version:	1.0.0
-Release:	0.0.1
+Version:	1.1.0
+Release:	1.0.0
 Summary:	Unofficial community Arabic translation for Jolla
 
 Group: Qt/Qt
@@ -20,5 +20,7 @@ Packager: mad_dev
 %include rpm/%{CONFLANG}/common.inc
 
 %changelog
+* Tue Jun 27 2020 mad_dev 1.1.0 1.0.0
+- Silica Comp. Cancel Test, release change
 * Tue Jun 23 2020 mad_dev 1.0.0 0.0.1
 - First RPM build
