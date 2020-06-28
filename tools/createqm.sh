@@ -33,5 +33,5 @@ TS_COUNT=$(wc -l < $PACKAGELISTFILE)
 while IFS='' read -r line || [[ -n "$line" ]]; do
     FILENAME=$(echo "$line" | sed "s/.*\///")
     FILENAME=$(echo $FILENAME | awk -F"." '{print $1}')
-    lrelease -idbased source/unofficial-jolla-language-pack-ar/$line -qm regions/$POOTLE_LANG/usr/share/translations/$FILENAME-${QM_SUFFIX}.qm
+    /home/mad_dev/Qt/5.7/gcc_64/bin/lrelease -idbased source/unofficial-jolla-language-pack-ar/$line -qm regions/$POOTLE_LANG/usr/share/translations/$FILENAME-${QM_SUFFIX}.qm
 done < $PACKAGELISTFILE

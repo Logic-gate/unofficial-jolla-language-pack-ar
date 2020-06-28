@@ -1,2 +1,3 @@
 /usr/share/jolla-calendar/pages/EventEditPage.qml:146
 /usr/share/jolla-calendar/pages/EventViewPage.qml:11
+/usr/share/jolla-clock/pages/ClockEditDialog.qml:120
