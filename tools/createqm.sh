@@ -10,7 +10,7 @@
 PACKAGELISTFILE="packagelist.txt"
 
 
-if [ -z $POOTLE_LANG ] 
+if [ -z $POOTLE_LANG ]
 then
     echo "The POOTLE_LANG variable is not set!"
     echo "Please set it with export POOTLE_LANG=hu before calling this script!"
@@ -18,7 +18,7 @@ then
     exit -1
 fi
 
-if [ -z $QM_SUFFIX ] 
+if [ -z $QM_SUFFIX ]
 then
     echo "The QM_SUFFIX variable is not set!"
     echo "Please set it with export QM_SUFFIX=hu before calling this script!"
@@ -33,5 +33,5 @@ TS_COUNT=$(wc -l < $PACKAGELISTFILE)
 while IFS='' read -r line || [[ -n "$line" ]]; do
     FILENAME=$(echo "$line" | sed "s/.*\///")
     FILENAME=$(echo $FILENAME | awk -F"." '{print $1}')
-    /home/mad_dev/Qt/5.7/gcc_64/bin/lrelease -idbased source/unofficial-jolla-language-pack-ar/$line -qm regions/$POOTLE_LANG/usr/share/translations/$FILENAME-${QM_SUFFIX}.qm
+    /home/mad_dev/Qt/5.7/gcc_64/bin/lrelease -idbased source/$POOTLE_LANG/unofficial-jolla-language-pack-ar/$line -qm regions/$POOTLE_LANG/usr/share/translations/$FILENAME-${QM_SUFFIX}.qm
 done < $PACKAGELISTFILE
