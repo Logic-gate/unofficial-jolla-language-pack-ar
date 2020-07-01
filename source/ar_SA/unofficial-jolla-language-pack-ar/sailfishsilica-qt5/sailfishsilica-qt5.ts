@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="ar_SA">
+<TS version="2.1" language="ar_SA">
 <context>
     <name></name>
     <message id="components-la-default_cover">
         <location filename="../applications/componentgallery/pages/Cover.qml" line="41"/>
         <location filename="../components/private/DefaultCover.qml" line="41"/>
         <source>Default cover</source>
-        <translation>Default cover</translation>
+        <translation>الغلاف الإفتراضي</translation>
     </message>
     <message id="components-la-loading">
         <location filename="../components/BusyLabel.qml" line="65"/>
         <source>Loading</source>
-        <translation>Loading</translation>
+        <translation>جار التحميل</translation>
     </message>
     <message id="components-he-choose_color">
         <location filename="../components/ColorPickerDialog.qml" line="66"/>
         <location filename="../components/ColorPickerPage.qml" line="57"/>
         <source>Choose color</source>
-        <translation>Select colour</translation>
+        <translation>إختر لون</translation>
     </message>
     <message id="components-la-week_and_weeknumber">
         <location filename="../components/DatePicker.qml" line="194"/>
         <location filename="../components/private/DateGrid.qml" line="210"/>
         <source>week %1</source>
         <extracomment>Used to show week text and week number: %1 == weeknumber</extracomment>
-        <translation>Week %1</translation>
+        <translation>أسبوع %1</translation>
     </message>
     <message id="components-he-dialog_accept">
         <location filename="../components/DialogHeader.qml" line="67"/>
         <source>Accept</source>
-        <translation>Accept</translation>
+        <translation>قبول</translation>
     </message>
     <message id="components-he-dialog_cancel">
         <location filename="../components/DialogHeader.qml" line="70"/>
@@ -40,34 +40,34 @@
     <message id="components-bt-pause">
         <location filename="../components/Keypad.qml" line="45"/>
         <source>pause</source>
-        <translation>Pause</translation>
+        <translation>توقف</translation>
     </message>
     <message id="components-la-select">
         <location filename="../components/MiniComboBox.qml" line="46"/>
         <source>Select</source>
         <extracomment>Default text of inline combo box when it&apos;s empty, also used as a dialog header when it has too many options.</extracomment>
-        <translation>Select</translation>
+        <translation>تحديد</translation>
     </message>
     <message id="components-la-page_loading_failed">
         <location filename="../components/PageStack.qml" line="839"/>
         <source>Page loading failed</source>
-        <translation>Could not load page</translation>
+        <translation>تعذر تحميل الصفحة</translation>
     </message>
     <message id="components-ph-password">
         <location filename="../components/PasswordField.qml" line="56"/>
         <source>Password</source>
-        <translation>Password</translation>
+        <translation>الكلمة السرية</translation>
     </message>
     <message id="components-la-password">
         <location filename="../components/PasswordField.qml" line="59"/>
         <source>Password</source>
-        <translation>Password</translation>
+        <translation>الكلمة السرية</translation>
     </message>
     <message id="components-la-time_start_with_ap">
         <location filename="../components/private/ClockItem.qml" line="9"/>
         <source></source>
         <extracomment>&quot;translate as non-empty if am/pm indicator starts the 12h time pattern&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message id="components-la-12h_time_pattern_without_ap">
         <location filename="../components/private/ClockItem.qml" line="35"/>
@@ -78,60 +78,60 @@
     <message id="jolla-clock-la-am">
         <location filename="../components/private/ClockItem.qml" line="73"/>
         <source>AM</source>
-        <translation>AM</translation>
+        <translation>صباحاً</translation>
     </message>
     <message id="jolla-clock-la-pm">
         <location filename="../components/private/ClockItem.qml" line="75"/>
         <source>PM</source>
-        <translation>PM</translation>
+        <translation>مساءاً</translation>
     </message>
     <message id="components-la-deleted">
         <location filename="../components/private/RemorseBase.qml" line="44"/>
         <location filename="../components/Remorse.qml" line="45"/>
         <source>Deleted</source>
-        <translation>Deleted</translation>
+        <translation>محذوف</translation>
     </message>
     <message id="components-la-undo">
         <location filename="../components/private/RemorseBase.qml" line="48"/>
         <source>Undo</source>
-        <translation>Undo</translation>
+        <translation>تراجع</translation>
     </message>
     <message id="components-la-tap-to-undo">
         <location filename="../components/private/RemorseBase.qml" line="52"/>
         <source>Tap to undo</source>
-        <translation>Tap to undo</translation>
+        <translation>إنقر للتراجع</translation>
     </message>
     <message id="components-la-swipe-to-hide">
         <location filename="../components/private/RemorseBase.qml" line="149"/>
         <source>Swipe to hide</source>
-        <translation>Swipe to hide</translation>
+        <translation>اسحب للإخفاء</translation>
     </message>
     <message id="components-la-remorse_disappear_hint">
         <location filename="../components/private/RemorseBase.qml" line="233"/>
         <source>Undo banner will also disappear automatically</source>
-        <translation>Undo banner will also disappear automatically</translation>
+        <translation>ستختفي لافتة التراجع عن تلقائيًا</translation>
     </message>
     <message id="components-la-remorse_swipe_hint">
         <location filename="../components/private/RemorseBase.qml" line="252"/>
         <source>You may also swipe to hide the Undo banner</source>
-        <translation>You can also swipe to hide the Undo banner</translation>
+        <translation>يمكنك أيضًا التمرير السريع لإخفاء لافتة التراجع</translation>
     </message>
     <message id="components-la-swipe_left_or_right_to_return_to_home">
         <location filename="../components/private/ReturnToHomeHint.qml" line="56"/>
         <source>Swipe over left or right edge to return to home</source>
-        <translation>Swipe from the outside of the left or right side to go back to Home</translation>
+        <translation>اسحب من خارج الجانب الأيسر أو الأيمن للعودة إلى الصفحة الرئيسية</translation>
     </message>
     <message id="components-bt-show_more">
         <location filename="../components/private/ShowMoreButton.qml" line="13"/>
         <source>Show more</source>
         <extracomment>Prompt to show more of the available content</extracomment>
-        <translation>Show more</translation>
+        <translation>أظهر المزيد</translation>
     </message>
     <message id="components-ph-search">
         <location filename="../components/SearchField.qml" line="67"/>
         <source>Search</source>
         <extracomment>Placeholder text of SearchField</extracomment>
-        <translation>Search</translation>
+        <translation>بحث</translation>
     </message>
     <message id="sailfishsilica-formatShortDate">
         <location filename="../components/src/declarativeformatter.cpp" line="54"/>
@@ -143,301 +143,301 @@
         <location filename="../components/src/declarativeformatter.cpp" line="71"/>
         <source></source>
         <extracomment>Name of day 1 of the week (Monday) in standalone form; only provide this to override the locale name</extracomment>
-        <translation>Monday</translation>
+        <translation>الإثنين</translation>
     </message>
     <message id="sailfishsilica-weekday_tuesday_standalone">
         <location filename="../components/src/declarativeformatter.cpp" line="73"/>
         <source></source>
         <extracomment>Name of day 2 of the week (Tuesday) in standalone form; only provide this to override the locale name</extracomment>
-        <translation>Tuesday</translation>
+        <translation>الثلاثاء</translation>
     </message>
     <message id="sailfishsilica-weekday_wednesday_standalone">
         <location filename="../components/src/declarativeformatter.cpp" line="75"/>
         <source></source>
         <extracomment>Name of day 3 of the week (Wednesday) in standalone form; only provide this to override the locale name</extracomment>
-        <translation>Wednesday</translation>
+        <translation>الأربعاء</translation>
     </message>
     <message id="sailfishsilica-weekday_thursday_standalone">
         <location filename="../components/src/declarativeformatter.cpp" line="77"/>
         <source></source>
         <extracomment>Name of day 4 of the week (Thursday) in standalone form; only provide this to override the locale name</extracomment>
-        <translation>Thursday</translation>
+        <translation>الخميس</translation>
     </message>
     <message id="sailfishsilica-weekday_friday_standalone">
         <location filename="../components/src/declarativeformatter.cpp" line="79"/>
         <source></source>
         <extracomment>Name of day 5 of the week (Friday) in standalone form; only provide this to override the locale name</extracomment>
-        <translation>Friday</translation>
+        <translation>الجمعة</translation>
     </message>
     <message id="sailfishsilica-weekday_saturday_standalone">
         <location filename="../components/src/declarativeformatter.cpp" line="81"/>
         <source></source>
         <extracomment>Name of day 6 of the week (Saturday) in standalone form; only provide this to override the locale name</extracomment>
-        <translation>Saturday</translation>
+        <translation>السبت</translation>
     </message>
     <message id="sailfishsilica-weekday_sunday_standalone">
         <location filename="../components/src/declarativeformatter.cpp" line="83"/>
         <source></source>
         <extracomment>Name of day 7 of the week (Sunday) in standalone form; only provide this to override the locale name</extracomment>
-        <translation>Sunday</translation>
+        <translation>الأحد</translation>
     </message>
     <message id="sailfishsilica-weekday_monday_standalone_capitalized">
         <location filename="../components/src/declarativeformatter.cpp" line="87"/>
         <source></source>
         <extracomment>Name of day 1 of the week (Monday) in standalone form capitalized; only provide this to override the locale name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message id="sailfishsilica-weekday_tuesday_standalone_capitalized">
         <location filename="../components/src/declarativeformatter.cpp" line="89"/>
         <source></source>
         <extracomment>Name of day 2 of the week (Tuesday) in standalone form capitalized; only provide this to override the locale name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message id="sailfishsilica-weekday_wednesday_standalone_capitalized">
         <location filename="../components/src/declarativeformatter.cpp" line="91"/>
         <source></source>
         <extracomment>Name of day 3 of the week (Wednesday) in standalone form capitalized; only provide this to override the locale name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message id="sailfishsilica-weekday_thursday_standalone_capitalized">
         <location filename="../components/src/declarativeformatter.cpp" line="93"/>
         <source></source>
         <extracomment>Name of day 4 of the week (Thursday) in standalone form capitalized; only provide this to override the locale name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message id="sailfishsilica-weekday_friday_standalone_capitalized">
         <location filename="../components/src/declarativeformatter.cpp" line="95"/>
         <source></source>
         <extracomment>Name of day 5 of the week (Friday) in standalone form capitalized; only provide this to override the locale name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message id="sailfishsilica-weekday_saturday_standalone_capitalized">
         <location filename="../components/src/declarativeformatter.cpp" line="97"/>
         <source></source>
         <extracomment>Name of day 6 of the week (Saturday) in standalone form capitalized; only provide this to override the locale name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message id="sailfishsilica-weekday_sunday_standalone_capitalized">
         <location filename="../components/src/declarativeformatter.cpp" line="99"/>
         <source></source>
         <extracomment>Name of day 7 of the week (Sunday) in standalone form capitalized; only provide this to override the locale name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message id="sailfishsilica-monthname_january_standalone">
         <location filename="../components/src/declarativeformatter.cpp" line="126"/>
         <source></source>
         <extracomment>January in stand-alone form; only provide this to override the locale name</extracomment>
-        <translation>January</translation>
+        <translation>يناير</translation>
     </message>
     <message id="sailfishsilica-monthname_february_standalone">
         <location filename="../components/src/declarativeformatter.cpp" line="128"/>
         <source></source>
         <extracomment>February in stand-alone form; only provide this to override the locale name</extracomment>
-        <translation>February</translation>
+        <translation>فبراير</translation>
     </message>
     <message id="sailfishsilica-monthname_march_standalone">
         <location filename="../components/src/declarativeformatter.cpp" line="130"/>
         <source></source>
         <extracomment>March in stand-alone form; only provide this to override the locale name</extracomment>
-        <translation>March</translation>
+        <translation>مارس</translation>
     </message>
     <message id="sailfishsilica-monthname_april_standalone">
         <location filename="../components/src/declarativeformatter.cpp" line="132"/>
         <source></source>
         <extracomment>April in stand-alone form; only provide this to override the locale name</extracomment>
-        <translation>April</translation>
+        <translation>أبريل</translation>
     </message>
     <message id="sailfishsilica-monthname_may_standalone">
         <location filename="../components/src/declarativeformatter.cpp" line="134"/>
         <source></source>
         <extracomment>May in stand-alone form; only provide this to override the locale name</extracomment>
-        <translation>May</translation>
+        <translation>مايو</translation>
     </message>
     <message id="sailfishsilica-monthname_june_standalone">
         <location filename="../components/src/declarativeformatter.cpp" line="136"/>
         <source></source>
         <extracomment>June in stand-alone form; only provide this to override the locale name</extracomment>
-        <translation>June</translation>
+        <translation>يونيو</translation>
     </message>
     <message id="sailfishsilica-monthname_july_standalone">
         <location filename="../components/src/declarativeformatter.cpp" line="138"/>
         <source></source>
         <extracomment>July in stand-alone form; only provide this to override the locale name</extracomment>
-        <translation>July</translation>
+        <translation>يوليو</translation>
     </message>
     <message id="sailfishsilica-monthname_august_standalone">
         <location filename="../components/src/declarativeformatter.cpp" line="140"/>
         <source></source>
         <extracomment>August in stand-alone form; only provide this to override the locale name</extracomment>
-        <translation>August</translation>
+        <translation>أغسطس</translation>
     </message>
     <message id="sailfishsilica-monthname_september_standalone">
         <location filename="../components/src/declarativeformatter.cpp" line="142"/>
         <source></source>
         <extracomment>September in stand-alone form; only provide this to override the locale name</extracomment>
-        <translation>September</translation>
+        <translation>سبتمبر</translation>
     </message>
     <message id="sailfishsilica-monthname_october_standalone">
         <location filename="../components/src/declarativeformatter.cpp" line="144"/>
         <source></source>
         <extracomment>October in stand-alone form; only provide this to override the locale name</extracomment>
-        <translation>October</translation>
+        <translation>أكتوبر</translation>
     </message>
     <message id="sailfishsilica-monthname_november_standalone">
         <location filename="../components/src/declarativeformatter.cpp" line="146"/>
         <source></source>
         <extracomment>November in stand-alone form; only provide this to override the locale name</extracomment>
-        <translation>November</translation>
+        <translation>نوفمبر</translation>
     </message>
     <message id="sailfishsilica-monthname_december_standalone">
         <location filename="../components/src/declarativeformatter.cpp" line="148"/>
         <source></source>
         <extracomment>December in stand-alone form; only provide this to override the locale name</extracomment>
-        <translation>December</translation>
+        <translation>ديسمبر</translation>
     </message>
     <message id="sailfishsilica-monthname_january_standalone_capitalized">
         <location filename="../components/src/declarativeformatter.cpp" line="152"/>
         <source></source>
         <extracomment>January in stand-alone form capitalized; only provide this to override the locale name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message id="sailfishsilica-monthname_february_standalone_capitalized">
         <location filename="../components/src/declarativeformatter.cpp" line="154"/>
         <source></source>
         <extracomment>February in stand-alone form capitalized; only provide this to override the locale name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message id="sailfishsilica-monthname_march_standalone_capitalized">
         <location filename="../components/src/declarativeformatter.cpp" line="156"/>
         <source></source>
         <extracomment>March in stand-alone form capitalized; only provide this to override the locale name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message id="sailfishsilica-monthname_april_standalone_capitalized">
         <location filename="../components/src/declarativeformatter.cpp" line="158"/>
         <source></source>
         <extracomment>April in stand-alone form capitalized; only provide this to override the locale name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message id="sailfishsilica-monthname_may_standalone_capitalized">
         <location filename="../components/src/declarativeformatter.cpp" line="160"/>
         <source></source>
         <extracomment>May in stand-alone form capitalized; only provide this to override the locale name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message id="sailfishsilica-monthname_june_standalone_capitalized">
         <location filename="../components/src/declarativeformatter.cpp" line="162"/>
         <source></source>
         <extracomment>June in stand-alone form capitalized; only provide this to override the locale name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message id="sailfishsilica-monthname_july_standalone_capitalized">
         <location filename="../components/src/declarativeformatter.cpp" line="164"/>
         <source></source>
         <extracomment>July in stand-alone form capitalized; only provide this to override the locale name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message id="sailfishsilica-monthname_august_standalone_capitalized">
         <location filename="../components/src/declarativeformatter.cpp" line="166"/>
         <source></source>
         <extracomment>August in stand-alone form capitalized; only provide this to override the locale name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message id="sailfishsilica-monthname_september_standalone_capitalized">
         <location filename="../components/src/declarativeformatter.cpp" line="168"/>
         <source></source>
         <extracomment>September in stand-alone form capitalized; only provide this to override the locale name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message id="sailfishsilica-monthname_october_standalone_capitalized">
         <location filename="../components/src/declarativeformatter.cpp" line="170"/>
         <source></source>
         <extracomment>October in stand-alone form capitalized; only provide this to override the locale name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message id="sailfishsilica-monthname_november_standalone_capitalized">
         <location filename="../components/src/declarativeformatter.cpp" line="172"/>
         <source></source>
         <extracomment>November in stand-alone form capitalized; only provide this to override the locale name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message id="sailfishsilica-monthname_december_standalone_capitalized">
         <location filename="../components/src/declarativeformatter.cpp" line="174"/>
         <source></source>
         <extracomment>December in stand-alone form capitalized; only provide this to override the locale name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message id="sailfishsilica-monthname_january_standalone_short">
         <location filename="../components/src/declarativeformatter.cpp" line="201"/>
         <source></source>
         <extracomment>January in stand-alone short form; only provide this to override the locale name</extracomment>
-        <translation>Jan</translation>
+        <translation>يناير</translation>
     </message>
     <message id="sailfishsilica-monthname_february_standalone_short">
         <location filename="../components/src/declarativeformatter.cpp" line="203"/>
         <source></source>
         <extracomment>February in stand-alone short form; only provide this to override the locale name</extracomment>
-        <translation>Feb</translation>
+        <translation>فبراير</translation>
     </message>
     <message id="sailfishsilica-monthname_march_standalone_short">
         <location filename="../components/src/declarativeformatter.cpp" line="205"/>
         <source></source>
         <extracomment>March in stand-alone short form; only provide this to override the locale name</extracomment>
-        <translation>Mar</translation>
+        <translation>مارس</translation>
     </message>
     <message id="sailfishsilica-monthname_april_standalone_short">
         <location filename="../components/src/declarativeformatter.cpp" line="207"/>
         <source></source>
         <extracomment>April in stand-alone short form; only provide this to override the locale name</extracomment>
-        <translation>Apr</translation>
+        <translation>أبريل</translation>
     </message>
     <message id="sailfishsilica-monthname_may_standalone_short">
         <location filename="../components/src/declarativeformatter.cpp" line="209"/>
         <source></source>
         <extracomment>May in stand-alone short form; only provide this to override the locale name</extracomment>
-        <translation>May</translation>
+        <translation>مايو</translation>
     </message>
     <message id="sailfishsilica-monthname_june_standalone_short">
         <location filename="../components/src/declarativeformatter.cpp" line="211"/>
         <source></source>
         <extracomment>June in stand-alone short form; only provide this to override the locale name</extracomment>
-        <translation>Jun</translation>
+        <translation>يونيو</translation>
     </message>
     <message id="sailfishsilica-monthname_july_standalone_short">
         <location filename="../components/src/declarativeformatter.cpp" line="213"/>
         <source></source>
         <extracomment>July in stand-alone short form; only provide this to override the locale name</extracomment>
-        <translation>Jul</translation>
+        <translation>يوليو</translation>
     </message>
     <message id="sailfishsilica-monthname_august_standalone_short">
         <location filename="../components/src/declarativeformatter.cpp" line="215"/>
         <source></source>
         <extracomment>August in stand-alone short form; only provide this to override the locale name</extracomment>
-        <translation>Aug</translation>
+        <translation>أغسطس</translation>
     </message>
     <message id="sailfishsilica-monthname_september_standalone_short">
         <location filename="../components/src/declarativeformatter.cpp" line="217"/>
         <source></source>
         <extracomment>September in stand-alone short form; only provide this to override the locale name</extracomment>
-        <translation>Sep</translation>
+        <translation>سبتمبر</translation>
     </message>
     <message id="sailfishsilica-monthname_october_standalone_short">
         <location filename="../components/src/declarativeformatter.cpp" line="219"/>
         <source></source>
         <extracomment>October in stand-alone short form; only provide this to override the locale name</extracomment>
-        <translation>Oct</translation>
+        <translation>أكتوبر</translation>
     </message>
     <message id="sailfishsilica-monthname_november_standalone_short">
         <location filename="../components/src/declarativeformatter.cpp" line="221"/>
         <source></source>
         <extracomment>November in stand-alone short form; only provide this to override the locale name</extracomment>
-        <translation>Nov</translation>
+        <translation>نوفمبر</translation>
     </message>
     <message id="sailfishsilica-monthname_december_standalone_short">
         <location filename="../components/src/declarativeformatter.cpp" line="223"/>
         <source></source>
         <extracomment>December in stand-alone short form; only provide this to override the locale name</extracomment>
-        <translation>Dec</translation>
+        <translation>ديسمبر</translation>
     </message>
     <message id="sailfishsilica-yesterday">
         <location filename="../components/src/declarativeformatter.cpp" line="246"/>
@@ -445,26 +445,30 @@
         <location filename="../components/src/declarativeformatter.cpp" line="782"/>
         <source>Yesterday</source>
         <extracomment>Events that occurred yesterday</extracomment>
-        <translation>Yesterday</translation>
+        <translation>أمس</translation>
     </message>
     <message id="sailfishsilica-older">
         <location filename="../components/src/declarativeformatter.cpp" line="254"/>
         <source>Older</source>
         <extracomment>Events that occurred in the oldest timeframe</extracomment>
-        <translation>Older</translation>
+        <translation>قديم</translation>
     </message>
     <message id="sailfishsilica-now">
         <location filename="../components/src/declarativeformatter.cpp" line="287"/>
         <source>Just now</source>
-        <translation>Just now</translation>
+        <translation>الآن</translation>
     </message>
     <message id="sailfishsilica-minutes-future-short" numerus="yes">
         <location filename="../components/src/declarativeformatter.cpp" line="293"/>
         <source>in %nm</source>
         <extracomment>Number of minutes in the future (short form)</extracomment>
         <translation>
-            <numerusform>in %n m</numerusform>
-            <numerusform>in %n m</numerusform>
+            <numerusform>في %n د</numerusform>
+            <numerusform>في %n د</numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message id="sailfishsilica-minutes-short" numerus="yes">
@@ -472,8 +476,12 @@
         <source>%nm ago</source>
         <extracomment>Number of minutes in the past (short form)</extracomment>
         <translation>
-            <numerusform>%n m ago</numerusform>
-            <numerusform>%n m ago</numerusform>
+            <numerusform>قبل %n د</numerusform>
+            <numerusform>قبل %n د</numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message id="sailfishsilica-minutes-future" numerus="yes">
@@ -481,8 +489,12 @@
         <source>in %n minute(s)</source>
         <extracomment>Number of minutes in the future</extracomment>
         <translation>
-            <numerusform>in %n minute</numerusform>
-            <numerusform>in %n minutes</numerusform>
+            <numerusform>في %n دقيقة</numerusform>
+            <numerusform>في %n دقائق</numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message id="sailfishsilica-minutes" numerus="yes">
@@ -490,8 +502,12 @@
         <source>%n minute(s) ago</source>
         <extracomment>Number of minutes in the past</extracomment>
         <translation>
-            <numerusform>%n minute ago</numerusform>
-            <numerusform>%n minutes ago</numerusform>
+            <numerusform>قبل %n دقيقة</numerusform>
+            <numerusform>قبل %n دقائق</numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message id="sailfishsilica-hours-future-short" numerus="yes">
@@ -499,8 +515,12 @@
         <source>in %nh</source>
         <extracomment>Number of hours in the future (short form)</extracomment>
         <translation>
-            <numerusform>in %n h</numerusform>
-            <numerusform>in %n h</numerusform>
+            <numerusform>في %n س</numerusform>
+            <numerusform>في %n س</numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message id="sailfishsilica-hours-short" numerus="yes">
@@ -508,8 +528,12 @@
         <source>%nh ago</source>
         <extracomment>Number of hours in the past (short form)</extracomment>
         <translation>
-            <numerusform>%n h ago</numerusform>
-            <numerusform>%n h ago</numerusform>
+            <numerusform>قبل %n س</numerusform>
+            <numerusform>قبل %n س</numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message id="sailfishsilica-hours-future" numerus="yes">
@@ -517,8 +541,12 @@
         <source>in %n hour(s)</source>
         <extracomment>Number of hours in the future</extracomment>
         <translation>
-            <numerusform>in %n hour</numerusform>
-            <numerusform>in %n hours</numerusform>
+            <numerusform>في %n ساعة</numerusform>
+            <numerusform>في %n ساعات</numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message id="sailfishsilica-hours" numerus="yes">
@@ -526,8 +554,12 @@
         <source>%n hour(s) ago</source>
         <extracomment>Number of hours in the past</extracomment>
         <translation>
-            <numerusform>%n hour ago</numerusform>
-            <numerusform>%n hours ago</numerusform>
+            <numerusform>قبل %n ساعة</numerusform>
+            <numerusform>قبل %n ساعات</numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message id="sailfishsilica-days-future-short" numerus="yes">
@@ -535,8 +567,12 @@
         <source>in %nd</source>
         <extracomment>Number of days in the future (short form)</extracomment>
         <translation>
-            <numerusform>in %n d</numerusform>
-            <numerusform>in %n d</numerusform>
+            <numerusform>في %n ي</numerusform>
+            <numerusform>في %n ي</numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message id="sailfishsilica-days-short" numerus="yes">
@@ -544,8 +580,12 @@
         <source>%nd ago</source>
         <extracomment>Number of days in the past (short form)</extracomment>
         <translation>
-            <numerusform>%n d ago</numerusform>
-            <numerusform>%n d ago</numerusform>
+            <numerusform>قبل %n ي</numerusform>
+            <numerusform>قبل %n ي</numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message id="sailfishsilica-days-future" numerus="yes">
@@ -553,8 +593,12 @@
         <source>in %n day(s)</source>
         <extracomment>Number of days in the future</extracomment>
         <translation>
-            <numerusform>in %n day</numerusform>
-            <numerusform>in %n days</numerusform>
+            <numerusform>في %n يوم</numerusform>
+            <numerusform>في %n أيام</numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message id="sailfishsilica-days" numerus="yes">
@@ -562,8 +606,12 @@
         <source>%n day(s) ago</source>
         <extracomment>Number of days in the past</extracomment>
         <translation>
-            <numerusform>%n day ago</numerusform>
-            <numerusform>%n days ago</numerusform>
+            <numerusform>قبل %n يوم</numerusform>
+            <numerusform>قبل %n أيام</numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message id="sailfishsilica-months-future-short" numerus="yes">
@@ -571,8 +619,12 @@
         <source>in %n month(s)</source>
         <extracomment>Number of months in the future (short form)</extracomment>
         <translation>
-            <numerusform>in %n month</numerusform>
-            <numerusform>in %n months</numerusform>
+            <numerusform>في %n ش</numerusform>
+            <numerusform>في %n ش</numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message id="sailfishsilica-months-short" numerus="yes">
@@ -580,8 +632,12 @@
         <source>%n month(s) ago</source>
         <extracomment>Number of months in the past (short form)</extracomment>
         <translation>
-            <numerusform>%n month ago</numerusform>
-            <numerusform>%n months ago</numerusform>
+            <numerusform>قبل %n شهر</numerusform>
+            <numerusform>قبل %n شهور</numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message id="sailfishsilica-months-future" numerus="yes">
@@ -589,8 +645,12 @@
         <source>in %n month(s)</source>
         <extracomment>Number of months in the future</extracomment>
         <translation>
-            <numerusform>in %n month</numerusform>
-            <numerusform>in %n months</numerusform>
+            <numerusform>في %n شهر</numerusform>
+            <numerusform>في %n شهور</numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message id="sailfishsilica-months" numerus="yes">
@@ -598,8 +658,12 @@
         <source>%n month(s) ago</source>
         <extracomment>Number of months in the past</extracomment>
         <translation>
-            <numerusform>%n month ago</numerusform>
-            <numerusform>%n months ago</numerusform>
+            <numerusform>قبل %n شهر</numerusform>
+            <numerusform>قبل %n شهور</numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message id="sailfishsilica-duration_short_format">
@@ -656,6 +720,10 @@
         <translation>
             <numerusform>%n B</numerusform>
             <numerusform>%n B</numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message id="sailfishsilica-kilobytes">
