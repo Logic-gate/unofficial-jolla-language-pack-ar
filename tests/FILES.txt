@@ -6,3 +6,5 @@
 /usr/share/jolla-settings/pages/jolla-clock/clock.qml:33
 /usr/share/jolla-settings/pages/jolla-camera/SettingsPage.qml:68
 /usr/share/jolla-settings/pages/jolla-contacts/contactssettings.qml:23
+/usr/share/jolla-email/pages/MessageListView.qml:14
+/usr/lib/qt5/qml/com/jolla/email/EmailComposer.qml:19
