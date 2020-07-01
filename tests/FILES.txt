@@ -1,3 +1,8 @@
 /usr/share/jolla-calendar/pages/EventEditPage.qml:146
 /usr/share/jolla-calendar/pages/EventViewPage.qml:11
 /usr/share/jolla-clock/pages/ClockEditDialog.qml:120
+/usr/lib/qt5/qml/com/jolla/gallery/ambience/AmbienceSettingsView.qml:429
+/usr/share/jolla-settings/pages/jolla-email/email.qml:24
+/usr/share/jolla-settings/pages/jolla-clock/clock.qml:33
+/usr/share/jolla-settings/pages/jolla-camera/SettingsPage.qml:68
+/usr/share/jolla-settings/pages/jolla-contacts/contactssettings.qml:23
