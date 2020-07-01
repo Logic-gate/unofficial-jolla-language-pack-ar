@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="ar">
+<TS version="2.1" language="ar_SA">
 <context>
     <name></name>
     <message id="transferui-he-share_heading">
@@ -196,7 +196,7 @@
     <message id="settings_transferui-transferui">
         <location filename="../settings/LayoutTranslations.qml" line="7"/>
         <source>Transfers</source>
-        <translation>عمليات النقل</translation>
+        <translation>النقل</translation>
     </message>
 </context>
 </TS>

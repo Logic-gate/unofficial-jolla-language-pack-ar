@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="ar">
+<TS version="2.1" language="ar_SA">
 <context>
     <name></name>
     <message id="qtn_msg_notifications_group">
         <location filename="../src/locstrings.h" line="50"/>
         <source>Messages</source>
-        <translation>الرسائل</translation>
+        <translation type="unfinished">رسائل</translation>
     </message>
     <message id="qtn_msg_errors_group">
         <location filename="../src/locstrings.h" line="52"/>

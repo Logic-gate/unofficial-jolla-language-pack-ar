@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="ar">
+<TS version="2.1" language="ar_SA">
 <context>
     <name></name>
     <message id="settings-me-remove_from_favorites">
@@ -80,13 +80,13 @@
     <message id="settings-applications">
         <location filename="../src/dummytranslations/translations.qml" line="9"/>
         <source>Applications</source>
-        <translation>تطبيق</translation>
+        <translation>التطبيقات</translation>
     </message>
     <message id="settings-he-applications">
         <location filename="../src/pages/ApplicationsGrid.qml" line="48"/>
         <location filename="../src/pages/ApplicationsPage.qml" line="20"/>
         <source>Applications</source>
-        <translation>تطبيق</translation>
+        <translation>التطبيقات</translation>
     </message>
     <message id="settings-la-super_app">
         <location filename="../src/pages/ApplicationsPage.qml" line="85"/>

@@ -1,1327 +1,1399 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="en_GB">
+<TS version="2.1" language="ar_SA">
 <context>
     <name></name>
     <message id="jolla-email-la-download-attachments-header" numerus="yes">
-        <location filename="../components/AttachmentDownloadPage.qml" line="45"></location>
+        <location filename="../components/AttachmentDownloadPage.qml" line="45"/>
         <source>Download attachment?</source>
-        <extracomment>When singular "Download attachment?" when plural "Download attachments?"</extracomment>
-        <translation><numerusform>Download attachment?</numerusform>
-        <numerusform>Download attachments?</numerusform>
-        </translation></message>
+        <extracomment>When singular &quot;Download attachment?&quot; when plural &quot;Download attachments?&quot;</extracomment>
+        <translation>
+            <numerusform>تنزيل المرفق؟</numerusform>
+            <numerusform>تنزيل المرفقات؟</numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
     <message id="jolla-email-la-forward-attachments-info" numerus="yes">
-        <location filename="../components/AttachmentDownloadPage.qml" line="57"></location>
+        <location filename="../components/AttachmentDownloadPage.qml" line="57"/>
         <source>The attachment you are forwarding has not been downloaded yet.</source>
-        <extracomment>When singular "The attachment you are forwarding has not been downloaded yet", plural "Some of the attachments you are forwarding have not been downloaded yet"</extracomment>
-        <translation><numerusform>The attachment from the email you are forwarding has not been downloaded yet</numerusform>
-        <numerusform>Some of the attachments from the email you are forwarding have not been downloaded yet</numerusform>
-        </translation></message>
+        <extracomment>When singular &quot;The attachment you are forwarding has not been downloaded yet&quot;, plural &quot;Some of the attachments you are forwarding have not been downloaded yet&quot;</extracomment>
+        <translation>
+            <numerusform>مرفق البريد الذي سيتم توجيهه لم يتم تحميله</numerusform>
+            <numerusform>بعض مرفقات البريد الذي سيتم توجيهه لم يتم تحميلها</numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
     <message id="jolla-email-la-download_attachments_forward">
-        <location filename="../components/AttachmentDownloadPage.qml" line="73"></location>
+        <location filename="../components/AttachmentDownloadPage.qml" line="73"/>
         <source>Download</source>
         <extracomment>Download attachments button</extracomment>
-        <translation>Download</translation>
+        <translation>تنزيل</translation>
     </message>
     <message id="jolla-email-la-discard_not_downloaded_attachments">
-        <location filename="../components/AttachmentDownloadPage.qml" line="84"></location>
+        <location filename="../components/AttachmentDownloadPage.qml" line="84"/>
         <source>Discard</source>
         <extracomment>Discard not downloaded attachments button</extracomment>
-        <translation>Discard</translation>
+        <translation>تجاهل</translation>
     </message>
     <message id="jolla-email-la-downloading-attachments" numerus="yes">
-        <location filename="../components/AttachmentDownloadPage.qml" line="97"></location>
+        <location filename="../components/AttachmentDownloadPage.qml" line="97"/>
         <source>Downloading attachment...</source>
-        <extracomment>When singular "Downloading attachment", when plural "Downloading attachments"</extracomment>
-        <translation><numerusform>Downloading attachment...</numerusform>
-        <numerusform>Downloading attachments...</numerusform>
-        </translation></message>
+        <extracomment>When singular &quot;Downloading attachment&quot;, when plural &quot;Downloading attachments&quot;</extracomment>
+        <translation>
+            <numerusform>جار تنزيل المرفق...</numerusform>
+            <numerusform>جار تنزيل المرفقات...</numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
     <message id="jolla-email-la-attachments-download-failed-info" numerus="yes">
-        <location filename="../components/AttachmentDownloadPage.qml" line="113"></location>
+        <location filename="../components/AttachmentDownloadPage.qml" line="113"/>
         <source>The attachment could not be downloaded, please check your internet connection.</source>
-        <extracomment>When singular "The attachment could not be downloaded, please check your internet connection.", when plural "Some attachments could not be downloaded, please check your internet connection."</extracomment>
-        <translation><numerusform>The attachment could not be downloaded. Check your internet connection.</numerusform>
-        <numerusform>Some attachments could not be downloaded. Check your internet connection.</numerusform>
-        </translation></message>
+        <extracomment>When singular &quot;The attachment could not be downloaded, please check your internet connection.&quot;, when plural &quot;Some attachments could not be downloaded, please check your internet connection.&quot;</extracomment>
+        <translation>
+            <numerusform>تعذر تنزيل المرفق. تحقق من سلامة اتصالك بالإنترنت.</numerusform>
+            <numerusform>تعذر تنزيل بعض المرفقات. تحقق من سلامة اتصالك بالإنترنت.</numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
     <message id="jolla-email-la-download-attachments_try_again">
-        <location filename="../components/AttachmentDownloadPage.qml" line="116"></location>
+        <location filename="../components/AttachmentDownloadPage.qml" line="116"/>
         <source>Try again</source>
         <extracomment>Try again button</extracomment>
-        <translation>Try again</translation>
+        <translation>المحاولة مجدداً</translation>
     </message>
     <message id="jolla-email-me-add_new_attachment">
-        <location filename="../components/AttachmentsPage.qml" line="28"></location>
+        <location filename="../components/AttachmentsPage.qml" line="28"/>
         <source>Add new attachment</source>
-        <translation>Add attachment</translation>
+        <translation>إضافة مرفق</translation>
     </message>
     <message id="jolla-email-me-remove_all_attachments" numerus="yes">
-        <location filename="../components/AttachmentsPage.qml" line="34"></location>
-        <location filename="../components/AttachmentsPage.qml" line="120"></location>
-        <location filename="../components/EmailComposer.qml" line="759"></location>
+        <location filename="../components/AttachmentsPage.qml" line="34"/>
+        <location filename="../components/AttachmentsPage.qml" line="120"/>
+        <location filename="../components/EmailComposer.qml" line="759"/>
         <source>Remove attachment</source>
-        <extracomment>When plural "Remove all attachments" and singular "Remove attachment".</extracomment>
-        <translation><numerusform>Remove attachment</numerusform>
-        <numerusform>Remove all attachments</numerusform>
-        </translation></message>
+        <extracomment>When plural &quot;Remove all attachments&quot; and singular &quot;Remove attachment&quot;.</extracomment>
+        <translation>
+            <numerusform>إزالة مرفق</numerusform>
+            <numerusform>إزالة مرفقات</numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
     <message id="jolla-email-he-no_attachments">
-        <location filename="../components/AttachmentsPage.qml" line="42"></location>
+        <location filename="../components/AttachmentsPage.qml" line="42"/>
         <source>No Attachments</source>
-        <translation>Emails without attachments</translation>
+        <translation>بريد بدون مرفقات</translation>
     </message>
     <message id="jolla-email-he-attachments_page" numerus="yes">
-        <location filename="../components/AttachmentsPage.qml" line="45"></location>
+        <location filename="../components/AttachmentsPage.qml" line="45"/>
         <source>%n Attachments</source>
         <extracomment>Singular: 1 attachment (or one as text), plural: X Attachments (X the number)</extracomment>
-        <translation><numerusform>%n attachment</numerusform>
-        <numerusform>%n attachments</numerusform>
-        </translation></message>
+        <translation>
+            <numerusform>%n مرفق</numerusform>
+            <numerusform>%n مرفقات</numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
     <message id="email-la_no_attachments_viewplace_text">
-        <location filename="../components/AttachmentsPage.qml" line="133"></location>
+        <location filename="../components/AttachmentsPage.qml" line="133"/>
         <source>Pull down to add attachments</source>
-        <translation>Pull down to add attachments</translation>
+        <translation>إسحب للإسفل لإضافة مرفقات</translation>
     </message>
     <message id="jolla-components_email-me-discard_draft">
-        <location filename="../components/EmailComposer.qml" line="62"></location>
+        <location filename="../components/EmailComposer.qml" line="62"/>
         <source>Discard draft</source>
         <extracomment>Discard draft message</extracomment>
-        <translation>Discard draft</translation>
+        <translation>تجاهل المسودة</translation>
     </message>
     <message id="jolla-components_email-me-save_draft">
-        <location filename="../components/EmailComposer.qml" line="65"></location>
+        <location filename="../components/EmailComposer.qml" line="65"/>
         <source>Save draft</source>
         <extracomment>Save draft message</extracomment>
-        <translation>Save as draft</translation>
+        <translation>حفظ المسودة</translation>
     </message>
     <message id="jolla-components_email-me-send">
-        <location filename="../components/EmailComposer.qml" line="68"></location>
+        <location filename="../components/EmailComposer.qml" line="68"/>
         <source>Send</source>
         <extracomment>Send message</extracomment>
-        <translation>Send</translation>
+        <translation>إرسال</translation>
     </message>
     <message id="jolla-components_email-la-original_message">
-        <location filename="../components/EmailComposer.qml" line="337"></location>
+        <location filename="../components/EmailComposer.qml" line="337"/>
         <source>--- Original message ---</source>
         <extracomment>Indicator of original message content</extracomment>
-        <translation>--- Original message ---</translation>
+        <translation>--- الرسالة الأصلية ---</translation>
     </message>
     <message id="jolla-components_email-la-reply_message_origin">
-        <location filename="../components/EmailComposer.qml" line="347"></location>
+        <location filename="../components/EmailComposer.qml" line="347"/>
         <source>On %1, %2 wrote:</source>
         <extracomment>Indicator of reply message origin (%1:timestamp %2:mailSender)</extracomment>
-        <translation>On %1, %2 wrote:</translation>
+        <translation>في %1, %2 كَتَبَ:</translation>
     </message>
     <message id="email-me-discarding_draft">
-        <location filename="../components/EmailComposer.qml" line="408"></location>
-        <location filename="../components/EmailComposer.qml" line="448"></location>
+        <location filename="../components/EmailComposer.qml" line="408"/>
+        <location filename="../components/EmailComposer.qml" line="448"/>
         <source>Discarding draft</source>
-        <translation>Discarding draft</translation>
+        <translation>تجاهل للمسودة</translation>
     </message>
     <message id="jolla-email-me-add_account">
-        <location filename="../components/EmailComposer.qml" line="421"></location>
-        <location filename="../pages/NoAccountsPage.qml" line="19"></location>
+        <location filename="../components/EmailComposer.qml" line="421"/>
+        <location filename="../pages/NoAccountsPage.qml" line="19"/>
         <source>Add account</source>
         <extracomment>Add account menu item</extracomment>
-        <translation>Add account</translation>
+        <translation>إضافة حساب</translation>
     </message>
     <message id="jolla-email-he-new_mail">
-        <location filename="../components/EmailComposer.qml" line="465"></location>
+        <location filename="../components/EmailComposer.qml" line="465"/>
         <source>New mail</source>
         <extracomment>New mail page title</extracomment>
-        <translation>New email</translation>
+        <translation>بريد جديد</translation>
     </message>
     <message id="jolla-components_email-la-to">
-        <location filename="../components/EmailComposer.qml" line="491"></location>
+        <location filename="../components/EmailComposer.qml" line="491"/>
         <source>To</source>
-        <extracomment>'To' recipient label</extracomment>
-        <translation>To</translation>
+        <extracomment>&apos;To&apos; recipient label</extracomment>
+        <translation>إلى</translation>
     </message>
     <message id="jolla-components_email-la-cc">
-        <location filename="../components/EmailComposer.qml" line="513"></location>
+        <location filename="../components/EmailComposer.qml" line="513"/>
         <source>Cc</source>
-        <extracomment>'CC' recipient label</extracomment>
-        <translation>Cc</translation>
+        <extracomment>&apos;CC&apos; recipient label</extracomment>
+        <translation>نسخة</translation>
     </message>
     <message id="jolla-components_email-la-bcc">
-        <location filename="../components/EmailComposer.qml" line="533"></location>
+        <location filename="../components/EmailComposer.qml" line="533"/>
         <source>Bcc</source>
-        <extracomment>'BCC' recipient label</extracomment>
-        <translation>Bcc</translation>
+        <extracomment>&apos;BCC&apos; recipient label</extracomment>
+        <translation>نسخة مخفية</translation>
     </message>
     <message id="jolla-components_email-la-from">
-        <location filename="../components/EmailComposer.qml" line="558"></location>
+        <location filename="../components/EmailComposer.qml" line="558"/>
         <source>From:</source>
         <extracomment>From label</extracomment>
-        <translation>From</translation>
+        <translation>من:</translation>
     </message>
     <message id="jolla-email-la-priority_Normal">
-        <location filename="../components/EmailComposer.qml" line="610"></location>
-        <location filename="../pages/MessageInfo.qml" line="151"></location>
+        <location filename="../components/EmailComposer.qml" line="610"/>
+        <location filename="../pages/MessageInfo.qml" line="151"/>
         <source>Normal</source>
         <extracomment>Normal priority
 ----------
 Message priority normal</extracomment>
-        <translation>Normal</translation>
+        <translation>عادي</translation>
     </message>
     <message id="jolla-email-la-priority_high">
-        <location filename="../components/EmailComposer.qml" line="615"></location>
-        <location filename="../pages/MessageInfo.qml" line="143"></location>
+        <location filename="../components/EmailComposer.qml" line="615"/>
+        <location filename="../pages/MessageInfo.qml" line="143"/>
         <source>High</source>
         <extracomment>High priority
 ----------
 Message priority high</extracomment>
-        <translation>High</translation>
+        <translation>مهم</translation>
     </message>
     <message id="jolla-email-la-priority_low">
-        <location filename="../components/EmailComposer.qml" line="620"></location>
-        <location filename="../pages/MessageInfo.qml" line="147"></location>
+        <location filename="../components/EmailComposer.qml" line="620"/>
+        <location filename="../pages/MessageInfo.qml" line="147"/>
         <source>Low</source>
         <extracomment>Low priority
 ----------
 Message priority low</extracomment>
-        <translation>Low</translation>
+        <translation>ثانوي</translation>
     </message>
     <message id="jolla-components_email-la-importance">
-        <location filename="../components/EmailComposer.qml" line="626"></location>
+        <location filename="../components/EmailComposer.qml" line="626"/>
         <source>Importance:</source>
         <extracomment>Importance label</extracomment>
-        <translation>Importance</translation>
+        <translation>الأهمية:</translation>
     </message>
     <message id="jolla-email-la-request_read_receipt">
-        <location filename="../components/EmailComposer.qml" line="653"></location>
+        <location filename="../components/EmailComposer.qml" line="653"/>
         <source>Request read receipt</source>
         <extracomment>Enables read receipt request</extracomment>
-        <translation>Request read receipt</translation>
+        <translation>طلب إيضال للقراءة</translation>
     </message>
     <message id="jolla-components_email-ph-attachments">
-        <location filename="../components/EmailComposer.qml" line="697"></location>
+        <location filename="../components/EmailComposer.qml" line="697"/>
         <source>Add attachment</source>
         <extracomment>Attachments selector</extracomment>
-        <translation>Add attachment</translation>
+        <translation>إضافة مرفق</translation>
     </message>
     <message id="jolla-components_email-la-attachments_size_exceed_max">
-        <location filename="../components/EmailComposer.qml" line="734"></location>
+        <location filename="../components/EmailComposer.qml" line="734"/>
         <source>Email cannot be sent! Total file size exceeds %1.</source>
-        <translation>Email cannot be sent. Total file size exceeds %1.</translation>
+        <translation>لا يمكن إرسال البريد.  %1 يتجاوز الحد المسموح للملفات.</translation>
     </message>
     <message id="jolla-components_email-la-attachments_size_exceed_warning">
-        <location filename="../components/EmailComposer.qml" line="737"></location>
+        <location filename="../components/EmailComposer.qml" line="737"/>
         <source>Total file size exceeds %1. Consider removing some attachments.</source>
-        <translation>Total file size exceeds %1. Remove some attachments.</translation>
+        <translation>يتجاوز إجمالي حجم الملف %1. قم بإزالة بعض المرفقات.</translation>
     </message>
     <message id="jolla-components_email-la-subject">
-        <location filename="../components/EmailComposer.qml" line="775"></location>
+        <location filename="../components/EmailComposer.qml" line="775"/>
         <source>Subject</source>
         <extracomment>Subject label</extracomment>
-        <translation>Subject</translation>
+        <translation>الموضوع</translation>
     </message>
     <message id="jolla-components_email-ph-body">
-        <location filename="../components/EmailComposer.qml" line="815"></location>
+        <location filename="../components/EmailComposer.qml" line="815"/>
         <source>Write message...</source>
-        <translation>Write message...</translation>
+        <translation>خُط رسالتك...</translation>
     </message>
     <message id="jolla-components_email-ph-reply">
-        <location filename="../components/EmailComposer.qml" line="818"></location>
+        <location filename="../components/EmailComposer.qml" line="818"/>
         <source>Write reply...</source>
         <extracomment>Reply text placeholder</extracomment>
-        <translation>Write reply...</translation>
+        <translation>خُط ردك...</translation>
     </message>
     <message id="jolla-components_email-he-attach-files">
-        <location filename="../components/EmailComposer.qml" line="843"></location>
+        <location filename="../components/EmailComposer.qml" line="843"/>
         <source>Attach files</source>
-        <translation>Attach files</translation>
+        <translation>إرفاق الملفات</translation>
     </message>
     <message id="jolla-components_email-la-attchements_summary" numerus="yes">
-        <location filename="../components/EmailComposer.qml" line="866"></location>
+        <location filename="../components/EmailComposer.qml" line="866"/>
         <source>%n other(s)</source>
         <extracomment>Number of additional attachments that are not currently shown</extracomment>
-        <translation><numerusform>%n other</numerusform>
-        <numerusform>%n others</numerusform>
-        </translation></message>
+        <translation>
+            <numerusform>%n أخرى</numerusform>
+            <numerusform>%n أُخر</numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
     <message id="jolla-components_email-la-attchements" numerus="yes">
-        <location filename="../components/EmailComposer.qml" line="880"></location>
+        <location filename="../components/EmailComposer.qml" line="880"/>
         <source>%n attachment(s)</source>
         <extracomment>Number of attachments, should have singular and plurar formats. Text should be relatively short (max 24 chars).</extracomment>
-        <translation><numerusform>%n attachment</numerusform>
-        <numerusform>%n attachments</numerusform>
-        </translation></message>
+        <translation>
+            <numerusform>%n مرفق</numerusform>
+            <numerusform>%n مرفقات</numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
     <message id="email-la_no_accounts">
-        <location filename="../components/NoAccountsPlaceholder.qml" line="13"></location>
+        <location filename="../components/NoAccountsPlaceholder.qml" line="13"/>
         <source>No accounts</source>
         <extracomment>No accounts empty state</extracomment>
-        <translation>No accounts</translation>
+        <translation>لا توجد حسابات</translation>
     </message>
     <message id="email-la_no_accounts_hint_text">
-        <location filename="../components/NoAccountsPlaceholder.qml" line="16"></location>
+        <location filename="../components/NoAccountsPlaceholder.qml" line="16"/>
         <source>Pull down to add an account</source>
         <extracomment>Pull down to add account hint text</extracomment>
-        <translation>Email account is not set yet. Pull down to add an account.</translation>
+        <translation>لم يتم تعيين حساب البريد الإلكتروني بعد. إسحب للأسفل لإضافة حساب.</translation>
     </message>
     <message id="jolla-email-la-sign_email">
-        <location filename="../components/SignatureSwitch.qml" line="17"></location>
+        <location filename="../components/SignatureSwitch.qml" line="17"/>
         <source>Sign email</source>
         <extracomment>Numerically sign email</extracomment>
-        <translation>Sign email</translation>
+        <translation>توقيع البريد</translation>
     </message>
     <message id="jolla-email-la-crypto_signature_failure">
-        <location filename="../components/SignatureSwitch.qml" line="21"></location>
+        <location filename="../components/SignatureSwitch.qml" line="21"/>
         <source>Signature failed</source>
-        <translation>Could not sign</translation>
+        <translation>لم يتم التوقيع</translation>
     </message>
     <message id="jolla-email-la-crypto_signature_pgp">
-        <location filename="../components/SignatureSwitch.qml" line="27"></location>
+        <location filename="../components/SignatureSwitch.qml" line="27"/>
         <source>PGP</source>
         <translation>PGP</translation>
     </message>
     <message id="jolla-email-la-crypto_signature_smime">
-        <location filename="../components/SignatureSwitch.qml" line="30"></location>
+        <location filename="../components/SignatureSwitch.qml" line="30"/>
         <source>S/MIME</source>
         <translation>S/MIME</translation>
     </message>
     <message id="jolla-email-la-crypto_signature_unknown">
-        <location filename="../components/SignatureSwitch.qml" line="33"></location>
+        <location filename="../components/SignatureSwitch.qml" line="33"/>
         <source>Unknown type</source>
-        <translation>Unknown type</translation>
+        <translation>نوع مجهول</translation>
     </message>
     <message id="email-la-create_account">
-        <location filename="../cover/EmailCover.qml" line="26"></location>
+        <location filename="../cover/EmailCover.qml" line="26"/>
         <source>Create account</source>
-        <translation>Create account</translation>
+        <translation>إنشاء حساب</translation>
     </message>
     <message id="jolla-email-la-to_cover">
-        <location filename="../cover/MailEditorCover.qml" line="19"></location>
+        <location filename="../cover/MailEditorCover.qml" line="19"/>
         <source>To: %1</source>
-        <extracomment>'To: ' recipient cover label</extracomment>
-        <translation>To: %1</translation>
+        <extracomment>&apos;To: &apos; recipient cover label</extracomment>
+        <translation>إلى: %1</translation>
     </message>
     <message id="jolla-email-la-unread-emails" numerus="yes">
-        <location filename="../cover/MainViewCover.qml" line="32"></location>
+        <location filename="../cover/MainViewCover.qml" line="32"/>
         <source>Unread&lt;br/&gt;email(s)</source>
-        <extracomment>Unread label. Code requires exact line break tag "&lt;br/&gt;".</extracomment>
-        <translation><numerusform>Unread&lt;br/&gt;email</numerusform>
-        <numerusform>Unread&lt;br/&gt;emails</numerusform>
-        </translation></message>
+        <extracomment>Unread label. Code requires exact line break tag &quot;&lt;br/&gt;&quot;.</extracomment>
+        <translation>
+            <numerusform>رسالة &lt;br/&gt; غير مقروءة.</numerusform>
+            <numerusform>رسائل &lt;br/&gt; غير مقروءة.</numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
     <message id="jolla-email-la-updating">
-        <location filename="../cover/MainViewCover.qml" line="60"></location>
+        <location filename="../cover/MainViewCover.qml" line="60"/>
         <source>Updating...</source>
         <extracomment>Updating label</extracomment>
-        <translation>Updating...</translation>
+        <translation>جار التحديث...</translation>
     </message>
     <message id="email-la_up_to_date">
-        <location filename="../email.qml" line="35"></location>
-        <location filename="../pages/AccountList.qml" line="111"></location>
-        <location filename="../pages/utils.js" line="42"></location>
+        <location filename="../email.qml" line="35"/>
+        <location filename="../pages/AccountList.qml" line="111"/>
+        <location filename="../pages/utils.js" line="42"/>
         <source>Up to date</source>
-        <extracomment>'Up to date label'</extracomment>
-        <translation>Up-to-date</translation>
+        <extracomment>&apos;Up to date label&apos;</extracomment>
+        <translation>متزامن</translation>
     </message>
     <message id="jolla-email-la-response_failed_body_accept">
-        <location filename="../email.qml" line="248"></location>
+        <location filename="../email.qml" line="248"/>
         <source>Failed to accept invitation</source>
         <extracomment>Failed to send invitation response (accept)</extracomment>
-        <translation>Could not accept invitation</translation>
+        <translation>فشل قبول الدعوة</translation>
     </message>
     <message id="jolla-email-la-response_failed_body_tentative">
-        <location filename="../email.qml" line="253"></location>
+        <location filename="../email.qml" line="253"/>
         <source>Failed to tentatively accept invitation</source>
         <extracomment>Failed to send invitation response (tentative)</extracomment>
-        <translation>Could not tentatively accept invitation</translation>
+        <translation>تعذر قبول الدعوة مبدئيًا</translation>
     </message>
     <message id="jolla-email-la-response_failed_body_decline">
-        <location filename="../email.qml" line="258"></location>
+        <location filename="../email.qml" line="258"/>
         <source>Failed to decline invitation</source>
         <extracomment>Failed to send invitation response (decline)</extracomment>
-        <translation>Could not decline invitation</translation>
+        <translation>فشل رفض الدعوة</translation>
     </message>
     <message id="jolla-email-la-fa_failed_body_create">
-        <location filename="../email.qml" line="273"></location>
+        <location filename="../email.qml" line="273"/>
         <source>Folder creation failed</source>
-        <translation>Could not create folder</translation>
+        <translation>تعذر إنشاء المجلد</translation>
     </message>
     <message id="jolla-email-la-fa_failed_body_delete">
-        <location filename="../email.qml" line="277"></location>
+        <location filename="../email.qml" line="277"/>
         <source>Folder deletion failed</source>
-        <translation>Could not delete folder</translation>
+        <translation>تعذر حذف المجلد</translation>
     </message>
     <message id="jolla-email-la-fa_failed_body_rename">
-        <location filename="../email.qml" line="281"></location>
+        <location filename="../email.qml" line="281"/>
         <source>Folder rename failed</source>
-        <translation>Could not rename folder</translation>
+        <translation>تعذرت إعادة تسمية المجلد</translation>
     </message>
     <message id="jolla-email-la-fa_failed_body_move">
-        <location filename="../email.qml" line="285"></location>
+        <location filename="../email.qml" line="285"/>
         <source>Folder move failed</source>
-        <translation>Could not move folder</translation>
+        <translation>تعذر نقل المجلد</translation>
     </message>
     <message id="jolla-email-me-sync">
-        <location filename="../pages/AccountList.qml" line="35"></location>
-        <location filename="../pages/MessageListView.qml" line="255"></location>
+        <location filename="../pages/AccountList.qml" line="35"/>
+        <location filename="../pages/MessageListView.qml" line="255"/>
         <source>Sync</source>
         <extracomment>Update account
 ----------
 Synchronise account menu item</extracomment>
-        <translation>Update</translation>
+        <translation>تحديث</translation>
     </message>
     <message id="jolla-email-la-updating_account">
-        <location filename="../pages/AccountList.qml" line="107"></location>
+        <location filename="../pages/AccountList.qml" line="107"/>
         <source>Updating account...</source>
         <extracomment>Updating account label</extracomment>
-        <translation>Updating account...</translation>
+        <translation>جار تحديث الحساب...</translation>
     </message>
     <message id="jolla-email-la-forwarded_email">
-        <location filename="../pages/AttachmentDelegate.qml" line="107"></location>
+        <location filename="../pages/AttachmentDelegate.qml" line="107"/>
         <source>Forwarded email</source>
         <extracomment>Attached email with unknown title =&gt; use placeholder name</extracomment>
-        <translation>Forwarded email</translation>
+        <translation>بريد معاد توجيهه</translation>
     </message>
     <message id="jolla-email-la-attachment_not_downloaded">
-        <location filename="../pages/AttachmentDelegate.qml" line="144"></location>
+        <location filename="../pages/AttachmentDelegate.qml" line="144"/>
         <source>Not Downloaded</source>
         <extracomment>Attachment download state - Not Downloaded</extracomment>
-        <translation>Not downloaded</translation>
+        <translation>لم يحمل</translation>
     </message>
     <message id="jolla-email-la-attachment_queued">
-        <location filename="../pages/AttachmentDelegate.qml" line="148"></location>
+        <location filename="../pages/AttachmentDelegate.qml" line="148"/>
         <source>Queued</source>
         <extracomment>Attachment download state - Queued</extracomment>
-        <translation>Queued</translation>
+        <translation>في قائمة الانتظار</translation>
     </message>
     <message id="jolla-email-la-attachment_downloaded">
-        <location filename="../pages/AttachmentDelegate.qml" line="152"></location>
+        <location filename="../pages/AttachmentDelegate.qml" line="152"/>
         <source>Downloaded</source>
         <extracomment>Attachment download state - Downloaded</extracomment>
-        <translation>Downloaded</translation>
+        <translation>تم التنزيل</translation>
     </message>
     <message id="jolla-email-la-attachment_failed">
-        <location filename="../pages/AttachmentDelegate.qml" line="156"></location>
+        <location filename="../pages/AttachmentDelegate.qml" line="156"/>
         <source>Failed</source>
         <extracomment>Attachment download state - Failed</extracomment>
-        <translation>Failed</translation>
+        <translation>فشل</translation>
     </message>
     <message id="jolla-email-la-attachment_failed_save">
-        <location filename="../pages/AttachmentDelegate.qml" line="160"></location>
+        <location filename="../pages/AttachmentDelegate.qml" line="160"/>
         <source>Failed to save file</source>
         <extracomment>Attachment download state - Failed to save file</extracomment>
-        <translation>Failed to save file</translation>
+        <translation>فشل حفظ الملف</translation>
     </message>
     <message id="jolla-email-la-attachment_download_canceled">
-        <location filename="../pages/AttachmentDelegate.qml" line="164"></location>
+        <location filename="../pages/AttachmentDelegate.qml" line="164"/>
         <source>Canceled</source>
         <extracomment>Attachment download state - Download canceled</extracomment>
-        <translation>Cancelled</translation>
+        <translation>تم الإلغاء</translation>
     </message>
     <message id="jolla-email-he-attachments_list_page">
-        <location filename="../pages/AttachmentListPage.qml" line="22"></location>
+        <location filename="../pages/AttachmentListPage.qml" line="22"/>
         <source>Attachments</source>
-        <translation>Attachments</translation>
+        <translation>مرفقات</translation>
     </message>
     <message id="jolla-email-la-attachments_summary" numerus="yes">
-        <location filename="../pages/AttachmentRow.qml" line="59"></location>
+        <location filename="../pages/AttachmentRow.qml" line="59"/>
         <source>%n attachments</source>
         <extracomment>Number of email attachments (only used when number of attachments greater than 2)</extracomment>
-        <translation><numerusform>%n attachment</numerusform>
-        <numerusform>%n attachments</numerusform>
-        </translation></message>
+        <translation>
+            <numerusform>%n مرفق</numerusform>
+            <numerusform>%n مرفقات</numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
     <message id="jolla-email-la-calendar_invitation">
-        <location filename="../pages/CalendarDelegate.qml" line="86"></location>
+        <location filename="../pages/CalendarDelegate.qml" line="86"/>
         <source>Calendar invitation</source>
         <extracomment>Calendar invitation label</extracomment>
-        <translation>Calendar invitation</translation>
+        <translation>دعوة التقويم</translation>
     </message>
     <message id="jolla-email-la-calendar_invitation_not_downloaded">
-        <location filename="../pages/CalendarDelegate.qml" line="118"></location>
+        <location filename="../pages/CalendarDelegate.qml" line="118"/>
         <source>Not Downloaded</source>
         <extracomment>Calendar invitation download state - Not Downloaded</extracomment>
-        <translation>Not downloaded</translation>
+        <translation>لم يتم التحميل</translation>
     </message>
     <message id="jolla-email-la-calendar_invitation_downloaded">
-        <location filename="../pages/CalendarDelegate.qml" line="122"></location>
+        <location filename="../pages/CalendarDelegate.qml" line="122"/>
         <source>Downloaded</source>
         <extracomment>Calendar invitation download state - Downloaded</extracomment>
-        <translation>Downloaded</translation>
+        <translation>تم التنزيل</translation>
     </message>
     <message id="jolla-email-la-calendar_invitation_downloading">
-        <location filename="../pages/CalendarDelegate.qml" line="126"></location>
+        <location filename="../pages/CalendarDelegate.qml" line="126"/>
         <source>Downloading</source>
         <extracomment>Calendar invitation download state - Downloading</extracomment>
-        <translation>Downloading</translation>
+        <translation>جار التحميل</translation>
     </message>
     <message id="jolla-email-la-calendar_invitation_failed">
-        <location filename="../pages/CalendarDelegate.qml" line="130"></location>
+        <location filename="../pages/CalendarDelegate.qml" line="130"/>
         <source>Failed</source>
         <extracomment>Calendar invitation download state - Failed</extracomment>
-        <translation>Failed</translation>
+        <translation>فشل</translation>
     </message>
     <message id="jolla-email-la-calendar_invitation_failed_save">
-        <location filename="../pages/CalendarDelegate.qml" line="134"></location>
+        <location filename="../pages/CalendarDelegate.qml" line="134"/>
         <source>Failed to save file</source>
         <extracomment>Calendar invitation - Failed to save file</extracomment>
-        <translation>Unable to save file</translation>
+        <translation>فشل حفظ الملف</translation>
     </message>
     <message id="jolla-email-me-deleting-mail">
-        <location filename="../pages/CombinedInbox.qml" line="43"></location>
+        <location filename="../pages/CombinedInbox.qml" line="43"/>
         <source>Deleting mail</source>
-        <translation>Deleting email</translation>
+        <translation>حذف رسالة البريد</translation>
     </message>
     <message id="jolla-email-me-select_messages">
-        <location filename="../pages/CombinedInbox.qml" line="63"></location>
-        <location filename="../pages/MessageListView.qml" line="228"></location>
+        <location filename="../pages/CombinedInbox.qml" line="63"/>
+        <location filename="../pages/MessageListView.qml" line="228"/>
         <source>Select messages</source>
-        <translation>Select emails</translation>
+        <translation>حدد رسائل البريد</translation>
     </message>
     <message id="jolla-email-me-sync_all">
-        <location filename="../pages/CombinedInbox.qml" line="76"></location>
+        <location filename="../pages/CombinedInbox.qml" line="76"/>
         <source>Synchronize all</source>
         <extracomment>Synchronize inbox of all enabled accounts</extracomment>
-        <translation>Update all</translation>
+        <translation>تحديث الجميع</translation>
     </message>
     <message id="jolla-email-me-new_message">
-        <location filename="../pages/CombinedInbox.qml" line="85"></location>
-        <location filename="../pages/MessageListView.qml" line="270"></location>
+        <location filename="../pages/CombinedInbox.qml" line="85"/>
+        <location filename="../pages/MessageListView.qml" line="270"/>
         <source>New Message</source>
         <extracomment>New message menu item</extracomment>
-        <translation>New email</translation>
+        <translation>رسالة بريد جديدة</translation>
     </message>
     <message id="email-he-email">
-        <location filename="../pages/CombinedInbox.qml" line="98"></location>
-        <location filename="../pages/NoAccountsPage.qml" line="29"></location>
+        <location filename="../pages/CombinedInbox.qml" line="98"/>
+        <location filename="../pages/NoAccountsPage.qml" line="29"/>
         <source>Mail</source>
         <extracomment>Email page header</extracomment>
-        <translation>Email</translation>
+        <translation>البريد الإلكتروني</translation>
     </message>
     <message id="email-la_unread_messages_in_inboxes">
-        <location filename="../pages/CombinedInbox.qml" line="111"></location>
+        <location filename="../pages/CombinedInbox.qml" line="111"/>
         <source>Inboxes (%1)</source>
         <extracomment>Shows overall number of unread messages in the Inboxes of all accounts. Takes number of unread messages as a parameter.</extracomment>
-        <translation>Inboxes (%1)</translation>
+        <translation>البريد الوارد (%1)</translation>
     </message>
     <message id="email-la_no_unread_messages_in_inboxes">
-        <location filename="../pages/CombinedInbox.qml" line="137"></location>
+        <location filename="../pages/CombinedInbox.qml" line="137"/>
         <source>No unread emails in Inboxes</source>
         <extracomment>Empty state string for the combined Inboxes list view. Shown when none of the Inboxes contain unread messages.</extracomment>
-        <translation>No unread emails in Inboxes</translation>
+        <translation>لا توجد رسائل غير مقروءة في البريد الوارد</translation>
     </message>
     <message id="email-la-folder_access_hint">
-        <location filename="../pages/FolderAccessHint.qml" line="35"></location>
+        <location filename="../pages/FolderAccessHint.qml" line="35"/>
         <source>Swipe left to access your Email folders</source>
         <extracomment>Swipe left to access your Email folders</extracomment>
-        <translation>Swipe left to access your Email folders</translation>
+        <translation>اسحب  إلى اليمين للوصول إلى مجلدات البريد الإلكتروني</translation>
     </message>
     <message id="jolla-email-la-none_folder">
-        <location filename="../pages/FolderItem.qml" line="21"></location>
-        <location filename="../pages/FolderListPage.qml" line="131"></location>
+        <location filename="../pages/FolderItem.qml" line="21"/>
+        <location filename="../pages/FolderListPage.qml" line="131"/>
         <source>None</source>
         <extracomment>No parent folder</extracomment>
-        <translation>None</translation>
+        <translation>لا شئ</translation>
     </message>
     <message id="jolla-email-he-folder_list_title">
-        <location filename="../pages/FolderListPage.qml" line="42"></location>
+        <location filename="../pages/FolderListPage.qml" line="42"/>
         <source>Folders</source>
         <extracomment>Folder List page title</extracomment>
-        <translation>Folders</translation>
+        <translation>مجلدات</translation>
     </message>
     <message id="jolla-email-fi-new_subfolder">
-        <location filename="../pages/FolderListPage.qml" line="58"></location>
+        <location filename="../pages/FolderListPage.qml" line="58"/>
         <source>New subfolder</source>
-        <translation>New subfolder</translation>
+        <translation>مجلد فرعي جديد</translation>
     </message>
     <message id="jolla-email-fi-rename_folder">
-        <location filename="../pages/FolderListPage.qml" line="70"></location>
+        <location filename="../pages/FolderListPage.qml" line="70"/>
         <source>Rename</source>
-        <translation>Rename</translation>
+        <translation>إعادة تسمية</translation>
     </message>
     <message id="jolla-email-fi-move_folder">
-        <location filename="../pages/FolderListPage.qml" line="81"></location>
+        <location filename="../pages/FolderListPage.qml" line="81"/>
         <source>Move</source>
-        <translation>Move</translation>
+        <translation>نقل</translation>
     </message>
     <message id="jolla-email-fi-delete_folder">
-        <location filename="../pages/FolderListPage.qml" line="94"></location>
+        <location filename="../pages/FolderListPage.qml" line="94"/>
         <source>Delete</source>
-        <translation>Delete</translation>
+        <translation>حذف</translation>
     </message>
     <message id="jolla-email-folder_list_refresh">
-        <location filename="../pages/FolderListPage.qml" line="119"></location>
+        <location filename="../pages/FolderListPage.qml" line="119"/>
         <source>Refresh folder list</source>
-        <translation>Refresh folder list</translation>
+        <translation>تحديث قائمة المجلدات</translation>
     </message>
     <message id="jolla-email-folder_new">
-        <location filename="../pages/FolderListPage.qml" line="124"></location>
+        <location filename="../pages/FolderListPage.qml" line="124"/>
         <source>New folder</source>
-        <translation>New folder</translation>
+        <translation>ملف جديد</translation>
     </message>
     <message id="jolla-email-la-load_images">
-        <location filename="../pages/LoadImagesItem.qml" line="31"></location>
+        <location filename="../pages/LoadImagesItem.qml" line="31"/>
         <source>Load images</source>
-        <translation>Show images</translation>
+        <translation>عرض الصور</translation>
     </message>
     <message id="jolla-email-he-message_info">
-        <location filename="../pages/MessageInfo.qml" line="48"></location>
+        <location filename="../pages/MessageInfo.qml" line="48"/>
         <source>Message info</source>
         <extracomment>Message info header</extracomment>
-        <translation>Email info</translation>
+        <translation>معلومات البريد الإلكتروني</translation>
     </message>
     <message id="jolla-email-la-cal-when">
-        <location filename="../pages/MessageInfo.qml" line="78"></location>
+        <location filename="../pages/MessageInfo.qml" line="78"/>
         <source>When:</source>
         <extracomment>Start and end time of a meeting</extracomment>
-        <translation>When:</translation>
+        <translation>متى:</translation>
     </message>
     <message id="jolla-email-la-cal-organizer">
-        <location filename="../pages/MessageInfo.qml" line="90"></location>
+        <location filename="../pages/MessageInfo.qml" line="90"/>
         <source>Organizer:</source>
         <extracomment>Meeting invitation organizer address</extracomment>
-        <translation>Organiser:</translation>
+        <translation>المنظم:</translation>
     </message>
     <message id="jolla-email-la-replyTo">
-        <location filename="../pages/MessageInfo.qml" line="98"></location>
+        <location filename="../pages/MessageInfo.qml" line="98"/>
         <source>Reply to:</source>
         <extracomment>Reply to address</extracomment>
-        <translation>Reply to</translation>
+        <translation>الرد على:</translation>
     </message>
     <message id="jolla-email-la-cal-mandatory_info">
-        <location filename="../pages/MessageInfo.qml" line="108"></location>
+        <location filename="../pages/MessageInfo.qml" line="108"/>
         <source>Mandatory:</source>
-        <extracomment>'Mandatory: ' recipients label for calendar invitation</extracomment>
-        <translation>Required:</translation>
+        <extracomment>&apos;Mandatory: &apos; recipients label for calendar invitation</extracomment>
+        <translation>مطلوب:</translation>
     </message>
     <message id="jolla-email-la-to_info">
-        <location filename="../pages/MessageInfo.qml" line="112"></location>
+        <location filename="../pages/MessageInfo.qml" line="112"/>
         <source>To:</source>
-        <extracomment>'To: ' recipients label</extracomment>
-        <translation>To</translation>
+        <extracomment>&apos;To: &apos; recipients label</extracomment>
+        <translation>إلى:</translation>
     </message>
     <message id="jolla-email-la-cal-optional_info">
-        <location filename="../pages/MessageInfo.qml" line="124"></location>
+        <location filename="../pages/MessageInfo.qml" line="124"/>
         <source>Optional:</source>
-        <extracomment>'Optional: ' recipients label for calendar invitation</extracomment>
-        <translation>Optional:</translation>
+        <extracomment>&apos;Optional: &apos; recipients label for calendar invitation</extracomment>
+        <translation>اختياري:</translation>
     </message>
     <message id="jolla-email-la-cc_info">
-        <location filename="../pages/MessageInfo.qml" line="128"></location>
+        <location filename="../pages/MessageInfo.qml" line="128"/>
         <source>Cc:</source>
-        <extracomment>'Cc: ' recipients label</extracomment>
-        <translation>Cc</translation>
+        <extracomment>&apos;Cc: &apos; recipients label</extracomment>
+        <translation>نسخة:</translation>
     </message>
     <message id="jolla-email-la-importance">
-        <location filename="../pages/MessageInfo.qml" line="137"></location>
+        <location filename="../pages/MessageInfo.qml" line="137"/>
         <source>Importance:</source>
-        <extracomment>'Importance: ' label</extracomment>
-        <translation>Importance</translation>
+        <extracomment>&apos;Importance: &apos; label</extracomment>
+        <translation>الأهمية:</translation>
     </message>
     <message id="jolla-email-la-cal-secrecy">
-        <location filename="../pages/MessageInfo.qml" line="160"></location>
+        <location filename="../pages/MessageInfo.qml" line="160"/>
         <source>Secrecy:</source>
-        <extracomment>'Secrecy: ' label for calendar invitation</extracomment>
-        <translation>Secrecy:</translation>
+        <extracomment>&apos;Secrecy: &apos; label for calendar invitation</extracomment>
+        <translation>السرية:</translation>
     </message>
     <message id="jolla-email-la-cal-secrecy_private">
-        <location filename="../pages/MessageInfo.qml" line="167"></location>
+        <location filename="../pages/MessageInfo.qml" line="167"/>
         <source>Private</source>
         <extracomment>Invitation secrecy private</extracomment>
-        <translation>Private</translation>
+        <translation>خاص</translation>
     </message>
     <message id="jolla-email-la-cal-secrecy_confidential">
-        <location filename="../pages/MessageInfo.qml" line="171"></location>
+        <location filename="../pages/MessageInfo.qml" line="171"/>
         <source>Confidential</source>
         <extracomment>Invitation secrecy confidential</extracomment>
-        <translation>Confidential</translation>
+        <translation>سري</translation>
     </message>
     <message id="jolla-email-la-cal-secrecy_public">
-        <location filename="../pages/MessageInfo.qml" line="175"></location>
+        <location filename="../pages/MessageInfo.qml" line="175"/>
         <source>Public</source>
         <extracomment>Invitation secrecy public</extracomment>
-        <translation>Public</translation>
+        <translation>عام</translation>
     </message>
     <message id="jolla-email-la-cal-repeat">
-        <location filename="../pages/MessageInfo.qml" line="184"></location>
+        <location filename="../pages/MessageInfo.qml" line="184"/>
         <source>Repeat:</source>
-        <extracomment>'Repeat: ' label for calendar</extracomment>
-        <translation>Repeat:</translation>
+        <extracomment>&apos;Repeat: &apos; label for calendar</extracomment>
+        <translation>التكرار:</translation>
     </message>
     <message id="jolla-email-la-cal-recurrence-every_day">
-        <location filename="../pages/MessageInfo.qml" line="192"></location>
+        <location filename="../pages/MessageInfo.qml" line="192"/>
         <source>Every Day</source>
-        <translation>Every day</translation>
+        <translation>كل يوم</translation>
     </message>
     <message id="jolla-email-la-cal-recurrence-every_week">
-        <location filename="../pages/MessageInfo.qml" line="195"></location>
+        <location filename="../pages/MessageInfo.qml" line="195"/>
         <source>Every Week</source>
-        <translation>Every week</translation>
+        <translation>كل أسبوع</translation>
     </message>
     <message id="jolla-email-la-cal-recurrence-every_2_weeks">
-        <location filename="../pages/MessageInfo.qml" line="198"></location>
+        <location filename="../pages/MessageInfo.qml" line="198"/>
         <source>Every 2 Weeks</source>
-        <translation>Every 2 weeks</translation>
+        <translation>كل أسبوعين</translation>
     </message>
     <message id="jolla-email-la-cal-recurrence-every_month">
-        <location filename="../pages/MessageInfo.qml" line="201"></location>
+        <location filename="../pages/MessageInfo.qml" line="201"/>
         <source>Every Month</source>
-        <translation>Every month</translation>
+        <translation>كل شهر</translation>
     </message>
     <message id="jolla-email-la-cal-recurrence-every_year">
-        <location filename="../pages/MessageInfo.qml" line="204"></location>
+        <location filename="../pages/MessageInfo.qml" line="204"/>
         <source>Every Year</source>
-        <translation>Every year</translation>
+        <translation>كل عام</translation>
     </message>
     <message id="jolla-email-la-cal-recurrence-custom">
-        <location filename="../pages/MessageInfo.qml" line="207"></location>
+        <location filename="../pages/MessageInfo.qml" line="207"/>
         <source>Custom</source>
-        <translation>Custom</translation>
+        <translation>مخصص</translation>
     </message>
     <message id="jolla-email-la-cal-recurrence-once">
-        <location filename="../pages/MessageInfo.qml" line="212"></location>
+        <location filename="../pages/MessageInfo.qml" line="212"/>
         <source>Once</source>
         <extracomment>Recurrence - not set (once) text</extracomment>
-        <translation>Once</translation>
+        <translation>مرة واحدة</translation>
     </message>
     <message id="jolla-email-la-account">
-        <location filename="../pages/MessageInfo.qml" line="219"></location>
+        <location filename="../pages/MessageInfo.qml" line="219"/>
         <source>Account:</source>
-        <extracomment>'Account: ' label</extracomment>
-        <translation>Account</translation>
+        <extracomment>&apos;Account: &apos; label</extracomment>
+        <translation>الحساب:</translation>
     </message>
     <message id="jolla-email-la-message_size">
-        <location filename="../pages/MessageInfo.qml" line="227"></location>
+        <location filename="../pages/MessageInfo.qml" line="227"/>
         <source>Size:</source>
-        <extracomment>Message 'Size: ' label</extracomment>
-        <translation>Size</translation>
+        <extracomment>Message &apos;Size: &apos; label</extracomment>
+        <translation>الحجم:</translation>
     </message>
     <message id="jolla-email-la-no_recipient">
-        <location filename="../pages/MessageItem.qml" line="95"></location>
-        <location filename="../pages/MessageViewHeader.qml" line="39"></location>
+        <location filename="../pages/MessageItem.qml" line="95"/>
+        <location filename="../pages/MessageViewHeader.qml" line="39"/>
         <source>No recipients</source>
-        <translation>No recipient</translation>
+        <translation>لا يوجد مستلم</translation>
     </message>
     <message id="jolla-email-la-no_subject">
-        <location filename="../pages/MessageItem.qml" line="149"></location>
-        <location filename="../pages/MessageListView.qml" line="320"></location>
+        <location filename="../pages/MessageItem.qml" line="149"/>
+        <location filename="../pages/MessageListView.qml" line="320"/>
         <source>(Empty subject)</source>
         <extracomment>Empty subject</extracomment>
-        <translation>No subject</translation>
+        <translation>لا يوجد عنوان</translation>
     </message>
     <message id="jolla-email-la-no_preview">
-        <location filename="../pages/MessageItem.qml" line="170"></location>
+        <location filename="../pages/MessageItem.qml" line="170"/>
         <source>(Empty preview)</source>
         <extracomment>Empty preview</extracomment>
-        <translation>No preview</translation>
+        <translation>لا توجد معاينة</translation>
     </message>
     <message id="jolla-email-me-move_to">
-        <location filename="../pages/MessageItem.qml" line="190"></location>
+        <location filename="../pages/MessageItem.qml" line="190"/>
         <source>Move to</source>
-        <translation>Move to</translation>
+        <translation>النقل إلى</translation>
     </message>
     <message id="jolla-email-me-mark-unread">
-        <location filename="../pages/MessageItem.qml" line="200"></location>
+        <location filename="../pages/MessageItem.qml" line="200"/>
         <source>Mark as unread</source>
-        <translation>Mark as unread</translation>
+        <translation>درج تحت الرسائل الغير مقروءة</translation>
     </message>
     <message id="jolla-email-me-mark-read">
-        <location filename="../pages/MessageItem.qml" line="206"></location>
+        <location filename="../pages/MessageItem.qml" line="206"/>
         <source>Mark as read</source>
-        <translation>Mark as read</translation>
+        <translation>تحديد كمقروء</translation>
     </message>
     <message id="jolla-email-me-delete">
-        <location filename="../pages/MessageItem.qml" line="211"></location>
-        <location filename="../pages/MessageViewPullDown.qml" line="21"></location>
+        <location filename="../pages/MessageItem.qml" line="211"/>
+        <location filename="../pages/MessageViewPullDown.qml" line="21"/>
         <source>Delete</source>
-        <translation>Delete</translation>
+        <translation>حذف</translation>
     </message>
     <message id="jolla-email-he-updating">
-        <location filename="../pages/MessageListView.qml" line="85"></location>
+        <location filename="../pages/MessageListView.qml" line="85"/>
         <source>Updating...</source>
         <extracomment>Updating header</extracomment>
-        <translation>Updating...</translation>
+        <translation>جار التحديث ...</translation>
     </message>
     <message id="jolla-email-la-small_size">
-        <location filename="../pages/MessageListView.qml" line="124"></location>
+        <location filename="../pages/MessageListView.qml" line="124"/>
         <source>Small (&lt;100 KB)</source>
         <extracomment>Section header for small size emails</extracomment>
-        <translation>Small (&lt; 100 kB)</translation>
+        <translation>صغير (&lt; 100 kB)</translation>
     </message>
     <message id="jolla-email-la-medium_size">
-        <location filename="../pages/MessageListView.qml" line="128"></location>
+        <location filename="../pages/MessageListView.qml" line="128"/>
         <source>Medium (100-500 KB)</source>
         <extracomment>Section header for medium size emails</extracomment>
-        <translation>Medium (100-500 kB)</translation>
+        <translation>متوسط (100-500 kB)</translation>
     </message>
     <message id="jolla-email-la-large_size">
-        <location filename="../pages/MessageListView.qml" line="132"></location>
+        <location filename="../pages/MessageListView.qml" line="132"/>
         <source>Large (&gt;500 KB)</source>
         <extracomment>Section header for large size emails</extracomment>
-        <translation>Large (&gt; 500 kB)</translation>
+        <translation>كبير (&gt; 500 kB)</translation>
     </message>
     <message id="jolla-email-la-read_email">
-        <location filename="../pages/MessageListView.qml" line="138"></location>
+        <location filename="../pages/MessageListView.qml" line="138"/>
         <source>Read emails</source>
         <extracomment>Read emails section header</extracomment>
-        <translation>Read emails</translation>
+        <translation>قراءة رسائل البريد</translation>
     </message>
     <message id="jolla-email-la-unread_email">
-        <location filename="../pages/MessageListView.qml" line="142"></location>
+        <location filename="../pages/MessageListView.qml" line="142"/>
         <source>Unread emails</source>
         <extracomment>Unread emails section header</extracomment>
-        <translation>Unread emails</translation>
+        <translation>رسائل البريد غير المقروءة</translation>
     </message>
     <message id="jolla-email-la-high_priority">
-        <location filename="../pages/MessageListView.qml" line="149"></location>
+        <location filename="../pages/MessageListView.qml" line="149"/>
         <source>High</source>
         <extracomment>High priority section header</extracomment>
-        <translation>High</translation>
+        <translation>عالي</translation>
     </message>
     <message id="jolla-email-la-low_priority">
-        <location filename="../pages/MessageListView.qml" line="153"></location>
+        <location filename="../pages/MessageListView.qml" line="153"/>
         <source>Low</source>
         <extracomment>Low priority section header</extracomment>
-        <translation>Low</translation>
+        <translation>ثانوي</translation>
     </message>
     <message id="jolla-email-la-normal_priority">
-        <location filename="../pages/MessageListView.qml" line="157"></location>
+        <location filename="../pages/MessageListView.qml" line="157"/>
         <source>Normal</source>
         <extracomment>Normal priority section header</extracomment>
-        <translation>Normal</translation>
+        <translation>عادي</translation>
     </message>
     <message id="jolla-email-la-contains_attachments">
-        <location filename="../pages/MessageListView.qml" line="163"></location>
+        <location filename="../pages/MessageListView.qml" line="163"/>
         <source>Contains attachments</source>
         <extracomment>Contains attachments section header</extracomment>
-        <translation>Emails with attachments</translation>
+        <translation>يحتوي على مرفقات</translation>
     </message>
     <message id="jolla-email-la-no_attachments">
-        <location filename="../pages/MessageListView.qml" line="167"></location>
+        <location filename="../pages/MessageListView.qml" line="167"/>
         <source>No attachments</source>
         <extracomment>No attachments section header</extracomment>
-        <translation>Emails without attachments</translation>
+        <translation>لا يحتوي على مرفقات</translation>
     </message>
     <message id="jolla-email-me-sort_by">
-        <location filename="../pages/MessageListView.qml" line="211"></location>
+        <location filename="../pages/MessageListView.qml" line="211"/>
         <source>Sort by: %1</source>
         <extracomment>Selects message list sort method</extracomment>
-        <translation>Sort by: %1</translation>
+        <translation>التصنيف بـ: %1</translation>
     </message>
     <message id="jolla-email-me-search">
-        <location filename="../pages/MessageListView.qml" line="243"></location>
+        <location filename="../pages/MessageListView.qml" line="243"/>
         <source>Search</source>
         <extracomment>Search from messages</extracomment>
-        <translation>Search</translation>
+        <translation>بحث</translation>
     </message>
     <message id="jolla-email-me-send-all">
-        <location filename="../pages/MessageListView.qml" line="252"></location>
+        <location filename="../pages/MessageListView.qml" line="252"/>
         <source>Send all</source>
         <extracomment>Send all messages currently in the outbox</extracomment>
-        <translation>Send all</translation>
+        <translation>إرسال الكل</translation>
     </message>
     <message id="jolla-email-me-get_more_mails">
-        <location filename="../pages/MessageListView.qml" line="283"></location>
+        <location filename="../pages/MessageListView.qml" line="283"/>
         <source>Get more mails</source>
-        <translation>Get more emails</translation>
+        <translation>جلب المزيد من رسائل البريد</translation>
     </message>
     <message id="jolla-email-la-empty_list">
-        <location filename="../pages/MessageListView.qml" line="304"></location>
+        <location filename="../pages/MessageListView.qml" line="304"/>
         <source>No emails</source>
         <extracomment>Empty message list placeholder label</extracomment>
-        <translation>No emails</translation>
+        <translation>لا توجد رسائل في البريد</translation>
     </message>
     <message id="jolla-email-me-deleted-mails" numerus="yes">
-        <location filename="../pages/MessageRemorsePopup.qml" line="17"></location>
+        <location filename="../pages/MessageRemorsePopup.qml" line="17"/>
         <source>Deleted %n mail(s)</source>
         <extracomment>Remorse popup for multiple emails deletion</extracomment>
-        <translation><numerusform>%n email deleted</numerusform>
-        <numerusform>%n emails deleted</numerusform>
-        </translation></message>
+        <translation>
+            <numerusform>تم حذف %n رسالة بريد</numerusform>
+            <numerusform>تم حذف %n رسائل بريد</numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
     <message id="jolla-email-la-read_receipt_email_subject_prefix">
-        <location filename="../pages/MessageView.qml" line="97"></location>
-        <location filename="../pages/SendReadReceiptDialog.qml" line="68"></location>
+        <location filename="../pages/MessageView.qml" line="97"/>
+        <location filename="../pages/SendReadReceiptDialog.qml" line="68"/>
         <source>Read: </source>
-        <translation>Read: </translation>
+        <translation>اقرأ: </translation>
     </message>
     <message id="jolla-email-la-read_receipt_email_body">
-        <location filename="../pages/MessageView.qml" line="99"></location>
-        <location filename="../pages/SendReadReceiptDialog.qml" line="71"></location>
+        <location filename="../pages/MessageView.qml" line="99"/>
+        <location filename="../pages/SendReadReceiptDialog.qml" line="71"/>
         <source>Your email sent at %1 on %2 to %3 was read.</source>
         <extracomment>%1:original email timestamp; %2:date of an email; %3:receiver email address</extracomment>
-        <translation>Your email sent at %1 on %2 to %3 has been read.</translation>
+        <translation>تمت قراءة رسالتك المرسلة في %1 بتاريخ %2 إلى %3.</translation>
     </message>
     <message id="jolla-email-la-failed_send_read_receipt">
-        <location filename="../pages/MessageView.qml" line="104"></location>
-        <location filename="../pages/SendReadReceiptDialog.qml" line="76"></location>
+        <location filename="../pages/MessageView.qml" line="104"/>
+        <location filename="../pages/SendReadReceiptDialog.qml" line="76"/>
         <source>Failed to send read receipt</source>
-        <translation>Could not send read receipt</translation>
+        <translation>تعذر إرسال إيصال القراءة</translation>
     </message>
     <message id="jolla-email-la-recipients_header">
-        <location filename="../pages/MessageViewHeader.qml" line="37"></location>
+        <location filename="../pages/MessageViewHeader.qml" line="37"/>
         <source>To: %1</source>
-        <extracomment>'To: ' message recipients (keep the colon separator here)</extracomment>
-        <translation>To: %1</translation>
+        <extracomment>&apos;To: &apos; message recipients (keep the colon separator here)</extracomment>
+        <translation>إلى: %1</translation>
     </message>
     <message id="jolla-email-me-forward">
-        <location filename="../pages/MessageViewPullDown.qml" line="30"></location>
+        <location filename="../pages/MessageViewPullDown.qml" line="30"/>
         <source>Forward</source>
         <extracomment>Forward message menu item</extracomment>
-        <translation>Forward</translation>
+        <translation>توجيه</translation>
     </message>
     <message id="jolla-email-me-reply_all">
-        <location filename="../pages/MessageViewPullDown.qml" line="37"></location>
+        <location filename="../pages/MessageViewPullDown.qml" line="37"/>
         <source>Reply to All</source>
         <extracomment>Reply to all message recipients menu item</extracomment>
-        <translation>Reply to all</translation>
+        <translation>الرد على الكل</translation>
     </message>
     <message id="jolla-email-me-reply">
-        <location filename="../pages/MessageViewPullDown.qml" line="43"></location>
+        <location filename="../pages/MessageViewPullDown.qml" line="43"/>
         <source>Reply</source>
         <extracomment>Reply to message sender menu item</extracomment>
-        <translation>Reply</translation>
+        <translation>الرد</translation>
     </message>
     <message id="email-ph-folder_move">
-        <location filename="../pages/MoveFolderPage.qml" line="39"></location>
+        <location filename="../pages/MoveFolderPage.qml" line="39"/>
         <source>Select folder:</source>
         <extracomment>Move folder page header</extracomment>
-        <translation>Select folder</translation>
+        <translation>إختر المجلد</translation>
     </message>
     <message id="jolla-email-he-select_folder">
-        <location filename="../pages/MoveToPage.qml" line="45"></location>
+        <location filename="../pages/MoveToPage.qml" line="45"/>
         <source>Select Folder:</source>
         <extracomment>Move to folder page header</extracomment>
-        <translation>Select folder</translation>
+        <translation>إختر المجلد</translation>
     </message>
     <message id="jolla-email-he-select_messages" numerus="yes">
-        <location filename="../pages/MultiSelectionPage.qml" line="61"></location>
+        <location filename="../pages/MultiSelectionPage.qml" line="61"/>
         <source>Selected %n</source>
         <extracomment>Selected messages</extracomment>
-        <translation><numerusform>Selected %n</numerusform>
-        <numerusform>Selected %n</numerusform>
-        </translation></message>
+        <translation>
+            <numerusform>تم إختيار %n</numerusform>
+            <numerusform>تم إختيار %n</numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
     <message id="jolla-email-he-zero_selected_messages">
-        <location filename="../pages/MultiSelectionPage.qml" line="64"></location>
+        <location filename="../pages/MultiSelectionPage.qml" line="64"/>
         <source>Selected</source>
         <extracomment>Message selection header, no currently selected messages</extracomment>
-        <translation>Selected</translation>
+        <translation>تم إختيار</translation>
     </message>
     <message id="jolla-email-me-deselect_all_messages">
-        <location filename="../pages/MultiSelectionPage.qml" line="101"></location>
+        <location filename="../pages/MultiSelectionPage.qml" line="101"/>
         <source>Deselect all</source>
         <extracomment>Deselect all messages</extracomment>
-        <translation>Deselect all</translation>
+        <translation>الغاء تحديد الكل</translation>
     </message>
     <message id="jolla-email-me-select_all_messages">
-        <location filename="../pages/MultiSelectionPage.qml" line="109"></location>
+        <location filename="../pages/MultiSelectionPage.qml" line="109"/>
         <source>Select all</source>
         <extracomment>Select all messages</extracomment>
-        <translation>Select all</translation>
+        <translation>إختيار الكل</translation>
     </message>
     <message id="email-ph-folder_create">
-        <location filename="../pages/NewFolderDialog.qml" line="31"></location>
+        <location filename="../pages/NewFolderDialog.qml" line="31"/>
         <source>Create</source>
-        <translation>Create</translation>
+        <translation>إنشاء</translation>
     </message>
     <message id="jolla-email-newfolder_folder_name_placeholder">
-        <location filename="../pages/NewFolderDialog.qml" line="37"></location>
+        <location filename="../pages/NewFolderDialog.qml" line="37"/>
         <source>Folder name</source>
-        <translation>Folder name</translation>
+        <translation>إسم المجلد</translation>
     </message>
     <message id="jolla-email-newfolder_parent_label">
-        <location filename="../pages/NewFolderDialog.qml" line="47"></location>
+        <location filename="../pages/NewFolderDialog.qml" line="47"/>
         <source>Parent folder</source>
-        <translation>Parent folder</translation>
+        <translation>المجلد الأصل</translation>
     </message>
     <message id="jolla-email-newfolder_select_parent_title">
-        <location filename="../pages/NewFolderParentSelectionPage.qml" line="31"></location>
+        <location filename="../pages/NewFolderParentSelectionPage.qml" line="31"/>
         <source>Parent folder</source>
-        <translation>Parent folder</translation>
+        <translation>المجلد الأصل</translation>
     </message>
     <message id="jolla-email-la-synchronizing_account">
-        <location filename="../pages/PendingInboxPage.qml" line="42"></location>
+        <location filename="../pages/PendingInboxPage.qml" line="42"/>
         <source>Synchronizing account</source>
-        <translation>Updating account</translation>
+        <translation>تحديث الحساب</translation>
     </message>
     <message id="jolla-email-la-sig-failed-retrieval">
-        <location filename="../pages/PublicKeyAgent.qml" line="63"></location>
+        <location filename="../pages/PublicKeyAgent.qml" line="63"/>
         <source>Cannot retrieve public key</source>
-        <translation>Cannot retrieve public key</translation>
+        <translation>لا يمكن استرداد مفتاح التشفير العام</translation>
     </message>
     <message id="email-ph-folder_rename_title">
-        <location filename="../pages/RenameFolderDialog.qml" line="25"></location>
+        <location filename="../pages/RenameFolderDialog.qml" line="25"/>
         <source>Rename</source>
-        <translation>Rename</translation>
+        <translation>إعادة التسمية</translation>
     </message>
     <message id="email-ph-folder_rename">
-        <location filename="../pages/RenameFolderDialog.qml" line="34"></location>
+        <location filename="../pages/RenameFolderDialog.qml" line="34"/>
         <source>Enter folder name</source>
-        <translation>Enter folder name</translation>
+        <translation>أدخل اسم المجلد</translation>
     </message>
     <message id="jolla-email-he-search_options">
-        <location filename="../pages/SearchOptionsPage.qml" line="24"></location>
+        <location filename="../pages/SearchOptionsPage.qml" line="24"/>
         <source>Search options</source>
-        <translation>Search options</translation>
+        <translation>خيارات البحث</translation>
     </message>
     <message id="jolla-email-la-search_on">
-        <location filename="../pages/SearchOptionsPage.qml" line="32"></location>
+        <location filename="../pages/SearchOptionsPage.qml" line="32"/>
         <source>Search on</source>
-        <translation>Search on</translation>
+        <translation>البحث في</translation>
     </message>
     <message id="jolla-email-me_search_server_and_device">
-        <location filename="../pages/SearchOptionsPage.qml" line="37"></location>
+        <location filename="../pages/SearchOptionsPage.qml" line="37"/>
         <source>Server and device</source>
         <extracomment>Search on server and device</extracomment>
-        <translation>Server and device</translation>
+        <translation>الخادم والجهاز</translation>
     </message>
     <message id="jolla-email-me_search_device">
-        <location filename="../pages/SearchOptionsPage.qml" line="43"></location>
+        <location filename="../pages/SearchOptionsPage.qml" line="43"/>
         <source>Device</source>
         <extracomment>Search on device</extracomment>
-        <translation>Device</translation>
+        <translation>الجهاز</translation>
     </message>
     <message id="jolla-email-me_search_server">
-        <location filename="../pages/SearchOptionsPage.qml" line="49"></location>
+        <location filename="../pages/SearchOptionsPage.qml" line="49"/>
         <source>Server</source>
         <extracomment>Search on server</extracomment>
-        <translation>Server</translation>
+        <translation>الخادم</translation>
     </message>
     <message id="jolla-email-la-search_in">
-        <location filename="../pages/SearchOptionsPage.qml" line="58"></location>
+        <location filename="../pages/SearchOptionsPage.qml" line="58"/>
         <source>Search in</source>
-        <translation>Search in</translation>
+        <translation>البحث في</translation>
     </message>
     <message id="jolla-email-la-search_from">
-        <location filename="../pages/SearchOptionsPage.qml" line="65"></location>
+        <location filename="../pages/SearchOptionsPage.qml" line="65"/>
         <source>From</source>
         <extracomment>Search From address, the email sender</extracomment>
-        <translation>From</translation>
+        <translation>من</translation>
     </message>
     <message id="jolla-email-la-search_recipients">
-        <location filename="../pages/SearchOptionsPage.qml" line="74"></location>
+        <location filename="../pages/SearchOptionsPage.qml" line="74"/>
         <source>Recipients</source>
         <extracomment>Search recipients addresses, the recipients of the email</extracomment>
-        <translation>Recipients</translation>
+        <translation>المستلمون</translation>
     </message>
     <message id="jolla-email-la-search_subject">
-        <location filename="../pages/SearchOptionsPage.qml" line="83"></location>
+        <location filename="../pages/SearchOptionsPage.qml" line="83"/>
         <source>Subject</source>
         <extracomment>Search the email subject</extracomment>
-        <translation>Subject</translation>
+        <translation>الموضوع</translation>
     </message>
     <message id="jolla-email-la-search_body">
-        <location filename="../pages/SearchOptionsPage.qml" line="92"></location>
+        <location filename="../pages/SearchOptionsPage.qml" line="92"/>
         <source>Message body</source>
         <extracomment>Search email body, the email content</extracomment>
-        <translation>Message body</translation>
+        <translation>نص الرسالة</translation>
     </message>
     <message id="jolla-email-me-search_options">
-        <location filename="../pages/SearchPage.qml" line="68"></location>
+        <location filename="../pages/SearchPage.qml" line="68"/>
         <source>Search options</source>
-        <translation>Search options</translation>
+        <translation>خيارات البحث</translation>
     </message>
     <message id="jolla-email-he-search">
-        <location filename="../pages/SearchPage.qml" line="147"></location>
+        <location filename="../pages/SearchPage.qml" line="147"/>
         <source>Search</source>
-        <translation>Search</translation>
+        <translation>البحث</translation>
     </message>
     <message id="jolla-components_email-la-search_emails">
-        <location filename="../pages/SearchPage.qml" line="155"></location>
+        <location filename="../pages/SearchPage.qml" line="155"/>
         <source>Search emails</source>
-        <translation>Search for emails</translation>
+        <translation>البحث عن رسائل البريد</translation>
     </message>
     <message id="email-dh-accept_send_read_receipt">
-        <location filename="../pages/SendReadReceiptDialog.qml" line="25"></location>
+        <location filename="../pages/SendReadReceiptDialog.qml" line="25"/>
         <source>Send receipt</source>
-        <translation>Send receipt</translation>
+        <translation>إرسال إيصال القراءة</translation>
     </message>
     <message id="email-dh-do_not_send_read_receipt">
-        <location filename="../pages/SendReadReceiptDialog.qml" line="27"></location>
+        <location filename="../pages/SendReadReceiptDialog.qml" line="27"/>
         <source>Ignore</source>
-        <translation>Ignore</translation>
+        <translation>تجاهل</translation>
     </message>
     <message id="jolla-email-la-send_read_receipt">
-        <location filename="../pages/SendReadReceiptDialog.qml" line="45"></location>
+        <location filename="../pages/SendReadReceiptDialog.qml" line="45"/>
         <source>Read receipt requested</source>
-        <translation>Read receipt requested</translation>
+        <translation>يوجد طلب لإيصال بالقراءة</translation>
     </message>
     <message id="jolla-email-la-send_read_receipt_description">
-        <location filename="../pages/SendReadReceiptDialog.qml" line="55"></location>
+        <location filename="../pages/SendReadReceiptDialog.qml" line="55"/>
         <source>Sender requested a read receipt. Do you want to send a receipt?</source>
-        <translation>Sender requested a read receipt. Do you want to send a receipt?</translation>
+        <translation>طلب المرسل إيصالاً بالقراءة. هل تريد إرسال الإيصال؟</translation>
     </message>
     <message id="jolla-email-ts-remember_choice">
-        <location filename="../pages/SendReadReceiptDialog.qml" line="60"></location>
+        <location filename="../pages/SendReadReceiptDialog.qml" line="60"/>
         <source>Remember my choice</source>
-        <translation>Remember my choice</translation>
+        <translation>تذكر إختياري</translation>
     </message>
     <message id="jolla-email-la-sig-downloading">
-        <location filename="../pages/SignatureItem.qml" line="58"></location>
+        <location filename="../pages/SignatureItem.qml" line="58"/>
         <source>Signature data are being downloaded…</source>
-        <translation>Downloading signature data...</translation>
+        <translation>يتم تحميل بيانات التوقيع...</translation>
     </message>
     <message id="jolla-email-la-sig-missing">
-        <location filename="../pages/SignatureItem.qml" line="61"></location>
+        <location filename="../pages/SignatureItem.qml" line="61"/>
         <source>Signature data cannot be downloaded</source>
-        <translation>Cannot download signature data</translation>
+        <translation>لا يمكن تنزيل بيانات التوقيع</translation>
     </message>
     <message id="jolla-email-la-sig-checking">
-        <location filename="../pages/SignatureItem.qml" line="64"></location>
+        <location filename="../pages/SignatureItem.qml" line="64"/>
         <source>Validating the email with the digital signature…</source>
-        <translation>Validating email with digital signature...</translation>
+        <translation>جار التحقق من البريد الإلكتروني بالتوقيع الرقمي...</translation>
     </message>
     <message id="jolla-email-la-sig-valid">
-        <location filename="../pages/SignatureItem.qml" line="67"></location>
+        <location filename="../pages/SignatureItem.qml" line="67"/>
         <source>The email is certified by a digital signature</source>
-        <translation>The email is certified by a digital signature</translation>
+        <translation>البريد الإلكتروني موثق بتوقيع رقمي</translation>
     </message>
     <message id="jolla-email-la-sig-invalid">
-        <location filename="../pages/SignatureItem.qml" line="70"></location>
+        <location filename="../pages/SignatureItem.qml" line="70"/>
         <source>The email does not correspond to the signature</source>
-        <translation>The email does not correspond to the signature</translation>
+        <translation>البريد الإلكتروني لا يتوافق مع التوقيع</translation>
     </message>
     <message id="jolla-email-la-sig-expired-download">
-        <location filename="../pages/SignatureItem.qml" line="74"></location>
+        <location filename="../pages/SignatureItem.qml" line="74"/>
         <source>Update public key and check signature</source>
-        <translation>Update public key and check signature</translation>
+        <translation>تحديث مفتاح التشفير العام والتحقق من التوقيع</translation>
     </message>
     <message id="jolla-email-la-sig-expired">
-        <location filename="../pages/SignatureItem.qml" line="76"></location>
+        <location filename="../pages/SignatureItem.qml" line="76"/>
         <source>The key used to sign the email has expired</source>
-        <translation>The key used to sign the email with has expired</translation>
+        <translation>انتهت صلاحية المفتاح المستخدم لتوقيع البريد الإلكتروني</translation>
     </message>
     <message id="jolla-email-la-sig-nokey-download">
-        <location filename="../pages/SignatureItem.qml" line="80"></location>
+        <location filename="../pages/SignatureItem.qml" line="80"/>
         <source>Download public key and check signature</source>
-        <translation>Download public key and check signature</translation>
+        <translation>قم بتنزيل مفتاح التشفير العام وتحقق من التوقيع</translation>
     </message>
     <message id="jolla-email-la-sig-nokey">
-        <location filename="../pages/SignatureItem.qml" line="82"></location>
+        <location filename="../pages/SignatureItem.qml" line="82"/>
         <source>Cannot check signature due to missing public key</source>
-        <translation>Cannot check signature due to missing public key</translation>
+        <translation>لا يمكن التحقق من التوقيع لفقدان مفتاح التشفير العام</translation>
     </message>
     <message id="jolla-email-la-sig-unchecked">
-        <location filename="../pages/SignatureItem.qml" line="85"></location>
+        <location filename="../pages/SignatureItem.qml" line="85"/>
         <source>Check signature</source>
-        <translation>Check signature</translation>
+        <translation>تحقق من التوقيع</translation>
     </message>
     <message id="jolla-email-la-sig-failure">
-        <location filename="../pages/SignatureItem.qml" line="88"></location>
+        <location filename="../pages/SignatureItem.qml" line="88"/>
         <source>Error with the digital signature</source>
-        <translation>Problem with digital signature</translation>
+        <translation>مشكلة في التوقيع الرقمي</translation>
     </message>
     <message id="jolla-email-la-crypto_protocol_pgp">
-        <location filename="../pages/SignatureItem.qml" line="106"></location>
+        <location filename="../pages/SignatureItem.qml" line="106"/>
         <source>PGP - key %1</source>
         <extracomment>%1: identifier of the signing key, usually 8 hexadecimal characters</extracomment>
         <translation>PGP - key %1</translation>
     </message>
     <message id="jolla-email-la-crypto_protocol_smime">
-        <location filename="../pages/SignatureItem.qml" line="110"></location>
+        <location filename="../pages/SignatureItem.qml" line="110"/>
         <source>S/MIME - key %1</source>
         <extracomment>%1: identifier of the signing key, usually 8 hexadecimal characters</extracomment>
         <translation>S/MIME - key %1</translation>
     </message>
     <message id="jolla-email-la-sig-retrieving">
-        <location filename="../pages/SignatureItem.qml" line="129"></location>
+        <location filename="../pages/SignatureItem.qml" line="129"/>
         <source>Downloading public key</source>
-        <translation>Downloading public key</translation>
+        <translation>جار تنزيل مفتاح التشفير العام</translation>
     </message>
     <message id="jolla-email-he-sort_by">
-        <location filename="../pages/SortPage.qml" line="33"></location>
+        <location filename="../pages/SortPage.qml" line="33"/>
         <source>Sort by</source>
-        <translation>Sort by</translation>
+        <translation>التصنيف حسب</translation>
     </message>
     <message id="jolla-email-la-inbox_folder">
-        <location filename="../pages/utils.js" line="63"></location>
+        <location filename="../pages/utils.js" line="63"/>
         <source>Inbox</source>
         <extracomment>Inbox folder</extracomment>
-        <translation>Inbox</translation>
+        <translation>البريد الوارد</translation>
     </message>
     <message id="jolla-email-la-outbox_folder">
-        <location filename="../pages/utils.js" line="67"></location>
+        <location filename="../pages/utils.js" line="67"/>
         <source>Outbox</source>
         <extracomment>Outbox folder</extracomment>
-        <translation>Outbox</translation>
+        <translation>البريد الصادر</translation>
     </message>
     <message id="jolla-email-la-sent_folder">
-        <location filename="../pages/utils.js" line="71"></location>
+        <location filename="../pages/utils.js" line="71"/>
         <source>Sent</source>
         <extracomment>Sent folder</extracomment>
-        <translation>Sent</translation>
+        <translation>البريد المرسل</translation>
     </message>
     <message id="jolla-email-la-drafts_folder">
-        <location filename="../pages/utils.js" line="75"></location>
+        <location filename="../pages/utils.js" line="75"/>
         <source>Drafts</source>
         <extracomment>Drafts folder</extracomment>
-        <translation>Drafts</translation>
+        <translation>المسودات</translation>
     </message>
     <message id="jolla-email-la-trash_folder">
-        <location filename="../pages/utils.js" line="79"></location>
+        <location filename="../pages/utils.js" line="79"/>
         <source>Trash</source>
         <extracomment>Trash folder</extracomment>
-        <translation>Deleted items</translation>
+        <translation>العناصر المحذوفة</translation>
     </message>
     <message id="jolla-email-la-sync_failed">
-        <location filename="../pages/utils.js" line="93"></location>
+        <location filename="../pages/utils.js" line="93"/>
         <source>Synchronization failed</source>
         <extracomment>Synchronization failed error (Shown in app cover, small space)</extracomment>
-        <translation>Could not update</translation>
+        <translation>تعذر التحديث</translation>
     </message>
     <message id="jolla-email-la-login_failed">
-        <location filename="../pages/utils.js" line="97"></location>
+        <location filename="../pages/utils.js" line="97"/>
         <source>Login failed</source>
         <extracomment>Login failed error (Shown in app cover, small space)</extracomment>
-        <translation>Problem with sign-in</translation>
+        <translation>مشكلة في تسجيل الدخول</translation>
     </message>
     <message id="jolla-email-la-disk_full">
-        <location filename="../pages/utils.js" line="101"></location>
+        <location filename="../pages/utils.js" line="101"/>
         <source>Disk Full</source>
         <extracomment>Disk full error (Shown in app cover, small space)</extracomment>
-        <translation>Memory full</translation>
+        <translation>الذاكرة ممتلئة</translation>
     </message>
     <message id="jolla-email-la-invalid_configuration">
-        <location filename="../pages/utils.js" line="105"></location>
+        <location filename="../pages/utils.js" line="105"/>
         <source>Invalid configuration</source>
         <extracomment>Invalid configuration (Shown in app cover, small space)</extracomment>
-        <translation>Check configuration</translation>
+        <translation>تحقق من إعدادات التكوين</translation>
     </message>
     <message id="jolla-email-la-invalid_certificate">
-        <location filename="../pages/utils.js" line="109"></location>
+        <location filename="../pages/utils.js" line="109"/>
         <source>Invalid certificate</source>
         <extracomment>Invalid certificate (Shown in app cover, small space)</extracomment>
-        <translation>Check certificate</translation>
+        <translation>تحقق من الشهادة</translation>
     </message>
     <message id="jolla-email-la-internal_error">
-        <location filename="../pages/utils.js" line="113"></location>
+        <location filename="../pages/utils.js" line="113"/>
         <source>Internal error</source>
         <extracomment>Internal error (Shown in app cover, small space)</extracomment>
-        <translation>Error occurred</translation>
+        <translation>حدث خطأ</translation>
     </message>
     <message id="jolla-email-la-send_failed">
-        <location filename="../pages/utils.js" line="117"></location>
+        <location filename="../pages/utils.js" line="117"/>
         <source>Send failed</source>
         <extracomment>Send failed (Shown in app cover, small space)</extracomment>
-        <translation>Sending failed</translation>
+        <translation>لقد تعذر الارسال</translation>
     </message>
     <message id="jolla-email-la-connection_timeout">
-        <location filename="../pages/utils.js" line="121"></location>
+        <location filename="../pages/utils.js" line="121"/>
         <source>Connection timeout</source>
         <extracomment>Connection timeout (Shown in app cover, small space)</extracomment>
-        <translation>Connection timeout</translation>
+        <translation>انتهى وقت محاولة الاتصال</translation>
     </message>
     <message id="jolla-email-la-server_error">
-        <location filename="../pages/utils.js" line="125"></location>
+        <location filename="../pages/utils.js" line="125"/>
         <source>Server error</source>
         <extracomment>Server error (Shown in app cover, small space)</extracomment>
-        <translation>Server error</translation>
+        <translation>خطأ من الخادم</translation>
     </message>
     <message id="jolla-email-la-not_connected">
-        <location filename="../pages/utils.js" line="129"></location>
+        <location filename="../pages/utils.js" line="129"/>
         <source>Not connected</source>
         <extracomment>Not connected (Shown in app cover, small space)</extracomment>
-        <translation>Not connected</translation>
+        <translation>غير متصل</translation>
     </message>
     <message id="jolla-email-me-sort_time">
-        <location filename="../pages/utils.js" line="140"></location>
+        <location filename="../pages/utils.js" line="140"/>
         <source>Time</source>
         <extracomment>Sort by time</extracomment>
-        <translation>Time</translation>
+        <translation>الزمن</translation>
     </message>
     <message id="jolla-email-me-sort_sender">
-        <location filename="../pages/utils.js" line="144"></location>
+        <location filename="../pages/utils.js" line="144"/>
         <source>Sender</source>
         <extracomment>sort by sender</extracomment>
-        <translation>Sender</translation>
+        <translation>المرسل</translation>
     </message>
     <message id="jolla-email-me-sort_recipients">
-        <location filename="../pages/utils.js" line="148"></location>
+        <location filename="../pages/utils.js" line="148"/>
         <source>Recipients</source>
         <extracomment>sort by recipients</extracomment>
-        <translation>Recipients</translation>
+        <translation>المستلمون</translation>
     </message>
     <message id="jolla-email-me-sort_size">
-        <location filename="../pages/utils.js" line="152"></location>
+        <location filename="../pages/utils.js" line="152"/>
         <source>Size</source>
         <extracomment>sort by size</extracomment>
-        <translation>Size</translation>
+        <translation>الحجم</translation>
     </message>
     <message id="jolla-email-me-sort_status">
-        <location filename="../pages/utils.js" line="156"></location>
+        <location filename="../pages/utils.js" line="156"/>
         <source>Status</source>
         <extracomment>sort by status</extracomment>
-        <translation>Status</translation>
+        <translation>الحالة</translation>
     </message>
     <message id="jolla-email-me-sort_importance">
-        <location filename="../pages/utils.js" line="160"></location>
+        <location filename="../pages/utils.js" line="160"/>
         <source>Importance</source>
         <extracomment>sort by priority</extracomment>
-        <translation>Importance</translation>
+        <translation>الأهمية</translation>
     </message>
     <message id="jolla-email-me-sort_attachments">
-        <location filename="../pages/utils.js" line="164"></location>
+        <location filename="../pages/utils.js" line="164"/>
         <source>Attachments</source>
         <extracomment>sort by attachments</extracomment>
-        <translation>Attachments</translation>
+        <translation>المرفقات</translation>
     </message>
     <message id="jolla-email-me-sort_subject">
-        <location filename="../pages/utils.js" line="168"></location>
+        <location filename="../pages/utils.js" line="168"/>
         <source>Subject</source>
         <extracomment>sort by subject</extracomment>
-        <translation>Subject</translation>
+        <translation>الموضوع</translation>
     </message>
     <message id="settings_email-la-auto_verify_signature">
-        <location filename="../settings/crypto.qml" line="13"></location>
+        <location filename="../settings/crypto.qml" line="13"/>
         <source>Verify signature automatically</source>
-        <translation>Verify signature automatically</translation>
+        <translation>التحقق من التوقيع تلقائيًا</translation>
     </message>
     <message id="settings_email-la-auto_verify_signature_description">
-        <location filename="../settings/crypto.qml" line="15"></location>
+        <location filename="../settings/crypto.qml" line="15"/>
         <source>Automatically verify signature on email opening.</source>
-        <translation>Verify signature automatically when opening email</translation>
+        <translation>تحقق من التوقيع تلقائيًا عند فتح البريد الإلكتروني.</translation>
     </message>
     <message id="settings_email-he-email">
-        <location filename="../settings/email.qml" line="30"></location>
+        <location filename="../settings/email.qml" line="30"/>
         <source>Mail</source>
         <extracomment>Email settings page header</extracomment>
-        <translation>Email</translation>
+        <translation>البريد الإلكتروني</translation>
     </message>
     <message id="settings_email-la-default_download_images">
-        <location filename="../settings/email.qml" line="35"></location>
+        <location filename="../settings/email.qml" line="35"/>
         <source>Download images automatically</source>
-        <translation>Download images automatically</translation>
+        <translation>تنزيل الصور تلقائيًا</translation>
     </message>
     <message id="settings_email-la-default_download_images_description">
-        <location filename="../settings/email.qml" line="38"></location>
+        <location filename="../settings/email.qml" line="38"/>
         <source>Automatically downloading images might subject your mailbox to spam.</source>
         <extracomment>Description informing the user that downloading images automatically might subject his mailbox to spam</extracomment>
-        <translation>Automatic downloading of images might subject your mailbox to spam.</translation>
+        <translation>قد يعرض التنزيل التلقائي للصور إمتلاء بريدك بالرسائل غير المرغوب بها (Spam)</translation>
     </message>
     <message id="settings_email-la-default_send_read_receipts">
-        <location filename="../settings/email.qml" line="54"></location>
+        <location filename="../settings/email.qml" line="54"/>
         <source>Send read receipts policy</source>
-        <translation>Send read receipt policy</translation>
+        <translation>إرسال سياسة إيصال القراءة</translation>
     </message>
     <message id="settings_email-la-default_send_read_receipts_description">
-        <location filename="../settings/email.qml" line="57"></location>
+        <location filename="../settings/email.qml" line="57"/>
         <source>What should be done when read receipt requested?</source>
         <extracomment>Description informing the user that email client will send read receipts automatically without any additional indications if it was requested by a sender</extracomment>
-        <translation>What should be done when a read receipt is requested?</translation>
+        <translation>ما الذي يجب فعله عند طلب إيصال بالقراءة؟</translation>
     </message>
     <message id="settings_email-la-always_ask_read_receipt">
-        <location filename="../settings/email.qml" line="62"></location>
+        <location filename="../settings/email.qml" line="62"/>
         <source>Always ask</source>
-        <translation>Always ask</translation>
+        <translation>سل دائما</translation>
     </message>
     <message id="settings_email-la-always_send_read_receipt">
-        <location filename="../settings/email.qml" line="66"></location>
+        <location filename="../settings/email.qml" line="66"/>
         <source>Always send</source>
-        <translation>Always send</translation>
+        <translation>الإرسال دائماً</translation>
     </message>
     <message id="settings_email-la-always_ignore_read_receipt">
-        <location filename="../settings/email.qml" line="70"></location>
+        <location filename="../settings/email.qml" line="70"/>
         <source>Always ignore</source>
-        <translation>Always ignore</translation>
+        <translation>التجاهل دائماً</translation>
     </message>
     <message id="settings_email-la-default_sending_account">
-        <location filename="../settings/email.qml" line="81"></location>
+        <location filename="../settings/email.qml" line="81"/>
         <source>Default sending account</source>
-        <translation>Default account for sending</translation>
+        <translation>الحساب الافتراضي لإرسال البريد</translation>
     </message>
     <message id="mail-ap-name">
-        <location filename="email.cpp" line="71"></location>
+        <location filename="email.cpp" line="71"/>
         <source>Mail</source>
-        <translation>Email</translation>
+        <translation>البريد</translation>
     </message>
 </context>
 </TS>
