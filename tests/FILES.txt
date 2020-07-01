@@ -8,3 +8,4 @@
 /usr/share/jolla-settings/pages/jolla-contacts/contactssettings.qml:23
 /usr/share/jolla-email/pages/MessageListView.qml:14
 /usr/lib/qt5/qml/com/jolla/email/EmailComposer.qml:19
+/usr/share/jolla-email/pages/FolderListPage.qml:13
