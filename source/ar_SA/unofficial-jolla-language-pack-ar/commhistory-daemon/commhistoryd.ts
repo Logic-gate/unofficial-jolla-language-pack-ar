@@ -6,7 +6,7 @@
     <message id="qtn_msg_notifications_group">
         <location filename="../src/locstrings.h" line="50"/>
         <source>Messages</source>
-        <translation type="unfinished">رسائل</translation>
+        <translation>رسائل</translation>
     </message>
     <message id="qtn_msg_errors_group">
         <location filename="../src/locstrings.h" line="52"/>
