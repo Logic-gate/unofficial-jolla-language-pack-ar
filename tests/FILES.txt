@@ -9,3 +9,5 @@
 /usr/share/jolla-email/pages/MessageListView.qml:14
 /usr/lib/qt5/qml/com/jolla/email/EmailComposer.qml:19
 /usr/share/jolla-email/pages/FolderListPage.qml:13
+/usr/share/jolla-email/pages/NewFolderDialog.qml:27
+/usr/share/jolla-gallery/pages/GalleryGridPage.qml:75
