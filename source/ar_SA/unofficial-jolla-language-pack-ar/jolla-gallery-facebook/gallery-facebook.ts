@@ -1,86 +1,110 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="en_GB">
+<TS version="2.1" language="ar_SA">
 <context>
     <name></name>
     <message id="jolla-gallery-facebook-he-comments">
-        <location filename="../src/AddCommentPage.qml" line="52"></location>
+        <location filename="../src/AddCommentPage.qml" line="52"/>
         <source>Comments</source>
-        <extracomment>"Facebook album comments page title</extracomment>
-        <translation>Comments</translation>
+        <extracomment>&quot;Facebook album comments page title</extracomment>
+        <translation>تعليقات</translation>
     </message>
     <message id="jolla-gallery-facebook-la-error_loading_comments">
-        <location filename="../src/AddCommentPage.qml" line="56"></location>
+        <location filename="../src/AddCommentPage.qml" line="56"/>
         <source>Error loading comments</source>
-        <translation>Could not load comments</translation>
+        <translation>لا يمكن تحميل التعليقات</translation>
     </message>
     <message id="jolla_gallery_facebook-la-number-of-likes-for-comment" numerus="yes">
-        <location filename="../src/AddCommentPage.qml" line="152"></location>
+        <location filename="../src/AddCommentPage.qml" line="152"/>
         <source>likes</source>
         <extracomment>Text at the right side of like count, should have plural handling for like vs likes.</extracomment>
-        <translation><numerusform>like</numerusform>
-        <numerusform>likes</numerusform>
-        </translation></message>
+        <translation>
+            <numerusform>الإعجاب</numerusform>
+            <numerusform>الإعجابات</numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
     <message id="jolla_gallery_facebook-la-write-comment-page">
-        <location filename="../src/AddCommentPage.qml" line="171"></location>
+        <location filename="../src/AddCommentPage.qml" line="171"/>
         <source>Write comment</source>
-        <translation>Write comment</translation>
+        <translation>إنشاء تعليق</translation>
     </message>
     <message id="jolla-gallery-facebook-bt-send-comment">
-        <location filename="../src/AddCommentPage.qml" line="213"></location>
+        <location filename="../src/AddCommentPage.qml" line="213"/>
         <source>Send</source>
-        <extracomment>Send comment button in Facebook album's comment page</extracomment>
-        <translation>Send</translation>
+        <extracomment>Send comment button in Facebook album&apos;s comment page</extracomment>
+        <translation>إرسال</translation>
     </message>
     <message id="jolla_gallery_facebook-album_photo_count" numerus="yes">
-        <location filename="../src/AlbumDelegate.qml" line="64"></location>
+        <location filename="../src/AlbumDelegate.qml" line="64"/>
         <source>%n photos</source>
         <extracomment>Photos count for facebook album</extracomment>
-        <translation><numerusform>%n photo</numerusform>
-        <numerusform>%n photos</numerusform>
-        </translation></message>
+        <translation>
+            <numerusform>%n صورة</numerusform>
+            <numerusform>%n صور</numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
     <message id="jolla_gallery_facebook-user_photos">
-        <location filename="../src/FacebookCacheMediaSource.qml" line="11"></location>
+        <location filename="../src/FacebookCacheMediaSource.qml" line="11"/>
         <source>Facebook</source>
         <extracomment>Label of the Facebook album in Jolla Gallery application</extracomment>
-        <translation>Facebook</translation>
+        <translation>فيسبوك</translation>
     </message>
     <message id="jolla_gallery_facebook-la-you-like-this">
-        <location filename="../src/FullscreenPhotoPage.qml" line="78"></location>
+        <location filename="../src/FullscreenPhotoPage.qml" line="78"/>
         <source>You like this</source>
-        <translation>You like this</translation>
+        <translation>أنت معجب بهذا</translation>
     </message>
     <message id="gallery-fb-la-one-friend-likes-this">
-        <location filename="../src/FullscreenPhotoPage.qml" line="81"></location>
+        <location filename="../src/FullscreenPhotoPage.qml" line="81"/>
         <source>%1 likes this</source>
-        <translation>%1 likes this</translation>
+        <translation>%1 معجب بهذا</translation>
     </message>
     <message id="jolla_gallery_facebook-la-you-and-another-friend-likes-this">
-        <location filename="../src/FullscreenPhotoPage.qml" line="88"></location>
+        <location filename="../src/FullscreenPhotoPage.qml" line="88"/>
         <source>You and %1 like this</source>
-        <translation>You and %1 like this</translation>
+        <translation>أنت و %1 معجبان بهذا</translation>
     </message>
     <message id="jolla_gallery_facebook-la-two-friend-likes-this">
-        <location filename="../src/FullscreenPhotoPage.qml" line="92"></location>
+        <location filename="../src/FullscreenPhotoPage.qml" line="92"/>
         <source>%1 and %2 like this</source>
-        <translation>%1 and %2 like this</translation>
+        <translation>%1 و %2 معجبان بهذا</translation>
     </message>
     <message id="jolla_gallery_facebook-la-you-and-multiple-friend-like-this" numerus="yes">
-        <location filename="../src/FullscreenPhotoPage.qml" line="100"></location>
+        <location filename="../src/FullscreenPhotoPage.qml" line="100"/>
         <source>You, %1 and %n others like this</source>
-        <translation><numerusform>You, %1 and %2 other like this</numerusform>
-        <numerusform>You, %1 and %2 others like this</numerusform>
-        </translation></message>
+        <translation>
+            <numerusform>أنت, %1 و %2 آخرون معجبون بهذا</numerusform>
+            <numerusform>أنت, %1 و %2 آخرون معجبون بهذا</numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
     <message id="jolla_gallery_facebook-la-multiple-friend-like-this" numerus="yes">
-        <location filename="../src/FullscreenPhotoPage.qml" line="104"></location>
+        <location filename="../src/FullscreenPhotoPage.qml" line="104"/>
         <source>%1 and %2 and %n others like this</source>
-        <translation><numerusform>%1, %2 and %3 other like this</numerusform>
-        <numerusform>%1, %2 and %3 others like this</numerusform>
-        </translation></message>
+        <translation>
+            <numerusform>%1, %2 و %3 آخرون معجون بهذا</numerusform>
+            <numerusform>%1, %2 و %3 آخرون معجون بهذا</numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
     <message id="jolla_gallery_facebook-la-unnamed_photo">
-        <location filename="../src/FullscreenPhotoPage.qml" line="376"></location>
+        <location filename="../src/FullscreenPhotoPage.qml" line="376"/>
         <source>No title</source>
-        <translation>No title</translation>
+        <translation>بلا عنوان</translation>
     </message>
 </context>
 </TS>

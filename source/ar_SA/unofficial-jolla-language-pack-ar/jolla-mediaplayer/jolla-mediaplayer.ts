@@ -1,455 +1,515 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="en_GB">
+<TS version="2.1" language="ar_SA">
 <context>
     <name></name>
     <message id="mediaplayer-me-new-playlist">
-        <location filename="../components/AddToPlaylistPage.qml" line="33"></location>
-        <location filename="../qml/pages/MainViewPage.qml" line="87"></location>
-        <location filename="../qml/pages/PlaylistsPage.qml" line="32"></location>
+        <location filename="../components/AddToPlaylistPage.qml" line="33"/>
+        <location filename="../qml/pages/MainViewPage.qml" line="87"/>
+        <location filename="../qml/pages/PlaylistsPage.qml" line="32"/>
         <source>New playlist</source>
         <extracomment>Menu label for adding a new playlist
 ----------
 Playlists list item in the main view</extracomment>
-        <translation>New playlist</translation>
+        <translation>قائمة تشغيل جديدة</translation>
     </message>
     <message id="mediaplayer-me-search">
-        <location filename="../components/AddToPlaylistPage.qml" line="42"></location>
-        <location filename="../components/PlayQueuePage.qml" line="34"></location>
-        <location filename="../plugins/jolla/qml/AlbumPage.qml" line="74"></location>
-        <location filename="../plugins/jolla/qml/AlbumsPage.qml" line="40"></location>
-        <location filename="../plugins/jolla/qml/AllSongsPage.qml" line="46"></location>
-        <location filename="../plugins/jolla/qml/ArtistAllSongsPage.qml" line="50"></location>
-        <location filename="../plugins/jolla/qml/ArtistPage.qml" line="60"></location>
-        <location filename="../plugins/jolla/qml/ArtistsPage.qml" line="73"></location>
-        <location filename="../qml/pages/MainViewPage.qml" line="36"></location>
-        <location filename="../qml/pages/PlaylistPage.qml" line="78"></location>
-        <location filename="../qml/pages/PlaylistsPage.qml" line="43"></location>
+        <location filename="../components/AddToPlaylistPage.qml" line="42"/>
+        <location filename="../components/PlayQueuePage.qml" line="34"/>
+        <location filename="../plugins/jolla/qml/AlbumPage.qml" line="74"/>
+        <location filename="../plugins/jolla/qml/AlbumsPage.qml" line="40"/>
+        <location filename="../plugins/jolla/qml/AllSongsPage.qml" line="46"/>
+        <location filename="../plugins/jolla/qml/ArtistAllSongsPage.qml" line="50"/>
+        <location filename="../plugins/jolla/qml/ArtistPage.qml" line="60"/>
+        <location filename="../plugins/jolla/qml/ArtistsPage.qml" line="73"/>
+        <location filename="../qml/pages/MainViewPage.qml" line="36"/>
+        <location filename="../qml/pages/PlaylistPage.qml" line="78"/>
+        <location filename="../qml/pages/PlaylistsPage.qml" line="43"/>
         <source>Search</source>
         <extracomment>Search menu entry</extracomment>
-        <translation>Search</translation>
+        <translation>بحث</translation>
     </message>
     <message id="mediaplayer-he-add-to-playlist">
-        <location filename="../components/AddToPlaylistPage.qml" line="55"></location>
+        <location filename="../components/AddToPlaylistPage.qml" line="55"/>
         <source>Add to</source>
         <extracomment>page header for the Playlists page</extracomment>
-        <translation>Add to</translation>
+        <translation>إضافة إلى</translation>
     </message>
     <message id="mediaplayer-tf-playlists-search">
-        <location filename="../components/AddToPlaylistPage.qml" line="59"></location>
-        <location filename="../qml/pages/PlaylistsPage.qml" line="60"></location>
+        <location filename="../components/AddToPlaylistPage.qml" line="59"/>
+        <location filename="../qml/pages/PlaylistsPage.qml" line="60"/>
         <source>Search playlist</source>
         <extracomment>Playlists search field placeholder text</extracomment>
-        <translation>Search for playlist</translation>
+        <translation>بحث في قائمة التشغيل</translation>
     </message>
     <message id="mediaplayer-la-empty-search">
-        <location filename="../components/AddToPlaylistPage.qml" line="83"></location>
-        <location filename="../components/PlayQueuePage.qml" line="42"></location>
-        <location filename="../plugins/jolla/qml/AlbumPage.qml" line="83"></location>
-        <location filename="../plugins/jolla/qml/AlbumsPage.qml" line="51"></location>
-        <location filename="../plugins/jolla/qml/AllSongsPage.qml" line="62"></location>
-        <location filename="../plugins/jolla/qml/ArtistAllSongsPage.qml" line="59"></location>
-        <location filename="../plugins/jolla/qml/ArtistPage.qml" line="71"></location>
-        <location filename="../plugins/jolla/qml/ArtistsPage.qml" line="84"></location>
-        <location filename="../qml/pages/MainViewPage.qml" line="185"></location>
-        <location filename="../qml/pages/PlaylistPage.qml" line="89"></location>
-        <location filename="../qml/pages/PlaylistsPage.qml" line="101"></location>
+        <location filename="../components/AddToPlaylistPage.qml" line="83"/>
+        <location filename="../components/PlayQueuePage.qml" line="42"/>
+        <location filename="../plugins/jolla/qml/AlbumPage.qml" line="83"/>
+        <location filename="../plugins/jolla/qml/AlbumsPage.qml" line="51"/>
+        <location filename="../plugins/jolla/qml/AllSongsPage.qml" line="62"/>
+        <location filename="../plugins/jolla/qml/ArtistAllSongsPage.qml" line="59"/>
+        <location filename="../plugins/jolla/qml/ArtistPage.qml" line="71"/>
+        <location filename="../plugins/jolla/qml/ArtistsPage.qml" line="84"/>
+        <location filename="../qml/pages/MainViewPage.qml" line="185"/>
+        <location filename="../qml/pages/PlaylistPage.qml" line="89"/>
+        <location filename="../qml/pages/PlaylistsPage.qml" line="101"/>
         <source>No items found</source>
         <extracomment>Placeholder text for an empty search view</extracomment>
-        <translation>No items found</translation>
+        <translation>لم يتم العثور على العناصر</translation>
     </message>
     <message id="mediaplayer-la-create-a-playlist">
-        <location filename="../components/AddToPlaylistPage.qml" line="87"></location>
-        <location filename="../qml/pages/PlaylistsPage.qml" line="105"></location>
+        <location filename="../components/AddToPlaylistPage.qml" line="87"/>
+        <location filename="../qml/pages/PlaylistsPage.qml" line="105"/>
         <source>Create a playlist</source>
         <extracomment>Placeholder text for an empty playlists view</extracomment>
-        <translation>Create playlist</translation>
+        <translation>إنشاء قائمة تشغيل</translation>
     </message>
     <message id="mediaplayer-la-unsupported-codec">
-        <location filename="../components/AudioPlayer.qml" line="280"></location>
+        <location filename="../components/AudioPlayer.qml" line="280"/>
         <source>Unsupported codec: %1</source>
         <extracomment>%1 is replaced with specific codec</extracomment>
-        <translation>Unsupported codec: %1</translation>
+        <translation>نوع الترميز %1 غير مدعوم</translation>
     </message>
     <message id="mediaplayer-ap-name">
-        <location filename="../components/AudioPlayer.qml" line="525"></location>
-        <location filename="../src/mediaplayer.cpp" line="49"></location>
+        <location filename="../components/AudioPlayer.qml" line="525"/>
+        <location filename="../src/mediaplayer.cpp" line="49"/>
         <source>Media</source>
-        <translation>Media</translation>
+        <translation>الوسائط</translation>
     </message>
     <message id="mediaplayer-le-number-of-songs" numerus="yes">
-        <location filename="../components/MediaContainerPlaylistDelegate.qml" line="15"></location>
+        <location filename="../components/MediaContainerPlaylistDelegate.qml" line="15"/>
         <source>%n songs</source>
         <extracomment>This is for the playlists page. Shows the number of songs in a playlist.</extracomment>
-        <translation><numerusform>%n song</numerusform>
-        <numerusform>%n songs</numerusform>
-        </translation></message>
+        <translation>
+            <numerusform>%n أغنية</numerusform>
+            <numerusform>%n أغاني</numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
     <message id="mediaplayer-ph-playlist-name">
-        <location filename="../components/NewPlaylistDialog.qml" line="45"></location>
+        <location filename="../components/NewPlaylistDialog.qml" line="45"/>
         <source>Playlist name</source>
         <extracomment>placeholder for the text field in add playlist dialog.</extracomment>
-        <translation>Playlist name</translation>
+        <translation>إسم قائمة التشغيل</translation>
     </message>
     <message id="mediaplayer-he-play-queue">
-        <location filename="../components/NowPlayingMenuItem.qml" line="11"></location>
-        <location filename="../components/PlayQueuePage.qml" line="52"></location>
+        <location filename="../components/NowPlayingMenuItem.qml" line="11"/>
+        <location filename="../components/PlayQueuePage.qml" line="52"/>
         <source>Play queue</source>
         <extracomment>Title for the play queue page</extracomment>
-        <translation>Play queue</translation>
+        <translation>صف التشغيل</translation>
     </message>
     <message id="mediaplayer-tf-playlist-search">
-        <location filename="../components/PlayQueuePage.qml" line="56"></location>
-        <location filename="../qml/pages/PlaylistPage.qml" line="107"></location>
+        <location filename="../components/PlayQueuePage.qml" line="56"/>
+        <location filename="../qml/pages/PlaylistPage.qml" line="107"/>
         <source>Search song</source>
         <extracomment>Playlist search field placeholder text</extracomment>
-        <translation>Search for song</translation>
+        <translation>إبحث عن أغنية</translation>
     </message>
     <message id="mediaplayer-me-playqueue-page-remove">
-        <location filename="../components/PlayQueuePage.qml" line="79"></location>
+        <location filename="../components/PlayQueuePage.qml" line="79"/>
         <source>Remove</source>
         <extracomment>Remove song context menu entry in playqueue page</extracomment>
-        <translation>Remove</translation>
+        <translation>إزالة</translation>
     </message>
     <message id="mediaplayer-la-unknown-author">
-        <location filename="../plugins/jolla/qml/AlbumHeuristics.qml" line="12"></location>
+        <location filename="../plugins/jolla/qml/AlbumHeuristics.qml" line="12"/>
         <source>Unknown artist</source>
         <extracomment>placeholder string for albums without a known artist</extracomment>
-        <translation>Unknown artist</translation>
+        <translation>فنان غير معروف</translation>
     </message>
     <message id="mediaplayer-la-multiple-authors">
-        <location filename="../plugins/jolla/qml/AlbumHeuristics.qml" line="18"></location>
-        <location filename="../plugins/jolla/qml/ArtistPage.qml" line="33"></location>
-        <location filename="../plugins/jolla/qml/TrackerQueriesBuilder.qml" line="32"></location>
+        <location filename="../plugins/jolla/qml/AlbumHeuristics.qml" line="18"/>
+        <location filename="../plugins/jolla/qml/ArtistPage.qml" line="33"/>
+        <location filename="../plugins/jolla/qml/TrackerQueriesBuilder.qml" line="32"/>
         <source>Multiple artists</source>
         <extracomment>string for albums with multiple artists</extracomment>
-        <translation>Various artists</translation>
+        <translation>فنانون متنوعون</translation>
     </message>
     <message id="mediaplayer-la-unknown-album">
-        <location filename="../plugins/jolla/qml/AlbumPage.qml" line="40"></location>
-        <location filename="../plugins/jolla/qml/AlbumPage.qml" line="98"></location>
-        <location filename="../plugins/jolla/qml/ArtistAllSongsPage.qml" line="20"></location>
-        <location filename="../plugins/jolla/qml/ArtistPage.qml" line="29"></location>
-        <location filename="../plugins/jolla/qml/TrackerQueriesBuilder.qml" line="12"></location>
-        <location filename="../plugins/jolla/qml/TrackerQueriesBuilder.qml" line="28"></location>
-        <location filename="../qml/cover/MediaPlayerCover.qml" line="176"></location>
+        <location filename="../plugins/jolla/qml/AlbumPage.qml" line="40"/>
+        <location filename="../plugins/jolla/qml/AlbumPage.qml" line="98"/>
+        <location filename="../plugins/jolla/qml/ArtistAllSongsPage.qml" line="20"/>
+        <location filename="../plugins/jolla/qml/ArtistPage.qml" line="29"/>
+        <location filename="../plugins/jolla/qml/TrackerQueriesBuilder.qml" line="12"/>
+        <location filename="../plugins/jolla/qml/TrackerQueriesBuilder.qml" line="28"/>
+        <location filename="../qml/cover/MediaPlayerCover.qml" line="176"/>
         <source>Unknown album</source>
         <extracomment>placeholder string for albums without a known name
 ----------
-header for the page showing the songs that don't belong to a known album</extracomment>
-        <translation>Unknown album</translation>
+header for the page showing the songs that don&apos;t belong to a known album</extracomment>
+        <translation>ألبوم غير معروف</translation>
     </message>
     <message id="mediaplayer-la-unknown-artist">
-        <location filename="../plugins/jolla/qml/AlbumPage.qml" line="44"></location>
-        <location filename="../plugins/jolla/qml/ArtistAllSongsPage.qml" line="24"></location>
-        <location filename="../plugins/jolla/qml/ArtistAllSongsPage.qml" line="74"></location>
-        <location filename="../plugins/jolla/qml/ArtistPage.qml" line="25"></location>
-        <location filename="../plugins/jolla/qml/TrackerQueriesBuilder.qml" line="16"></location>
-        <location filename="../plugins/jolla/qml/TrackerQueriesBuilder.qml" line="24"></location>
-        <location filename="../plugins/jolla/qml/TrackerQueriesBuilder.qml" line="43"></location>
-        <location filename="../qml/cover/MediaPlayerCover.qml" line="180"></location>
-        <location filename="../components/src/playlists/declarativeplaylistmodel.cpp" line="217"></location>
+        <location filename="../plugins/jolla/qml/AlbumPage.qml" line="44"/>
+        <location filename="../plugins/jolla/qml/ArtistAllSongsPage.qml" line="24"/>
+        <location filename="../plugins/jolla/qml/ArtistAllSongsPage.qml" line="74"/>
+        <location filename="../plugins/jolla/qml/ArtistPage.qml" line="25"/>
+        <location filename="../plugins/jolla/qml/TrackerQueriesBuilder.qml" line="16"/>
+        <location filename="../plugins/jolla/qml/TrackerQueriesBuilder.qml" line="24"/>
+        <location filename="../plugins/jolla/qml/TrackerQueriesBuilder.qml" line="43"/>
+        <location filename="../qml/cover/MediaPlayerCover.qml" line="180"/>
+        <location filename="../components/src/playlists/declarativeplaylistmodel.cpp" line="217"/>
         <source>Unknown artist</source>
         <extracomment>placeholder string to be shown for media without a known artist
 ----------
-placeholder text if we don't know the artist name</extracomment>
-        <translation>Unknown artist</translation>
+placeholder text if we don&apos;t know the artist name</extracomment>
+        <translation>فنان غير معروف</translation>
     </message>
     <message id="mediaplayer-me-album-shuffle-all">
-        <location filename="../plugins/jolla/qml/AlbumPage.qml" line="63"></location>
+        <location filename="../plugins/jolla/qml/AlbumPage.qml" line="63"/>
         <source>Shuffle all</source>
         <extracomment>Shuffle all menu entry in album page</extracomment>
-        <translation>Shuffle all</translation>
+        <translation>خلط الجميع</translation>
     </message>
     <message id="mediaplayer-tf-album-search">
-        <location filename="../plugins/jolla/qml/AlbumPage.qml" line="102"></location>
+        <location filename="../plugins/jolla/qml/AlbumPage.qml" line="102"/>
         <source>Search song</source>
         <extracomment>All songs search field placeholder text</extracomment>
-        <translation>Search for song</translation>
+        <translation>إبحث عن أغنية</translation>
     </message>
     <message id="mediaplayer-me-album-add-to-playlist">
-        <location filename="../plugins/jolla/qml/AlbumPage.qml" line="133"></location>
+        <location filename="../plugins/jolla/qml/AlbumPage.qml" line="133"/>
         <source>Add to playlist</source>
         <extracomment>Add to playlist context menu item in album page</extracomment>
-        <translation>Add to playlist</translation>
+        <translation>إضافة إلى قائمة التشغيل</translation>
     </message>
     <message id="mediaplayer-me-album-add-to-playing-queue">
-        <location filename="../plugins/jolla/qml/AlbumPage.qml" line="139"></location>
+        <location filename="../plugins/jolla/qml/AlbumPage.qml" line="139"/>
         <source>Add to playing queue</source>
         <extracomment>Add to playing queue context menu item in album page</extracomment>
-        <translation>Add to play queue</translation>
+        <translation>إضافة إلى صف التشغيل</translation>
     </message>
     <message id="mediaplayer-me-all-songs-delete">
-        <location filename="../plugins/jolla/qml/AlbumPage.qml" line="145"></location>
-        <location filename="../plugins/jolla/qml/AllSongsPage.qml" line="123"></location>
-        <location filename="../plugins/jolla/qml/ArtistAllSongsPage.qml" line="116"></location>
+        <location filename="../plugins/jolla/qml/AlbumPage.qml" line="145"/>
+        <location filename="../plugins/jolla/qml/AllSongsPage.qml" line="123"/>
+        <location filename="../plugins/jolla/qml/ArtistAllSongsPage.qml" line="116"/>
         <source>Delete</source>
         <extracomment>Delete item</extracomment>
-        <translation>Delete</translation>
+        <translation>حذف</translation>
     </message>
     <message id="mediaplayer-la-get-some-media">
-        <location filename="../plugins/jolla/qml/AlbumsPage.qml" line="55"></location>
-        <location filename="../plugins/jolla/qml/AllSongsPage.qml" line="66"></location>
-        <location filename="../plugins/jolla/qml/ArtistPage.qml" line="75"></location>
-        <location filename="../plugins/jolla/qml/ArtistsPage.qml" line="88"></location>
+        <location filename="../plugins/jolla/qml/AlbumsPage.qml" line="55"/>
+        <location filename="../plugins/jolla/qml/AllSongsPage.qml" line="66"/>
+        <location filename="../plugins/jolla/qml/ArtistPage.qml" line="75"/>
+        <location filename="../plugins/jolla/qml/ArtistsPage.qml" line="88"/>
         <source>Get some media</source>
         <extracomment>Placeholder text for an empty view</extracomment>
-        <translation>No content available. Transfer some songs to your device.</translation>
+        <translation>لا يوجد محتوى متاح. انقل بعض الوسائط إلى جهازك.</translation>
     </message>
     <message id="mediaplayer-he-albums">
-        <location filename="../plugins/jolla/qml/AlbumsPage.qml" line="67"></location>
-        <location filename="../plugins/jolla/qml/ArtistPage.qml" line="89"></location>
+        <location filename="../plugins/jolla/qml/AlbumsPage.qml" line="67"/>
+        <location filename="../plugins/jolla/qml/ArtistPage.qml" line="89"/>
         <source>Albums</source>
         <extracomment>title for the Albums page
 ----------
 title for the Artist page</extracomment>
-        <translation>Albums</translation>
+        <translation>ألبومات</translation>
     </message>
     <message id="mediaplayer-tf-albums-search">
-        <location filename="../plugins/jolla/qml/AlbumsPage.qml" line="71"></location>
-        <location filename="../plugins/jolla/qml/ArtistPage.qml" line="93"></location>
+        <location filename="../plugins/jolla/qml/AlbumsPage.qml" line="71"/>
+        <location filename="../plugins/jolla/qml/ArtistPage.qml" line="93"/>
         <source>Search album</source>
         <extracomment>Albums search field placeholder text</extracomment>
-        <translation>Search for album</translation>
+        <translation>البحث عن الألبومات</translation>
     </message>
     <message id="mediaplayer-me-all-songs-shuffle-all">
-        <location filename="../plugins/jolla/qml/AllSongsPage.qml" line="35"></location>
+        <location filename="../plugins/jolla/qml/AllSongsPage.qml" line="35"/>
         <source>Shuffle all</source>
         <extracomment>Shuffle all menu entry in all songs page</extracomment>
-        <translation>Shuffle all</translation>
+        <translation>خلط الجميع</translation>
     </message>
     <message id="mediaplayer-he-all-songs">
-        <location filename="../plugins/jolla/qml/AllSongsPage.qml" line="78"></location>
+        <location filename="../plugins/jolla/qml/AllSongsPage.qml" line="78"/>
         <source>All songs</source>
         <extracomment>Title for the all songs page</extracomment>
-        <translation>All songs</translation>
+        <translation>جميع الأغاني</translation>
     </message>
     <message id="mediaplayer-tf-songs-search">
-        <location filename="../plugins/jolla/qml/AllSongsPage.qml" line="82"></location>
-        <location filename="../plugins/jolla/qml/ArtistAllSongsPage.qml" line="78"></location>
+        <location filename="../plugins/jolla/qml/AllSongsPage.qml" line="82"/>
+        <location filename="../plugins/jolla/qml/ArtistAllSongsPage.qml" line="78"/>
         <source>Search song</source>
         <extracomment>All songs search field placeholder text
 ----------
 Artist all songs search field placeholder text</extracomment>
-        <translation>Search for song</translation>
+        <translation>إبحث عن أغنية</translation>
     </message>
     <message id="mediaplayer-me-all-songs-add-to-playlist">
-        <location filename="../plugins/jolla/qml/AllSongsPage.qml" line="111"></location>
+        <location filename="../plugins/jolla/qml/AllSongsPage.qml" line="111"/>
         <source>Add to playlist</source>
         <extracomment>Add to playlist context menu item in all songs page</extracomment>
-        <translation>Add to playlist</translation>
+        <translation>إضافة إلى قائمة التشغيل</translation>
     </message>
     <message id="mediaplayer-me-all-songs-add-to-playing-queue">
-        <location filename="../plugins/jolla/qml/AllSongsPage.qml" line="117"></location>
+        <location filename="../plugins/jolla/qml/AllSongsPage.qml" line="117"/>
         <source>Add to playing queue</source>
         <extracomment>Add to playing queue context menu item in all songs page</extracomment>
-        <translation>Add to play queue</translation>
+        <translation>إضافة إلى صف التشغيل</translation>
     </message>
     <message id="mediaplayer-me-artist-shuffle-all">
-        <location filename="../plugins/jolla/qml/ArtistAllSongsPage.qml" line="39"></location>
+        <location filename="../plugins/jolla/qml/ArtistAllSongsPage.qml" line="39"/>
         <source>Shuffle all</source>
         <extracomment>Shuffle all menu entry in artist page</extracomment>
-        <translation>Shuffle all</translation>
+        <translation>خلط الجميع</translation>
     </message>
     <message id="mediaplayer-me-artist-add-to-playlist">
-        <location filename="../plugins/jolla/qml/ArtistAllSongsPage.qml" line="104"></location>
+        <location filename="../plugins/jolla/qml/ArtistAllSongsPage.qml" line="104"/>
         <source>Add to playlist</source>
         <extracomment>Add to playlist context menu item in artist page</extracomment>
-        <translation>Add to playlist</translation>
+        <translation>إضافة إلى قائمة التشغيل</translation>
     </message>
     <message id="mediaplayer-me-artist-add-to-playing-queue">
-        <location filename="../plugins/jolla/qml/ArtistAllSongsPage.qml" line="110"></location>
+        <location filename="../plugins/jolla/qml/ArtistAllSongsPage.qml" line="110"/>
         <source>Add to playing queue</source>
         <extracomment>Add to playing queue context menu item in artist page</extracomment>
-        <translation>Add to play queue</translation>
+        <translation>إضافة إلى صف التشغيل</translation>
     </message>
     <message id="mediaplayer-me-show-all-artist-songs">
-        <location filename="../plugins/jolla/qml/ArtistPage.qml" line="49"></location>
+        <location filename="../plugins/jolla/qml/ArtistPage.qml" line="49"/>
         <source>List all songs</source>
         <extracomment>List all songs of this artist</extracomment>
-        <translation>List all songs</translation>
+        <translation>قائمة الأغاني</translation>
     </message>
     <message id="mediaplayer-la-artist-songs-duration-hours" numerus="yes">
-        <location filename="../plugins/jolla/qml/ArtistsPage.qml" line="20"></location>
+        <location filename="../plugins/jolla/qml/ArtistsPage.qml" line="20"/>
         <source>%n hours</source>
         <extracomment>duration in hours of the songs belonging to an artist</extracomment>
-        <translation><numerusform>%n hour</numerusform>
-        <numerusform>%n hours</numerusform>
-        </translation></message>
+        <translation>
+            <numerusform>%n ساعة</numerusform>
+            <numerusform>%n ساعات</numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
     <message id="mediaplayer-la-artist-songs-duration-minutes" numerus="yes">
-        <location filename="../plugins/jolla/qml/ArtistsPage.qml" line="24"></location>
+        <location filename="../plugins/jolla/qml/ArtistsPage.qml" line="24"/>
         <source>%n minutes</source>
         <extracomment>duration in minutes of the songs belonging to an artist</extracomment>
-        <translation><numerusform>%n minute</numerusform>
-        <numerusform>%n minutes</numerusform>
-        </translation></message>
+        <translation>
+            <numerusform>%n دقيقة</numerusform>
+            <numerusform>%n دقائق</numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
     <message id="mediaplayer-la-artist-songs-duration-hours-minutes">
-        <location filename="../plugins/jolla/qml/ArtistsPage.qml" line="30"></location>
+        <location filename="../plugins/jolla/qml/ArtistsPage.qml" line="30"/>
         <source>%1, %2</source>
-        <extracomment>the duration shown below the artist name in the artists page, %1 is hour string ("N hours"), %2 is minute string</extracomment>
+        <extracomment>the duration shown below the artist name in the artists page, %1 is hour string (&quot;N hours&quot;), %2 is minute string</extracomment>
         <translation>%1 %2</translation>
     </message>
     <message id="mediaplayer-he-artists">
-        <location filename="../plugins/jolla/qml/ArtistsPage.qml" line="100"></location>
+        <location filename="../plugins/jolla/qml/ArtistsPage.qml" line="100"/>
         <source>Artists</source>
         <extracomment>Title for the Artists page</extracomment>
-        <translation>Artists</translation>
+        <translation>فنانون</translation>
     </message>
     <message id="mediaplayer-tf-artists-search">
-        <location filename="../plugins/jolla/qml/ArtistsPage.qml" line="104"></location>
+        <location filename="../plugins/jolla/qml/ArtistsPage.qml" line="104"/>
         <source>Search artist</source>
         <extracomment>Artists search field placeholder text</extracomment>
-        <translation>Search for artist</translation>
+        <translation>البحث عن الفنانون</translation>
     </message>
     <message id="mediaplayer-la-get-music">
-        <location filename="../qml/cover/MediaPlayerCover.qml" line="35"></location>
+        <location filename="../qml/cover/MediaPlayerCover.qml" line="35"/>
         <source>Get music</source>
         <extracomment>Coverpage text when there are no media</extracomment>
-        <translation>Get music</translation>
+        <translation>إحصل على الموسيقى</translation>
     </message>
     <message id="mediaplayer-he-media">
-        <location filename="../qml/pages/MainViewPage.qml" line="48"></location>
+        <location filename="../qml/pages/MainViewPage.qml" line="48"/>
         <source>Media</source>
         <extracomment>Title for the main page</extracomment>
-        <translation>Media</translation>
+        <translation>الوسائط</translation>
     </message>
     <message id="mediaplayer-tf-search-media">
-        <location filename="../qml/pages/MainViewPage.qml" line="52"></location>
+        <location filename="../qml/pages/MainViewPage.qml" line="52"/>
         <source>Search Media</source>
         <extracomment>Main view search field placeholder text</extracomment>
-        <translation>Search for media items</translation>
+        <translation>إبحث عن عناصر الوسائط</translation>
     </message>
     <message id="mediaplayer-la-playlists">
-        <location filename="../qml/pages/MainViewPage.qml" line="90"></location>
+        <location filename="../qml/pages/MainViewPage.qml" line="90"/>
         <source>Playlists</source>
         <extracomment>Playlists list item in the main view</extracomment>
-        <translation>Playlists</translation>
+        <translation>قائمة التشغيل</translation>
     </message>
     <message id="mediaplayer-la-number-of-playlists" numerus="yes">
-        <location filename="../qml/pages/MainViewPage.qml" line="94"></location>
+        <location filename="../qml/pages/MainViewPage.qml" line="94"/>
         <source>%n playlists</source>
         <extracomment>Number of playlists</extracomment>
-        <translation><numerusform>%n playlist</numerusform>
-        <numerusform>%n playlists</numerusform>
-        </translation></message>
+        <translation>
+            <numerusform>%n قائمة التشغيل</numerusform>
+            <numerusform>%n قوائم التشغيل</numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
     <message id="mediaplayer-me-delete">
-        <location filename="../qml/pages/MainViewPage.qml" line="147"></location>
-        <location filename="../qml/pages/PlaylistsPage.qml" line="89"></location>
+        <location filename="../qml/pages/MainViewPage.qml" line="147"/>
+        <location filename="../qml/pages/PlaylistsPage.qml" line="89"/>
         <source>Delete</source>
-        <translation>Delete</translation>
+        <translation>حذف</translation>
     </message>
     <message id="mediaplayer-me-playlist-add-to-playing-queue">
-        <location filename="../qml/pages/PlaylistPage.qml" line="49"></location>
+        <location filename="../qml/pages/PlaylistPage.qml" line="49"/>
         <source>Add to playing queue</source>
         <extracomment>Add to playing queue drop down menu item in playlist page</extracomment>
-        <translation>Add to play queue</translation>
+        <translation>إضافة إلى صف التشغيل</translation>
     </message>
     <message id="mediaplayer-me-playlist-clear-playlist">
-        <location filename="../qml/pages/PlaylistPage.qml" line="56"></location>
+        <location filename="../qml/pages/PlaylistPage.qml" line="56"/>
         <source>Clear playlist</source>
         <extracomment>Clear playlist drop down menu item in playlist page</extracomment>
-        <translation>Clear playlist</translation>
+        <translation>مسح قائمة التشغيل</translation>
     </message>
     <message id="mediaplayer-la-clearing">
-        <location filename="../qml/pages/PlaylistPage.qml" line="62"></location>
+        <location filename="../qml/pages/PlaylistPage.qml" line="62"/>
         <source>Clearing</source>
         <extracomment>Clearing the playlist</extracomment>
-        <translation>Clearing</translation>
+        <translation>يتم المسح</translation>
     </message>
     <message id="mediaplayer-la-add-some-media">
-        <location filename="../qml/pages/PlaylistPage.qml" line="93"></location>
+        <location filename="../qml/pages/PlaylistPage.qml" line="93"/>
         <source>Add some media</source>
-        <extracomment>"Placeholder text for an empty playlist; Add songs to playlist"</extracomment>
-        <translation>Playlist is empty. You can select songs to playlist from All songs, Albums and Artists pages.</translation>
+        <extracomment>&quot;Placeholder text for an empty playlist; Add songs to playlist&quot;</extracomment>
+        <translation>قائمة التشغيل فارغة. يمكنك إختيار الأغاني لقائمة التشغيل من جميع الأغاني والألبومات وصفحات الفنانين.</translation>
     </message>
     <message id="mediaplayer-me-playlist-remove-from-playlist">
-        <location filename="../qml/pages/PlaylistPage.qml" line="137"></location>
+        <location filename="../qml/pages/PlaylistPage.qml" line="137"/>
         <source>Remove from playlist</source>
         <extracomment>Remove from playlist context menu item in playlist page</extracomment>
-        <translation>Remove from playlist</translation>
+        <translation>إزالة من قائمة التشغيل</translation>
     </message>
     <message id="mediaplayer-he-playlists">
-        <location filename="../qml/pages/PlaylistsPage.qml" line="56"></location>
+        <location filename="../qml/pages/PlaylistsPage.qml" line="56"/>
         <source>Playlists</source>
         <extracomment>page header for the playlists page</extracomment>
-        <translation>Playlists</translation>
+        <translation>قائمة التشغيل</translation>
     </message>
     <message id="mediaplayer-la-all-songs">
-        <location filename="../plugins/jolla/jollamediasources.cpp" line="212"></location>
+        <location filename="../plugins/jolla/jollamediasources.cpp" line="212"/>
         <source>All Songs</source>
         <extracomment>Title for the all songs plugin. Shown in the main view</extracomment>
-        <translation>All songs</translation>
+        <translation>جميع الأغاني</translation>
     </message>
     <message id="mediaplayer-la-song-library">
-        <location filename="../plugins/jolla/jollamediasources.cpp" line="219"></location>
+        <location filename="../plugins/jolla/jollamediasources.cpp" line="219"/>
         <source>Song library</source>
         <extracomment>Generic subtitle for the all songs plugin. Shown in the main view</extracomment>
-        <translation>Music library</translation>
+        <translation>مكتبة الموسيقى</translation>
     </message>
     <message id="mediaplayer-la-songs-num" numerus="yes">
-        <location filename="../plugins/jolla/jollamediasources.cpp" line="223"></location>
+        <location filename="../plugins/jolla/jollamediasources.cpp" line="223"/>
         <source>%n song(s)</source>
         <extracomment>Subtitle for the all songs plugin with the amount of found songs. Shown in the main view</extracomment>
-        <translation><numerusform>%n song</numerusform>
-        <numerusform>%n songs</numerusform>
-        </translation></message>
+        <translation>
+            <numerusform>%n أغنية</numerusform>
+            <numerusform>%n الأغاني</numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
     <message id="mediaplayer-la-songs-num-searching" numerus="yes">
-        <location filename="../plugins/jolla/jollamediasources.cpp" line="227"></location>
+        <location filename="../plugins/jolla/jollamediasources.cpp" line="227"/>
         <source>%n song(s) - Searching ...</source>
         <extracomment>Subtitle for the all songs plugin with the amount of found songs while searching. Shown in the main view</extracomment>
-        <translation><numerusform>%n song - Searching...</numerusform>
-        <numerusform>%n songs - Searching...</numerusform>
-        </translation></message>
+        <translation>
+            <numerusform>بحث...-أغنية %n</numerusform>
+            <numerusform>بحث...-أغاني %n</numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
     <message id="mediaplayer-la-albums">
-        <location filename="../plugins/jolla/jollamediasources.cpp" line="277"></location>
+        <location filename="../plugins/jolla/jollamediasources.cpp" line="277"/>
         <source>Albums</source>
         <extracomment>Title for the albums plugin. Shown in the main view</extracomment>
-        <translation>Albums</translation>
+        <translation>ألبومات</translation>
     </message>
     <message id="mediaplayer-la-album-library">
-        <location filename="../plugins/jolla/jollamediasources.cpp" line="284"></location>
+        <location filename="../plugins/jolla/jollamediasources.cpp" line="284"/>
         <source>Album library</source>
         <extracomment>Generic subtitle for the albums plugin. Shown in the main view</extracomment>
-        <translation>Album library</translation>
+        <translation>مكتبة الألبومات</translation>
     </message>
     <message id="mediaplayer-la-albums-num" numerus="yes">
-        <location filename="../plugins/jolla/jollamediasources.cpp" line="288"></location>
+        <location filename="../plugins/jolla/jollamediasources.cpp" line="288"/>
         <source>%n album(s)</source>
         <extracomment>Subtitle for the the albums plugin with the amount of found albums. Shown in the main view</extracomment>
-        <translation><numerusform>%n album</numerusform>
-        <numerusform>%n albums</numerusform>
-        </translation></message>
+        <translation>
+            <numerusform>%n ألبوم</numerusform>
+            <numerusform>%n ألبومات</numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
     <message id="mediaplayer-la-albums-num-searching" numerus="yes">
-        <location filename="../plugins/jolla/jollamediasources.cpp" line="292"></location>
+        <location filename="../plugins/jolla/jollamediasources.cpp" line="292"/>
         <source>%n album(s) - Searching ...</source>
         <extracomment>Subtitle for the the albums plugin with the amount of found albums while searching. Shown in the main view</extracomment>
-        <translation><numerusform>%n album - Searching...</numerusform>
-        <numerusform>%n albums - Searching...</numerusform>
-        </translation></message>
+        <translation>
+            <numerusform>بحث...-ألبوم %n</numerusform>
+            <numerusform>بحث...-ألبومات %n</numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
     <message id="mediaplayer-la-artists">
-        <location filename="../plugins/jolla/jollamediasources.cpp" line="342"></location>
+        <location filename="../plugins/jolla/jollamediasources.cpp" line="342"/>
         <source>Artists</source>
         <extracomment>Title for the artistss plugin. Shown in the main view</extracomment>
-        <translation>Artists</translation>
+        <translation>فنانون</translation>
     </message>
     <message id="mediaplayer-la-artist-library">
-        <location filename="../plugins/jolla/jollamediasources.cpp" line="349"></location>
+        <location filename="../plugins/jolla/jollamediasources.cpp" line="349"/>
         <source>Artist library</source>
         <extracomment>Generic subtitle for the artists plugin. Shown in the main view</extracomment>
-        <translation>Artist library</translation>
+        <translation>مكتبة الفنانين</translation>
     </message>
     <message id="mediaplayer-la-artists-num" numerus="yes">
-        <location filename="../plugins/jolla/jollamediasources.cpp" line="353"></location>
+        <location filename="../plugins/jolla/jollamediasources.cpp" line="353"/>
         <source>%n artist(s)</source>
         <extracomment>Subtitle for the artists plugin with the amount of found artists. Shown in the main view</extracomment>
-        <translation><numerusform>%n artist</numerusform>
-        <numerusform>%n artists</numerusform>
-        </translation></message>
+        <translation>
+            <numerusform>%n فنان</numerusform>
+            <numerusform>%n فنانون</numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
     <message id="mediaplayer-la-artists-num-searching" numerus="yes">
-        <location filename="../plugins/jolla/jollamediasources.cpp" line="357"></location>
+        <location filename="../plugins/jolla/jollamediasources.cpp" line="357"/>
         <source>%n artist(s) - Searching ...</source>
         <extracomment>Subtitle for the artists plugin with the amount of found artists while searching. Shown in the main view</extracomment>
-        <translation><numerusform>%n artist - Searching...</numerusform>
-        <numerusform>%n artists - Searching...</numerusform>
-        </translation></message>
+        <translation>
+            <numerusform>بحث...-فنان %n</numerusform>
+            <numerusform>بحث...-فنانون %n</numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
 </context>
 </TS>
