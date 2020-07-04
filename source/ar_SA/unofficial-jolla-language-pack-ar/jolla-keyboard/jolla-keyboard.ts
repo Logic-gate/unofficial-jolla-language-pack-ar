@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="en_GB">
+<TS version="2.1" language="ar_SA">
 <context>
     <name></name>
     <message id="text_input-la-swipe_close_gesture_hint">
