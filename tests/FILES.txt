@@ -11,3 +11,4 @@
 /usr/share/jolla-email/pages/FolderListPage.qml:13
 /usr/share/jolla-email/pages/NewFolderDialog.qml:27
 /usr/share/jolla-gallery/pages/GalleryGridPage.qml:75
+/usr/share/jolla-settings/pages/text_input/textinput.qml:11

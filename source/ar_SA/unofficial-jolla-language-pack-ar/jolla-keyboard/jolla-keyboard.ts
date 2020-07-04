@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="ar_SA">
+<TS version="2.0" language="ar_SA">
 <context>
     <name></name>
     <message id="text_input-la-swipe_close_gesture_hint">
@@ -35,7 +35,7 @@
     <message id="settings_text_input-he-text_input">
         <location filename="../settings/textinput.qml" line="267"/>
         <source>Text input</source>
-        <translation>النصل المُدخل</translation>
+        <translation>النص المُدخل</translation>
     </message>
     <message id="settings_text_input-bt-enabled_keyboards">
         <location filename="../settings/textinput.qml" line="272"/>
@@ -98,7 +98,7 @@
     <message id="settings_text_input-text_input">
         <location filename="LayoutTranslations.qml" line="7"/>
         <source>Text input</source>
-        <translation>النصل المُدخل</translation>
+        <translation>النص المُدخل</translation>
     </message>
     <message id="text_input_emojis">
         <location filename="LayoutTranslations.qml" line="10"/>
