@@ -14,3 +14,14 @@
 /usr/share/jolla-settings/pages/text_input/textinput.qml:11
 /usr/share/jolla-settings/pages/jolla-messages/SimCardMessagingSettings.qml:13
 /usr/share/jolla-settings/pages/jolla-notes/notes.qml:15
+/usr/share/jolla-settings/pages/display/display.qml:10
+/usr/share/jolla-settings/pages/gestures/gestures.qml:13
+/usr/share/jolla-settings/pages/lockscreen/lockscreen.qml:12
+/usr/share/jolla-settings/pages/gps_and_location/location.qml:18
+/usr/share/jolla-settings/pages/nfc/nfc.qml:10
+/usr/share/jolla-settings/pages/devicelock/devicelock.qml:11
+/usr/share/jolla-settings/pages/pin/pin.qml:11
+/usr/share/jolla-settings/pages/certificates/certificates.qml:8
+/usr/share/jolla-settings/pages/datetime/datetime.qml:16
+/usr/share/jolla-settings/pages/battery/mainpage.qml:10
+/usr/share/jolla-settings/pages/developermode/developermode.qml:24
