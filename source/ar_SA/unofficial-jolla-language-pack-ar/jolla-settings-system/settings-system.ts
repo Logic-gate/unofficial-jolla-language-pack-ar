@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="ar">
+<TS version="2.1" language="ar_SA">
 <context>
     <name></name>
     <message id="settings_about-he-about_device">
@@ -31,45 +31,45 @@
     <message id="settings_about-la-serial">
         <location filename="../about/about.qml" line="115"/>
         <source>Serial number</source>
-        <translation>Serial number</translation>
+        <translation type="unfinished">الرقم التسلسلي</translation>
     </message>
     <message id="settings_about-la-sailfish_os_build">
         <location filename="../about/about.qml" line="143"/>
         <source>Build</source>
         <extracomment>The build/version number of the currently installed Sailfish OS.</extracomment>
-        <translation>Build</translation>
+        <translation type="unfinished">الإصدار</translation>
     </message>
     <message id="settings_about-la-unknown_sailfish_version">
         <location filename="../about/about.qml" line="147"/>
         <source>Unknown version</source>
-        <translation>Unknown version</translation>
+        <translation type="unfinished">إصدار مجهول</translation>
     </message>
     <message id="settings_about-la-vendor_software">
         <location filename="../about/about.qml" line="162"/>
         <source>Vendor software</source>
         <extracomment>Label for the version of the vendor-specific software package</extracomment>
-        <translation>Vendor software</translation>
+        <translation type="unfinished">مُـورِّد البرنامج</translation>
     </message>
     <message id="settings_about-la-adaptation">
         <location filename="../about/about.qml" line="177"/>
         <source>Device adaptation</source>
         <extracomment>Label for the version of the device-specific software package (drivers)</extracomment>
-        <translation>Device adaptation</translation>
+        <translation type="unfinished">تهيئ الجهاز</translation>
     </message>
     <message id="settings_about-la-wlan_mac_address">
         <location filename="../about/about.qml" line="184"/>
         <source>WLAN MAC address</source>
-        <translation>WLAN MAC address</translation>
+        <translation type="unfinished">عنوان WLAN MAC</translation>
     </message>
     <message id="settings_about-la-bluetooth_address">
         <location filename="../about/about.qml" line="190"/>
         <source>Bluetooth address</source>
-        <translation>Bluetooth address</translation>
+        <translation type="unfinished">عنوان البلوتوث</translation>
     </message>
     <message id="settings_about-la-additional_features">
         <location filename="../about/AdditionalSoftwareField.qml" line="7"/>
         <source>Additional features</source>
-        <translation>Additional features</translation>
+        <translation type="unfinished">ميزات إضافية</translation>
     </message>
     <message id="settings_about-la-modem_firmware_variant">
         <location filename="../about/hidden-detail-snippets/100-modem-feature-file.qml" line="17"/>
@@ -100,193 +100,194 @@
     <message id="settings_battery-la-battery_saving_mode_not_in_use">
         <location filename="../battery/mainpage.qml" line="20"/>
         <source>Not in use</source>
-        <translation>Not in use</translation>
+        <translation type="unfinished">غير مستخدم</translation>
     </message>
     <message id="settings_battery-la-battery_level">
         <location filename="../battery/mainpage.qml" line="23"/>
         <source>Battery %1%</source>
-        <translation>Battery %1%</translation>
+        <translation type="unfinished">البطارية %1%</translation>
     </message>
     <message id="settings_system-he-battery">
         <location filename="../battery/mainpage.qml" line="45"/>
         <location filename="../tests/auto/tst_batterypage.qml" line="24"/>
         <source>Battery</source>
-        <translation>Battery</translation>
+        <translation type="unfinished">البطارية</translation>
     </message>
     <message id="settings_battery-la-battery-saving-mode-enabled">
         <location filename="../battery/mainpage.qml" line="53"/>
         <source>Enable battery saving mode until charger is connected the next time</source>
-        <translation>Enable battery saving mode until charger is connected the next time</translation>
+        <translation type="unfinished">مكّن وضع توفير شحن البطارية حتى توصيل الشاحن في المرة التالية</translation>
     </message>
     <message id="settings_battery-la-battery-saving-mode-enabled_description">
         <location filename="../battery/mainpage.qml" line="56"/>
         <source>Battery saving mode will adjust the device behaviour to help improve battery life. It may disable email and calendar sync, lower display brightness etc.</source>
-        <translation>Battery saving mode adjusts the device behavior to help improve battery life. It may disable email and calendar syncs, lower display brightness etc.</translation>
+        <translation type="unfinished">يغيير وضع توفير شحن البطارية سلوك الجهاز للمساعدة في تحسين عمر البطارية. قد يؤدي إلى تعطيل مزامنة البريد الإلكتروني والتقويم ، وانخفاض سطوع الشاشة وما إلى ذلك.</translation>
     </message>
     <message id="settings_battery-la-automatic_battery_saving">
         <location filename="../battery/mainpage.qml" line="62"/>
         <source>Automatic battery saving</source>
-        <translation>Automatic battery saving</translation>
+        <translation type="unfinished">توفير تلقائي للبطارية</translation>
     </message>
     <message id="settings_battery-la-battery_saving_threshold">
         <location filename="../battery/mainpage.qml" line="70"/>
         <source>Activation threshold</source>
-        <translation>Activation threshold</translation>
+        <translation type="unfinished">عتبة التنشيط</translation>
     </message>
     <message id="settings_battery-la-power_saving_mode_threshold_description">
         <location filename="../battery/mainpage.qml" line="72"/>
         <source>Set threshold for automatically enabling battery saving mode.</source>
-        <translation>Set threshold for automatically enabling battery saving mode</translation>
+        <translation type="unfinished">قم بتعيين حد لتمكين وضع توفير البطارية تلقائيًا</translation>
     </message>
     <message id="settings_system-no_certificates_found">
         <location filename="../certificates/BundlePage.qml" line="43"/>
         <source>No certificates found</source>
-        <translation>No certificates found</translation>
+        <translation type="unfinished">لم يتم العثور على شهادات</translation>
     </message>
     <message id="settings_system-he-certificates">
         <location filename="../certificates/certificates.qml" line="20"/>
         <source>Certificates</source>
-        <translation>Certificates</translation>
+        <translation type="unfinished">الشهادات</translation>
     </message>
     <message id="settings_system-he-tls_certificates">
         <location filename="../certificates/certificates.qml" line="60"/>
         <source>TLS Certificates</source>
-        <translation>TLS Certificates</translation>
+        <translation type="unfinished">شهادات TLS</translation>
     </message>
     <message id="settings_system-la-tls_certificates_subtitle">
         <location filename="../certificates/certificates.qml" line="62"/>
         <source>Certificates trusted for TLS authentication</source>
-        <translation>Certificates trusted for TLS authentication</translation>
+        <translation type="unfinished">الشهادات الموثوقة لمصادقة TLS</translation>
     </message>
     <message id="settings_system-he-email_certificates">
         <location filename="../certificates/certificates.qml" line="64"/>
         <source>Email Certificates</source>
-        <translation>Email certificates</translation>
+        <translation type="unfinished">شهادات البريد الإلكتروني</translation>
     </message>
     <message id="settings_system-la-email_certificates_subtitle">
         <location filename="../certificates/certificates.qml" line="66"/>
         <source>Certificates trusted for email protection</source>
-        <translation>Certificates trusted for email protection</translation>
+        <translation type="unfinished">الشهادات الموثوقة لحماية البريد الإلكتروني</translation>
     </message>
     <message id="settings_system-he-objsign_certificates">
         <location filename="../certificates/certificates.qml" line="68"/>
         <source>Code Signing Certificates</source>
-        <translation>Code signing certificates</translation>
+        <translation type="unfinished">شهادات توقيع الرمز</translation>
     </message>
     <message id="settings_system-la-objsign_certificates_subtitle">
         <location filename="../certificates/certificates.qml" line="70"/>
         <source>Certificates trusted for code signing</source>
-        <translation>Certificates trusted for code signing</translation>
+        <translation type="unfinished">شهادات موثوقة لتوقيع التعليمات البرمجية</translation>
     </message>
     <message id="settings_datetime-he-time_date">
         <location filename="../datetime/datetime.qml" line="27"/>
         <source>Time and Date</source>
-        <translation>Time and date</translation>
+        <translation type="unfinished">الوقت و التاريخ</translation>
     </message>
     <message id="settings_developermode-la-requires_jolla_account">
         <location filename="../developermode/DeveloperAccountPrompt.qml" line="33"/>
         <source>Developer mode requires a Jolla account</source>
-        <translation>Developer mode requires a Jolla account</translation>
+        <translation type="unfinished">يتطلب وضع المطور حساب Jolla</translation>
     </message>
     <message id="settings_developermode-la-requires_account">
         <location filename="../developermode/DeveloperAccountPrompt.qml" line="35"/>
         <source>Developer mode requires an account</source>
-        <translation>Developer mode requires an account</translation>
+        <translation type="unfinished">يتطلب وضع المطور حسابًا</translation>
     </message>
     <message id="settings_developermode-bu-add_account">
         <location filename="../developermode/DeveloperAccountPrompt.qml" line="43"/>
         <source>Add Account</source>
-        <translation>Add account</translation>
+        <translation type="unfinished">إضافة حساب</translation>
     </message>
     <message id="settings_developermode-he-developer_tools">
         <location filename="../developermode/developermode.qml" line="389"/>
         <source>Developer tools</source>
-        <translation>Developer tools</translation>
+        <translation type="unfinished">أدوات المطور</translation>
     </message>
     <message id="settings_developermode-bu-enable_developer_mode">
         <location filename="../developermode/developermode.qml" line="430"/>
         <source>Developer mode</source>
-        <translation>Developer mode</translation>
+        <translation type="unfinished">وضع المطور</translation>
     </message>
     <message id="settings_developermode-la-disabling_developer_mode">
         <location filename="../developermode/developermode.qml" line="441"/>
         <source>Disabling developer mode</source>
-        <translation>Disabling developer mode</translation>
+        <translation type="unfinished">تعطيل وضع المطور</translation>
     </message>
     <message id="settings_developermode-la-rnd_enable_developer_updates">
         <location filename="../developermode/developermode.qml" line="450"/>
         <source>Device in R&amp;D mode, enable developer updates below</source>
-        <translation>Device in R&amp;D mode, enable developer updates below</translation>
+        <translation type="unfinished">الجهاز في وضع R&amp;D ، قم بتمكين تحديثات المطورين أدناه</translation>
     </message>
     <message id="settings_developermode-la-cbeta_enable_developer_updates">
         <location filename="../developermode/developermode.qml" line="455"/>
         <source>Device in CBeta domain, enable developer updates below</source>
-        <translation>Device in CBeta domain, enable developer updates below</translation>
+        <translation type="unfinished">الجهاز في مجال CBeta ، قم بتمكين تحديثات المطورين أدناه</translation>
     </message>
     <message id="settings_developermode-la-custom_domain_enable_developer_updates">
         <location filename="../developermode/developermode.qml" line="460"/>
         <source>Device in &apos;%0&apos; domain, enable developer updates below</source>
-        <translation>Device in %0 domain, enable developer updates below</translation>
+        <translation type="unfinished">الجهاز في مجال %0، قم بتمكين تحديثات المطورين أدناه</translation>
     </message>
     <message id="settings_developermode-la-disabled_remote_connection">
         <location filename="../developermode/developermode.qml" line="488"/>
         <source>Remote connection disabled</source>
-        <translation>Remote connection disabled</translation>
+        <translation type="unfinished">تم تعطيل الاتصال عن بعد</translation>
     </message>
     <message id="settings_developermode-bu-enable_remote_connection">
         <location filename="../developermode/developermode.qml" line="501"/>
         <source>Remote connection</source>
-        <translation>Remote connection</translation>
+        <translation type="unfinished">الإتصال عن بعد</translation>
     </message>
     <message id="settings_developermode-la-allow_login_via_ssh_username">
         <location filename="../developermode/developermode.qml" line="504"/>
         <source>Allow login via SSH with username &apos;%0&apos;</source>
-        <translation>Allow login via SSH with username &apos;%0&apos;</translation>
+        <translation type="unfinished">السماح بتسجيل الدخول عبر SSH باسم المستخدم &apos;%0</translation>
     </message>
     <message id="settings_developermode-ph-enter_password">
         <location filename="../developermode/developermode.qml" line="540"/>
         <source>Set password</source>
-        <translation>Set password for SSH and root access</translation>
+        <translatorcomment>root = صلاحيات النحكم الجذرية since root does not mean what it means...</translatorcomment>
+        <translation type="unfinished">قم بتعيين كلمة المرور لـ SSH و صلاحيات النحكم الجذرية</translation>
     </message>
     <message id="settings_developermode-la-password">
         <location filename="../developermode/developermode.qml" line="546"/>
         <source>Password</source>
-        <translation>Password</translation>
+        <translation type="unfinished">كلمة السر</translation>
     </message>
     <message id="settings_developermode-bu-generate_password">
         <location filename="../developermode/developermode.qml" line="566"/>
         <source>Generate</source>
-        <translation>Generate</translation>
+        <translation type="unfinished">إنشاء</translation>
     </message>
     <message id="settings_developermode-bu-set_password">
         <location filename="../developermode/developermode.qml" line="588"/>
         <source>Save</source>
-        <translation>Save</translation>
+        <translation type="unfinished">حفظ</translation>
     </message>
     <message id="settings_developermode-bu-clear_password">
         <location filename="../developermode/developermode.qml" line="590"/>
         <source>Clear</source>
-        <translation>Clear</translation>
+        <translation type="unfinished">إزالة</translation>
     </message>
     <message id="settings_developermode-la-network">
         <location filename="../developermode/developermode.qml" line="599"/>
         <source>Networking</source>
-        <translation>Networking</translation>
+        <translation type="unfinished">الشبكة</translation>
     </message>
     <message id="settings_developermode-la-wlan_ip_address">
         <location filename="../developermode/developermode.qml" line="605"/>
         <source>WLAN IP address</source>
-        <translation>WLAN IP address</translation>
+        <translation type="unfinished">عنوان IP لشبكة WLAN</translation>
     </message>
     <message id="settings_developermode-la-usb_ip_address">
         <location filename="../developermode/developermode.qml" line="619"/>
         <source>USB IP address</source>
-        <translation>USB IP address</translation>
+        <translation type="unfinished">عنوان IP للUSB</translation>
     </message>
     <message id="settings_developermode-ph-ip_address">
         <location filename="../developermode/developermode.qml" line="629"/>
         <source>IP address</source>
-        <translation>IP address</translation>
+        <translation type="unfinished">عنوان IP</translation>
     </message>
     <message id="settings_developermode-la-ssu">
         <location filename="../developermode/developermode.qml" line="644"/>
@@ -296,100 +297,100 @@
     <message id="settings_developermode-la-disabled_developer_updates">
         <location filename="../developermode/developermode.qml" line="655"/>
         <source>Developer updates disabled</source>
-        <translation>Developer updates disabled</translation>
+        <translation type="unfinished">تم تعطيل تحديثات المطور</translation>
     </message>
     <message id="settings_developermode-bu-enable_developer_updates">
         <location filename="../developermode/developermode.qml" line="673"/>
         <source>Enable developer updates</source>
-        <translation>Enable developer updates</translation>
+        <translation type="unfinished">تمكين تحديثات المطورين</translation>
     </message>
     <message id="settings_developermode-la-ssu_enabled">
         <location filename="../developermode/developermode.qml" line="676"/>
         <source>Successfully registered with SSU in &apos;%0&apos; domain</source>
-        <translation>Registered with SSU in %0 domain</translation>
+        <translation type="unfinished">مسجل مع SSU في المجال %0</translation>
     </message>
     <message id="settings_developermode-la-ssu_registration">
         <location filename="../developermode/developermode.qml" line="678"/>
         <source>Access to developer repositories requires registration</source>
-        <translation>Access to developer repositories requires registration</translation>
+        <translation type="unfinished">يتطلب التسجيل للوصول إلى قواعد المطورين</translation>
     </message>
     <message id="settings_developermode-he-tools">
         <location filename="../developermode/developermode.qml" line="687"/>
         <source>Tools</source>
-        <translation>Tools</translation>
+        <translation type="unfinished">أدوات</translation>
     </message>
     <message id="settings_developermode-cb-framerate_display">
         <location filename="../developermode/developermode.qml" line="693"/>
         <source>Framerate display</source>
-        <translation>Frame rate display</translation>
+        <translation type="unfinished">عرض معدل لقطات الإطار</translation>
     </message>
     <message id="settings_developermode-va-off">
         <location filename="../developermode/developermode.qml" line="697"/>
         <source>Off</source>
-        <translation>Off</translation>
+        <translation type="unfinished">إيقاف</translation>
     </message>
     <message id="settings_developermode-va-simple">
         <location filename="../developermode/developermode.qml" line="701"/>
         <source>Simple</source>
-        <translation>Simple</translation>
+        <translation type="unfinished">مُبسط</translation>
     </message>
     <message id="settings_developermode-va-detailed">
         <location filename="../developermode/developermode.qml" line="705"/>
         <source>Detailed</source>
-        <translation>Detailed</translation>
+        <translation type="unfinished">مُفصل</translation>
     </message>
     <message id="settings_developermode-bu-show_reboot_action">
         <location filename="../developermode/developermode.qml" line="740"/>
         <source>Show reboot action on top menu</source>
-        <translation>Show reboot option on top menu</translation>
+        <translation type="unfinished">إظهار خيار إعادة التشغيل في القائمة العلوية</translation>
     </message>
     <message id="settings_developermode-bu-allow_usb_diagnostic_mode">
         <location filename="../developermode/developermode.qml" line="756"/>
         <source>Allow USB diagnostic mode</source>
-        <translation>Allow USB diagnostic mode</translation>
+        <translation type="unfinished">السماح بوضع التشخيص عبر USB</translation>
     </message>
     <message id="settings_system-la-disabled_by_device_manager">
         <location filename="../developermode/developermode.qml" line="767"/>
         <location filename="../plugin/DisabledByMdmBanner.qml" line="33"/>
         <source>Disabled by %1 Device Manager</source>
         <extracomment>%1 is operating system name without OS suffix</extracomment>
-        <translation>Disabled by %1 Device Manager</translation>
+        <translation type="unfinished">معطل بواسطة %1 مدير الجهاز</translation>
     </message>
     <message id="settings_developermode-bt-allow_device_flashing">
         <location filename="../developermode/developermode.qml" line="798"/>
         <source>Allow device flashing</source>
         <extracomment>User can flash device with fastboot flash tool.</extracomment>
-        <translation>Allow device flashing</translation>
+        <translation type="unfinished">السماح بالكتاية على البرامج الثابتة (Flashing)</translation>
     </message>
     <message id="settings_developermode-la-preparing_changes">
         <location filename="../developermode/developermode.qml" line="831"/>
         <source>Preparing changes</source>
-        <translation>Preparing changes</translation>
+        <translation type="unfinished">تحضير التغييرات</translation>
     </message>
     <message id="settings_developermode-la-downloading_packages">
         <location filename="../developermode/developermode.qml" line="834"/>
         <source>Downloading packages</source>
-        <translation>Downloading packages</translation>
+        <translation type="unfinished">تحميل الحزم البرمجية</translation>
     </message>
     <message id="settings_developermode-la-installing_developer_mode">
         <location filename="../developermode/developermode.qml" line="837"/>
         <source>Installing developer mode</source>
-        <translation>Installing developer mode</translation>
+        <translation type="unfinished">تثبيت وضع المطور</translation>
     </message>
     <message id="settings_developermode-la-removing_developer_mode">
         <location filename="../developermode/developermode.qml" line="840"/>
         <source>Removing developer mode</source>
-        <translation>Removing developer mode</translation>
+        <translation type="unfinished">إزالة وضع المطور</translation>
     </message>
     <message id="settings_developermode-bu-accept">
         <location filename="../developermode/DisclaimerDialog.qml" line="20"/>
         <source>Accept</source>
-        <translation>Accept</translation>
+        <translation type="unfinished">قبول</translation>
     </message>
     <message id="settings_developermode-lb-developer_terms">
         <location filename="../developermode/DisclaimerDialog.qml" line="22"/>
         <source>Developer terms</source>
-        <translation>Developer Terms</translation>
+        <translation type="unfinished">شروط المطور</translation>
     </message>
     <message id="settings_developermode-lb-disclaimer_text">
         <location filename="../developermode/DisclaimerDialog.qml" line="34"/>
@@ -399,533 +400,533 @@
     <message id="settings_developermode-bu-login">
         <location filename="../developermode/RegisterSSUDialog.qml" line="25"/>
         <source>Login</source>
-        <translation>Sign in</translation>
+        <translation type="unfinished">تسجيل الدخول</translation>
     </message>
     <message id="settings_developermode-ph-username">
         <location filename="../developermode/RegisterSSUDialog.qml" line="32"/>
         <source>Username</source>
-        <translation>Username</translation>
+        <translation type="unfinished">إسم المستخدم</translation>
     </message>
     <message id="settings_developermode-lb-username">
         <location filename="../developermode/RegisterSSUDialog.qml" line="35"/>
         <source>Username</source>
-        <translation>Username</translation>
+        <translation type="unfinished">إسم المستخدم</translation>
     </message>
     <message id="settings_developermode-ph-domain">
         <location filename="../developermode/RegisterSSUDialog.qml" line="60"/>
         <source>SSU Domain</source>
-        <translation>SSU Domain</translation>
+        <translation type="unfinished">مجال SSU</translation>
     </message>
     <message id="settings_developermode-lb-domain">
         <location filename="../developermode/RegisterSSUDialog.qml" line="63"/>
         <source>SSU Domain</source>
-        <translation>SSU Domain</translation>
+        <translation type="unfinished">مجال SSU</translation>
     </message>
     <message id="settings_devicelock-he-devicelock">
         <location filename="../devicelock/devicelock.qml" line="121"/>
         <source>Device lock</source>
-        <translation>Device lock</translation>
+        <translation type="unfinished">قُفل الجهاز</translation>
     </message>
     <message id="settings_devicelock-la-status_combobox">
         <location filename="../devicelock/devicelock.qml" line="130"/>
         <source>Automatic locking</source>
-        <translation>Automatic locking</translation>
+        <translation type="unfinished">القفل التلقائي</translation>
     </message>
     <message id="settings_devicelock-me-off">
         <location filename="../devicelock/devicelock.qml" line="143"/>
         <source>Not in use</source>
-        <translation>Not in use</translation>
+        <translation type="unfinished">غير مستخدم</translation>
     </message>
     <message id="settings_devicelock-me-on0">
         <location filename="../devicelock/devicelock.qml" line="149"/>
         <source>No delay</source>
-        <translation>No delay</translation>
+        <translation type="unfinished">فوراً</translation>
     </message>
     <message id="settings_devicelock-me-on5">
         <location filename="../devicelock/devicelock.qml" line="154"/>
         <source>5 minutes</source>
-        <translation>5 minutes</translation>
+        <translation type="unfinished">5 دقائق</translation>
     </message>
     <message id="settings_devicelock-me-on10">
         <location filename="../devicelock/devicelock.qml" line="161"/>
         <source>10 minutes</source>
-        <translation>10 minutes</translation>
+        <translation type="unfinished">10 دقائق</translation>
     </message>
     <message id="settings_devicelock-me-on30">
         <location filename="../devicelock/devicelock.qml" line="168"/>
         <source>30 minutes</source>
-        <translation>30 minutes</translation>
+        <translation type="unfinished">30 دقيقة</translation>
     </message>
     <message id="settings_devicelock-me-on60">
         <location filename="../devicelock/devicelock.qml" line="175"/>
         <source>60 minutes</source>
-        <translation>60 minutes</translation>
+        <translation type="unfinished">60 دقيقة</translation>
     </message>
     <message id="settings_devicelock-la-show_notification">
         <location filename="../devicelock/devicelock.qml" line="218"/>
         <source>Show notification banners when device is locked</source>
-        <translation>Show notifications when device is locked</translation>
+        <translation type="unfinished">إظهار الإشعارات عندما يكون الجهاز مقفلاً</translation>
     </message>
     <message id="settings_devicelock-la-allow_feeds">
         <location filename="../devicelock/devicelock.qml" line="232"/>
         <source>Allow feeds while locked</source>
-        <translation>Allow feeds while locked</translation>
+        <translation type="unfinished">السماح بالخلاصات أثناء القفل</translation>
     </message>
     <message id="settings_devicelock-la-digit_only_keypad">
         <location filename="../devicelock/devicelock.qml" line="248"/>
         <source>Digit only keypad</source>
         <extracomment>This switch chooses between Digit only keypad (current default behaviour) and new qwerty-keyboard for devicelock</extracomment>
-        <translation>Numeric keypad</translation>
+        <translation type="unfinished">قفل المفاتيح العددية</translation>
     </message>
     <message id="settings_devicelock-la-busy-description">
         <location filename="../devicelock/devicelock.qml" line="257"/>
         <source>You can only enable when your security code is digit only</source>
         <extracomment>This description how to get digit only keypad back is showed when user has defined non-digit lockcode and he has qwerty enabled</extracomment>
-        <translation>You can choose this option when your security code has only numbers</translation>
+        <translation type="unfinished">يمكنك تحديد هذا الخيار عندما يكون رمز الأمان الخاص بك يحتوي على أرقام فقط</translation>
     </message>
     <message id="settings_devicelock-he-fingerprint">
         <location filename="../devicelock/devicelock.qml" line="275"/>
         <source>Fingerprint</source>
-        <translation>Fingerprint</translation>
+        <translation type="unfinished">بصمة</translation>
     </message>
     <message id="settings_devicelock-la-use_fingerprint">
         <location filename="../devicelock/devicelock.qml" line="285"/>
         <source>Unlock the device using fingerprint recognition</source>
-        <translation>Unlock the device using fingerprint recognition</translation>
+        <translation type="unfinished">فتح الجهاز بإستخدام التعرف على بصمات الأصابع</translation>
     </message>
     <message id="settings_devicelock-me-delete">
         <location filename="../devicelock/devicelock.qml" line="317"/>
         <location filename="../devicelock/FingerSettingsPage.qml" line="35"/>
         <source>Delete</source>
-        <translation>Delete</translation>
+        <translation type="unfinished">حذف</translation>
     </message>
     <message id="settings_devicelock-la-fingerprint_name">
         <location filename="../devicelock/devicelock.qml" line="337"/>
         <source>Fingerprint %1</source>
-        <translation>Fingerprint %1</translation>
+        <translation type="unfinished">بصمة %1</translation>
     </message>
     <message id="settings_devicelock-la-add_finger">
         <location filename="../devicelock/devicelock.qml" line="351"/>
         <source>Add a fingerprint</source>
-        <translation>Add fingerprint</translation>
+        <translation type="unfinished">أضف بصمة جديدة</translation>
     </message>
     <message id="settings_devicelock-he-security_code">
         <location filename="../devicelock/devicelock.qml" line="358"/>
         <source>Security code</source>
-        <translation>Security code</translation>
+        <translation type="unfinished">رمز الحماية</translation>
     </message>
     <message id="settings_devicelock-la-use_security_code">
         <location filename="../devicelock/devicelock.qml" line="363"/>
         <source>Use device security code</source>
-        <translation>Use security code</translation>
+        <translation type="unfinished">إستخدم رمز الحماية</translation>
     </message>
     <message id="settings_devicelock-la-use_security_code_description">
         <location filename="../devicelock/devicelock.qml" line="365"/>
         <source>Unlock the device using a security code</source>
-        <translation>Unlock the device using a security code</translation>
+        <translation type="unfinished">إفتح الجهاز بإستخدام رمز الحماية</translation>
     </message>
     <message id="settings_devicelock-me-nolimit">
         <location filename="../devicelock/devicelock.qml" line="392"/>
         <source>No limit</source>
-        <translation>Unlimited</translation>
+        <translation type="unfinished">غير محدود</translation>
     </message>
     <message id="settings_devicelock-la-attempts_combobox">
         <location filename="../devicelock/devicelock.qml" line="395"/>
         <source>Number of attempts</source>
-        <translation>Number of tries</translation>
+        <translation type="unfinished">عدد المحاولات</translation>
     </message>
     <message id="settings_devicelock-he-change_security_code">
         <location filename="../devicelock/devicelock.qml" line="424"/>
         <source>Change device security code</source>
-        <translation>Change security code</translation>
+        <translation type="unfinished">تغيير رمز الحماية</translation>
     </message>
     <message id="settings_devicelock-la-acquisition_date">
         <location filename="../devicelock/FingerSettingsPage.qml" line="57"/>
         <source>Set up on %1</source>
         <extracomment>The fingerprint was captured on the date %1.</extracomment>
-        <translation>Set up on %1</translation>
+        <translation type="unfinished">قم بالإعداد على %1</translation>
     </message>
     <message id="brightness_settings-la-adaptive_brightness">
         <location filename="../display/BrightnessSettingsSlider.qml" line="21"/>
         <source>Adaptive brightness</source>
-        <translation>Adaptive brightness</translation>
+        <translation type="unfinished">السطوع التكيفي</translation>
     </message>
     <message id="brightness_settings-la-brightness">
         <location filename="../display/BrightnessSettingsSlider.qml" line="23"/>
         <source>Brightness</source>
-        <translation>Brightness</translation>
+        <translation type="unfinished">سطوع</translation>
     </message>
     <message id="settings_display-me-15_seconds">
         <location filename="../display/display.qml" line="15"/>
         <source>15 seconds</source>
-        <translation>15 seconds</translation>
+        <translation type="unfinished">15 ثانية</translation>
     </message>
     <message id="settings_display-me-30_seconds">
         <location filename="../display/display.qml" line="17"/>
         <source>30 seconds</source>
-        <translation>30 seconds</translation>
+        <translation type="unfinished">30 ثانية</translation>
     </message>
     <message id="settings_display-me-1_minute">
         <location filename="../display/display.qml" line="19"/>
         <source>1 minute</source>
-        <translation>1 minute</translation>
+        <translation type="unfinished">دقيقة واحدة</translation>
     </message>
     <message id="settings_display-me-2_minutes">
         <location filename="../display/display.qml" line="21"/>
         <source>2 minutes</source>
-        <translation>2 minutes</translation>
+        <translation type="unfinished">دقيقتان</translation>
     </message>
     <message id="settings_display-me-5_minutes">
         <location filename="../display/display.qml" line="23"/>
         <source>5 minutes</source>
-        <translation>5 minutes</translation>
+        <translation type="unfinished">5 دقائق</translation>
     </message>
     <message id="settings_display-me-10_minutes">
         <location filename="../display/display.qml" line="25"/>
         <source>10 minutes</source>
-        <translation>10 minutes</translation>
+        <translation type="unfinished">10 دقائق</translation>
     </message>
     <message id="settings_display-me-dynamic">
         <location filename="../display/display.qml" line="27"/>
         <source>Dynamic</source>
-        <translation>Dynamic</translation>
+        <translation type="unfinished">ديناميكي</translation>
     </message>
     <message id="settings_display-me-portrait">
         <location filename="../display/display.qml" line="29"/>
         <source>Portrait</source>
-        <translation>Portrait</translation>
+        <translation type="unfinished">رأسي</translation>
     </message>
     <message id="settings_display-me-landscape">
         <location filename="../display/display.qml" line="31"/>
         <source>Landscape</source>
-        <translation>Landscape</translation>
+        <translation type="unfinished">أفقي</translation>
     </message>
     <message id="settings_display-he-display">
         <location filename="../display/display.qml" line="83"/>
         <source>Display</source>
-        <translation>Display</translation>
+        <translation type="unfinished">العرض</translation>
     </message>
     <message id="settings_display-la-adjust_brightness_automatically">
         <location filename="../display/display.qml" line="92"/>
         <source>Adjust brightness automatically</source>
-        <translation>Adjust brightness automatically</translation>
+        <translation type="unfinished">ضبط السطوع التلقائي</translation>
     </message>
     <message id="settings_display-la-adaptive_brightness_description">
         <location filename="../display/display.qml" line="95"/>
         <source>Optimise brightness level for available light. When this feature is on, you can manually adjust the desired base brightness level.</source>
-        <translation>Optimise brightness level for available light. When this feature is on, you can manually adjust the desired base brightness level.</translation>
+        <translation type="unfinished">تحسين مستوى السطوع للضوء المتاح. عند تشغيل هذه الميزة، يمكنك ضبط مستوى السطوع الأساسي المطلوب يدويًا.</translation>
     </message>
     <message id="settings_display-la-brightness_base_level">
         <location filename="../display/display.qml" line="110"/>
         <source>Brightness base level</source>
-        <translation>Brightness base level</translation>
+        <translation type="unfinished">مستوى السطوع الأساسي</translation>
     </message>
     <message id="settings_display-la-brightness">
         <location filename="../display/display.qml" line="112"/>
         <source>Brightness</source>
-        <translation>Brightness</translation>
+        <translation type="unfinished">السطوع</translation>
     </message>
     <message id="settings_display-la-blank_display_after">
         <location filename="../display/display.qml" line="133"/>
         <source>Blank display after</source>
-        <translation>Sleep after</translation>
+        <translation type="unfinished">النوم بعد</translation>
     </message>
     <message id="settings_display-la-display_on_charger">
         <location filename="../display/display.qml" line="148"/>
         <source>Keep display on while charging</source>
-        <translation>Keep display on while charging</translation>
+        <translation type="unfinished">بقاء الشاشة  أثناء الشحن</translation>
     </message>
     <message id="settings_display-la-display_on_charger_description">
         <location filename="../display/display.qml" line="152"/>
         <source>Prevent the display from blanking while the charger is connected</source>
-        <translation>Prevent display from blanking while charging the battery</translation>
+        <translation type="unfinished">منع شاشة العرض من النوم أثناء الشحن</translation>
     </message>
     <message id="settings_display-la-lid_sensor">
         <location filename="../display/display.qml" line="161"/>
         <source>Use flip cover to control display</source>
-        <translation>Use flip cover to control display</translation>
+        <translation type="unfinished">إستخدام غطاء لوحة المفاتيح للتحكم بالشاشة</translation>
     </message>
     <message id="settings_display-la-lid_sensor_description">
         <location filename="../display/display.qml" line="165"/>
         <source>Automatically turn display on or off when magnetic flip cover is opened or closed</source>
-        <translation>Automatically turn display on or off when magnetic flip cover is opened or closed</translation>
+        <translation type="unfinished">تشغيل أو إيقاف الشاشة تلقائيًا عند فتح الغطاء أو إغلاقه</translation>
     </message>
     <message id="settings_display-he-orientation">
         <location filename="../display/display.qml" line="170"/>
         <source>Orientation</source>
-        <translation>Orientation</translation>
+        <translation type="unfinished">الإتجاه</translation>
     </message>
     <message id="settings_display-la-orientation">
         <location filename="../display/display.qml" line="184"/>
         <source>Orientation</source>
-        <translation>Orientation</translation>
+        <translation type="unfinished">الإتجاه</translation>
     </message>
     <message id="settings_display-la-orientation_dynamic">
         <location filename="../display/display.qml" line="197"/>
         <source>If you want to disable orientation switching temporarily, select the Dynamic option and keep your finger on the screen while turning the device.</source>
-        <translation>If you want to disable orientation switching temporarily, select the Dynamic option and keep your finger on the screen while turning the device.</translation>
+        <translation type="unfinished">إذا كنت ترغب في تعطيل تبديل الاتجاه مؤقتًا ، فحدد الخيار الديناميكي و أبق إصبعك على الشاشة أثناء تدوير الجهاز.</translation>
     </message>
     <message id="settings_display-he-fonts">
         <location filename="../display/display.qml" line="216"/>
         <source>Fonts</source>
-        <translation>Fonts</translation>
+        <translation type="unfinished">الخط</translation>
     </message>
     <message id="settings_display-la-text-size">
         <location filename="../display/display.qml" line="228"/>
         <source>Text size</source>
-        <translation>Text size</translation>
+        <translation type="unfinished">حجم النص</translation>
     </message>
     <message id="settings_display-me-normal">
         <location filename="../display/FontSizeSetting.qml" line="10"/>
         <source>Normal</source>
-        <translation>Normal</translation>
+        <translation type="unfinished">طبيعي</translation>
     </message>
     <message id="settings_display-me-large">
         <location filename="../display/FontSizeSetting.qml" line="12"/>
         <source>Large</source>
-        <translation>Large</translation>
+        <translation type="unfinished">كبير</translation>
     </message>
     <message id="settings_display-me-huge">
         <location filename="../display/FontSizeSetting.qml" line="14"/>
         <source>Huge</source>
-        <translation>Huge</translation>
+        <translation type="unfinished">ضخم</translation>
     </message>
     <message id="settings_system-orientation_portrait">
         <location filename="../display/OrientationLock.qml" line="13"/>
         <source>Portrait</source>
-        <translation>Portrait</translation>
+        <translation type="unfinished">رأسي</translation>
     </message>
     <message id="settings_system-orientation_landscape">
         <location filename="../display/OrientationLock.qml" line="16"/>
         <source>Landscape</source>
-        <translation>Landscape</translation>
+        <translation type="unfinished">أفقي</translation>
     </message>
     <message id="settings_system-orientation_lock_short">
         <location filename="../display/OrientationLock.qml" line="19"/>
         <source>Orientation</source>
         <extracomment>Abbreviated form of settings_system-orientation_lock</extracomment>
-        <translation>Orientation</translation>
+        <translation type="unfinished">الإتجاه</translation>
     </message>
     <message id="settings_events-he-events">
         <location filename="../events/events.qml" line="20"/>
         <source>Events view</source>
-        <translation>Events view</translation>
+        <translation type="unfinished">عرض الأحداث</translation>
     </message>
     <message id="settings_events-la-no_widgets_available">
         <location filename="../events/events.qml" line="27"/>
         <source>No events view widgets are available for your device</source>
         <extracomment>Placeholder label which is shown when there are no widgets which can be installed</extracomment>
-        <translation>No events view widgets are available for your device</translation>
+        <translation type="unfinished">لا يوجد لديك أدوات لعرض الأحداث</translation>
     </message>
     <message id="settings_events-la-install_from_store">
         <location filename="../events/events.qml" line="35"/>
         <source>Install %1 from Store.</source>
         <extracomment>List of Events widgets that can be installed from store. %1 is replaced with a localised concatenation of widget names e.g: &quot;Weather and Calendar&quot;.</extracomment>
-        <translation>Install %1 from Store.</translation>
+        <translation type="unfinished">قم بتثبيت %1 من المتجر.</translation>
     </message>
     <message id="settings_system-flashlight">
         <location filename="../flashlight/EnableSwitch.qml" line="9"/>
         <location filename="LayoutTranslations.qml" line="106"/>
         <source>Flashlight</source>
         <extracomment>&quot;Flashlight&quot; enable/disable switch</extracomment>
-        <translation>Flashlight</translation>
+        <translation type="unfinished">المصباح</translation>
     </message>
     <message id="settings_display-he-gestures">
         <location filename="../gestures/gestures.qml" line="26"/>
         <source>Gestures</source>
-        <translation>Gestures</translation>
+        <translation type="unfinished">الإيماءات</translation>
     </message>
     <message id="settings_shortcuts-la-edge_swipes">
         <location filename="../gestures/gestures.qml" line="31"/>
         <source>Edge swipes</source>
-        <translation>Edge swipes</translation>
+        <translation type="unfinished">التمرير من الحافة</translation>
     </message>
     <message id="settings_display-la-left_peek_at_events">
         <location filename="../gestures/gestures.qml" line="38"/>
         <source>Quick Events access</source>
-        <translation>Quick Events access</translation>
+        <translation type="unfinished">الوصول السريع للأحداث</translation>
     </message>
     <message id="settings_shortcuts-la-left_peek_at_events_hint">
         <location filename="../gestures/gestures.qml" line="40"/>
         <source>A left edge swipe always goes to Events instead of Home</source>
-        <translation>A left edge swipe always goes to Events instead of Home</translation>
+        <translation type="unfinished">التمرير من الحافة اليسرى يؤول دائمًا إلى الأحداث بدلاً من الصفحة الرئيسية</translation>
     </message>
     <message id="settings_display-la-quick_access_to_camera">
         <location filename="../gestures/gestures.qml" line="48"/>
         <source>Quick access to Camera</source>
-        <translation>Quick access to Camera</translation>
+        <translation type="unfinished">الوصول السريع إلى القُمرة</translation>
     </message>
     <message id="settings_shortcuts-la-quick_access_to_camera_hint">
         <location filename="../gestures/gestures.qml" line="50"/>
         <source>A bottom edge swipe opens the Camera app from the lock screen</source>
-        <translation>A bottom edge swipe opens the Camera app from the Lock screen</translation>
+        <translation type="unfinished">التمرير من الحافة السفلية في شاشة القفل يؤول إلى القُمرة</translation>
     </message>
     <message id="settings_shortcuts-la-sensor_gestures">
         <location filename="../gestures/gestures.qml" line="56"/>
         <source>Sensor gestures</source>
-        <translation>Sensor gestures</translation>
+        <translation type="unfinished">إيماءات المستشعرات</translation>
     </message>
     <message id="settings_display-la-flip_to_silence">
         <location filename="../gestures/gestures.qml" line="63"/>
         <source>Flip to silence calls and alarms</source>
-        <translation>Flip to silence calls and alarms</translation>
+        <translation type="unfinished">قلب الجهاز لسكون المنبه أو رنين الإتصالات</translation>
     </message>
     <message id="settings_display-la-flip_to_silence_description">
         <location filename="../gestures/gestures.qml" line="67"/>
         <source>Turn the device face down to mute incoming call ringtones and alarm alerts</source>
-        <translation>Turn the device face down to mute incoming call ringtones and alarm alerts</translation>
+        <translation type="unfinished">إقلب الجهاز لكتم صوت نغمات المكالمات الواردة و التنبيهات</translation>
     </message>
     <message id="settings_shortcuts-he-hints_and_tips">
         <location filename="../gestures/gestures.qml" line="72"/>
         <source>Hints and tips</source>
-        <translation>Hints and tips</translation>
+        <translation type="unfinished">التلميحات والنصائح</translation>
     </message>
     <message id="settings_shortcuts-la-show_hints_and_tips">
         <location filename="../gestures/gestures.qml" line="82"/>
         <source>Show hints and tips</source>
-        <translation>Show hints and tips</translation>
+        <translation type="unfinished">عرض التلميحات و النصائح</translation>
     </message>
     <message id="settings_shortcuts-la-animated_hints_first_time">
         <location filename="../gestures/gestures.qml" line="84"/>
         <source>Animated hints are often played when you use an app or a feature for the first time</source>
-        <translation>Animated hints are often played when you use an app or a feature for the first time</translation>
+        <translation type="unfinished">غالبًا ما يتم تشغيل التلميحات عند استخدام تطبيق أو ميزة للمرة الأولى</translation>
     </message>
     <message id="settings_shortcuts-me-reset_hints">
         <location filename="../gestures/gestures.qml" line="101"/>
         <source>Reset hints</source>
-        <translation>Reset hints</translation>
+        <translation type="unfinished">إعادة تعيين التلميحات</translation>
     </message>
     <message id="settings_shortcuts-la-reseting_may_require_reboot">
         <location filename="../gestures/gestures.qml" line="115"/>
         <source>Resetting some hints may require a reboot</source>
-        <translation>Resetting some hints may require a reboot</translation>
+        <translation type="unfinished">قد تتطلب إعادة تعيين بعض التلميحات إلى إعادة تشغيل الجهاز</translation>
     </message>
     <message id="settings_location-me-show_here_agreement">
         <location filename="../gps/location.qml" line="70"/>
         <source>Show HERE agreement</source>
-        <translation>Show HERE agreement</translation>
+        <translation type="unfinished">إظهار إتفاقية HERE</translation>
     </message>
     <message id="settings_location-me-show_mls_agreement">
         <location filename="../gps/location.qml" line="76"/>
         <source>Show Mozilla agreement</source>
-        <translation>Show Mozilla agreement</translation>
+        <translation type="unfinished">إظهار اتفاقية Mozilla</translation>
     </message>
     <message id="settings_location-he-location">
         <location filename="../gps/location.qml" line="91"/>
         <source>Location</source>
-        <translation>Location</translation>
+        <translation type="unfinished">الموقع</translation>
     </message>
     <message id="settings_location-la-location">
         <location filename="../gps/location.qml" line="104"/>
         <location filename="../gps/LocationSwitch.qml" line="9"/>
         <source>Location</source>
-        <translation>Location</translation>
+        <translation type="unfinished">الموقع</translation>
     </message>
     <message id="settings_location-la-location_switch_description">
         <location filename="../gps/location.qml" line="106"/>
         <source>Allow applications to pinpoint your location. This feature consumes some battery power.</source>
-        <translation>Allow applications to pinpoint your location. This consumes more battery.</translation>
+        <translation type="unfinished">السماح للتطبيقات بتحديد موقعك. هذا سيستهلك البطارية.</translation>
     </message>
     <message id="settings_location-la-simple_settings_section">
         <location filename="../gps/location.qml" line="122"/>
         <source>Accuracy</source>
         <extracomment>Title of the accuracy settings section</extracomment>
-        <translation>Accuracy</translation>
+        <translation type="unfinished">ضبط الموقع</translation>
     </message>
     <message id="settings_location-la-high_accuracy_positioning">
         <location filename="../gps/location.qml" line="131"/>
         <source>High-accuracy positioning</source>
-        <translation>High-accuracy positioning</translation>
+        <translation type="unfinished">تحديد المواقع بدقة عالية</translation>
     </message>
     <message id="settings_location-la-high_accuracy_positioning_description">
         <location filename="../gps/location.qml" line="136"/>
         <source>Use online services to assist device GPS to calculate highly accurate positioning information. Data costs may apply.</source>
         <extracomment>Description of the high accuracy positioning mode</extracomment>
-        <translation>Use online services to assist device GPS to calculate highly accurate positioning information. Data costs may apply.</translation>
+        <translation type="unfinished">إستخدام خدمات الإنترنت لمساعدة نظام تحديد الموقع (GPS) لحساب معلومات أدق لتحديد الموقع. قد يتم تطبيق تكلفة من قبل مزود الخدمة على البيانات.</translation>
     </message>
     <message id="settings_location-la-battery_saving_positioning">
         <location filename="../gps/location.qml" line="149"/>
         <source>Battery-saving mode</source>
-        <translation>Battery saving mode</translation>
+        <translation type="unfinished">وضع توفير البطارية</translation>
     </message>
     <message id="settings_location-la-battery_saving_positioning_description">
         <location filename="../gps/location.qml" line="154"/>
         <source>Use online services instead of the GPS to calculate positioning information. Data costs may apply, but this mode uses less battery power.</source>
         <extracomment>Description of the battery-saving positioning mode</extracomment>
-        <translation>Use online services instead of the GPS to calculate positioning information. Data costs may apply, but this mode consumes less battery.</translation>
+        <translation type="unfinished">إستخدام خدمات الإنترنت  بدلاً من نظام تحديد الموقع (GPS) لحساب معلومات تحديد الموقع. قد يتم تطبيق تكلفة من قبل مزود الخدمة على البيانات, و لكن هذا الوضع يستهلك بطارية أقل.</translation>
     </message>
     <message id="settings_location-la-device_positioning">
         <location filename="../gps/location.qml" line="166"/>
         <source>Device-only mode</source>
-        <translation>Device-only mode</translation>
+        <translation type="unfinished">وضع الجهاز فقط</translation>
     </message>
     <message id="settings_location-la-device_positioning_description">
         <location filename="../gps/location.qml" line="170"/>
         <source>Use the device GPS to calculate positioning information. This mode doesn&apos;t use any data.</source>
         <extracomment>Description of the device-only positioning mode</extracomment>
-        <translation>Use the device GPS to calculate positioning information. This mode does not use any mobile data.</translation>
+        <translation type="unfinished">إستخدام نظام تحديد الموقع (GPS) لحساب معلومات تحديد الموقع. لا يستخدم هذا الوضع أي بيانات.</translation>
     </message>
     <message id="settings_location-la-custom_positioning">
         <location filename="../gps/location.qml" line="184"/>
         <source>Custom settings</source>
-        <translation>Custom settings</translation>
+        <translation type="unfinished">إعدادات مخصصة</translation>
     </message>
     <message id="settings_location-la-custom_positioning_description">
         <location filename="../gps/location.qml" line="188"/>
         <source>Turn on or off specific positioning methods for maximum control over data usage and privacy.</source>
         <extracomment>Description of the custom positioning settings mode</extracomment>
-        <translation>Turn on or off specific positioning methods for maximum control over data usage and privacy.</translation>
+        <translation type="unfinished">قم بتشغيل أو إيقاف تحديد المواقع لتحقيق أقصى قدر من التحكم في استخدام البيانات والخصوصية.</translation>
     </message>
     <message id="settings_location-bt-select_custom_positioning_settings">
         <location filename="../gps/location.qml" line="210"/>
         <source>Select custom settings</source>
-        <translation>Select custom settings</translation>
+        <translation type="unfinished">حدد الإعدادات المخصصة</translation>
     </message>
     <message id="settings_location-he-location_terms">
         <location filename="../gps/location.qml" line="273"/>
         <source>Accept terms and enable assisted positioning</source>
-        <translation>Accept terms and turn on assisted positioning</translation>
+        <translation type="unfinished">اقبل الشروط وقم بتشغيل التموضع المساعد</translation>
     </message>
     <message id="settings_location-unknown_agreement">
         <location filename="../gps/location.qml" line="298"/>
         <source>No text available!</source>
-        <translation>No text available</translation>
+        <translation type="unfinished">لا  يوجد نص!</translation>
     </message>
     <message id="settings_location-me-revoke_here_agreement">
         <location filename="../gps/location.qml" line="320"/>
         <source>Revoke HERE agreement</source>
-        <translation>Revoke HERE agreement</translation>
+        <translation type="unfinished">إبطال اتفاقية HERE</translation>
     </message>
     <message id="settings_location-he-show_here_agreement_header">
         <location filename="../gps/location.qml" line="323"/>
         <source>HERE usage agreement</source>
-        <translation>HERE usage agreement</translation>
+        <translation type="unfinished">اتفاقية الاستخدام HERE</translation>
     </message>
     <message id="settings_location-me-revoke_mls_agreement">
         <location filename="../gps/location.qml" line="326"/>
         <source>Revoke Mozilla agreement</source>
-        <translation>Revoke Mozilla agreement</translation>
+        <translation type="unfinished">إلغاء اتفاقية Mozilla</translation>
     </message>
     <message id="settings_location-he-show_mls_agreement_header">
         <location filename="../gps/location.qml" line="329"/>
         <source>Mozilla usage agreement</source>
-        <translation>Mozilla usage agreement</translation>
+        <translation type="unfinished">إتفاقية استخدام Mozilla</translation>
     </message>
     <message id="settings_location-la-advanced_settings_section">
         <location filename="../gps/location.qml" line="399"/>
         <source>Advanced settings</source>
         <extracomment>Title of the &quot;advanced&quot; settings section</extracomment>
-        <translation>Advanced settings</translation>
+        <translation type="unfinished">إعدادات متقدمة</translation>
     </message>
     <message id="settings_location-la-gps_section_header">
         <location filename="../gps/location.qml" line="406"/>
         <source>GPS</source>
-        <translation>GPS</translation>
+        <translation type="unfinished">GPS</translation>
     </message>
     <message id="settings_location-la-gps_positioning">
         <location filename="../gps/location.qml" line="416"/>
         <source>GPS positioning</source>
-        <translation>GPS positioning</translation>
+        <translation type="unfinished">تحديد الموقع</translation>
     </message>
     <message id="settings_location-gps_positioning_description">
         <location filename="../gps/location.qml" line="421"/>
@@ -990,32 +991,32 @@
         <location filename="../language/language.qml" line="38"/>
         <source>Change language and region to %1?</source>
         <extracomment>%1 is target language</extracomment>
-        <translation>Change language to %1?</translation>
+        <translation type="unfinished">هل تريد تغيير اللغة إلى %1؟</translation>
     </message>
     <message id="settings_system-la-reboot_warning">
         <location filename="../language/language.qml" line="51"/>
         <source>Device will need to reboot and thus be unusable for a while.</source>
-        <translation>Your device will restart, so you will not be able to use it for a while.</translation>
+        <translation type="unfinished">ستتم إعادة تشغيل جهازك، لن تتمكن من استخدامه لفترة من الوقت.</translation>
     </message>
     <message id="settings_shortcuts-he-add_shortcut">
         <location filename="../lockscreen/ApplicationSelectionPage.qml" line="29"/>
         <source>Add shortcut</source>
-        <translation>Add shortcut</translation>
+        <translation type="unfinished">إضافة إختصار</translation>
     </message>
     <message id="settings_shortcuts-he-apps">
         <location filename="../lockscreen/ApplicationSelectionPage.qml" line="34"/>
         <source>Apps</source>
-        <translation>Apps</translation>
+        <translation type="unfinished">تطبيقات</translation>
     </message>
     <message id="settings_display-he-lockscreen">
         <location filename="../lockscreen/lockscreen.qml" line="29"/>
         <source>Lock screen</source>
-        <translation>Lock screen</translation>
+        <translation type="unfinished">شاشة القفل</translation>
     </message>
     <message id="settings_shortcuts-la-pulley_menu">
         <location filename="../lockscreen/lockscreen.qml" line="33"/>
         <source>Pulley menu</source>
-        <translation>Pulley menu</translation>
+        <translation type="unfinished">قائمة السحب</translation>
     </message>
     <message id="settings_shortcuts-la-lock_screen_hint" numerus="yes">
         <location filename="../lockscreen/lockscreen.qml" line="50"/>
@@ -1024,17 +1025,21 @@
         <translation>
             <numerusform>You can have shortcuts to your favourite apps from the Lock screen. Select up to %n shortcut which is then available in the pulley menu.</numerusform>
             <numerusform>You can have shortcuts to your favourite apps from the Lock screen. Select up to %n shortcuts which are then available in the pulley menu.</numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message id="settings_shortcuts-la-select_shortcuts">
         <location filename="../lockscreen/lockscreen.qml" line="57"/>
         <source>Select shortcuts</source>
-        <translation>Select shortcuts</translation>
+        <translation type="unfinished">حدد إختصار</translation>
     </message>
     <message id="settings_shortcuts-la-lock_screen_shortcut_add">
         <location filename="../lockscreen/lockscreen.qml" line="68"/>
         <source>Add shortcut</source>
-        <translation>Add shortcut</translation>
+        <translation type="unfinished">إضافة إختصار</translation>
     </message>
     <message id="settings_nfc-he-nfc">
         <location filename="../nfc/nfc.qml" line="20"/>
@@ -1044,12 +1049,12 @@
     <message id="settings_nfc-la-nfc">
         <location filename="../nfc/nfc.qml" line="25"/>
         <source>Near Field Communication (NFC)</source>
-        <translation>Near Field Communication (NFC)</translation>
+        <translation type="unfinished">الإتصال بالحقل القريب (NFC)</translation>
     </message>
     <message id="settings_nfc-la-nfc_switch_description">
         <location filename="../nfc/nfc.qml" line="27"/>
         <source>Allow device to detect NFC tags and other devices when touched. This feature consumes some battery power.</source>
-        <translation>Allow device to detect NFC tags and other devices when touched. This feature consumes some battery power.</translation>
+        <translation type="unfinished">السماح للجهاز بالكشف عن علامات NFC والأجهزة الأخرى عند لمسها. تستهلك هذه الميزة بعض طاقة البطارية.</translation>
     </message>
     <message id="settings_nfc_switch-la-nfc">
         <location filename="../nfc/NfcSwitch.qml" line="9"/>
@@ -1060,52 +1065,52 @@
         <location filename="../pin/ModemPin.qml" line="30"/>
         <source>PIN entry error</source>
         <extracomment>Indicates that the entered PIN was not accepted due to a SIM error.</extracomment>
-        <translation>Problem with SIM card PIN entry</translation>
+        <translation type="unfinished">مشكلة في إدخال رمز PIN الشخصي لبطاقة SIM</translation>
     </message>
     <message id="settings_pin-la-notify_incorrect_pin">
         <location filename="../pin/ModemPin.qml" line="43"/>
         <source>Incorrect PIN code</source>
         <extracomment>Indicates that the user entered an incorrect PIN.</extracomment>
-        <translation>Incorrect PIN code</translation>
+        <translation type="unfinished">رمز PIN غير صحيح</translation>
     </message>
     <message id="settings_pin-la-notify_pin_changed">
         <location filename="../pin/ModemPin.qml" line="52"/>
         <source>PIN code changed</source>
         <extracomment>Indicates that the PIN was successfully changed.</extracomment>
-        <translation>PIN code changed</translation>
+        <translation type="unfinished">تم تغيير رمز PIN</translation>
     </message>
     <message id="settings_pin-bt-lock_sim">
         <location filename="../pin/ModemPin.qml" line="94"/>
         <source>Require PIN code</source>
         <extracomment>Enable/disable SIM card PIN lock</extracomment>
-        <translation>Require PIN code</translation>
+        <translation type="unfinished">رمز PIN  مطلوب</translation>
     </message>
     <message id="settings_pin-bt-change_pin">
         <location filename="../pin/ModemPin.qml" line="113"/>
         <source>Change PIN code</source>
         <extracomment>Change the current SIM PIN code</extracomment>
-        <translation>Change PIN code</translation>
+        <translation type="unfinished">تغيير رمز PIN</translation>
     </message>
     <message id="settings_pin-he-pin_settings_header">
         <location filename="../pin/pin.qml" line="43"/>
         <source>PIN code</source>
         <extracomment>Header for page providing access to SIM PIN code settings</extracomment>
-        <translation>PIN code</translation>
+        <translation type="unfinished">رمز PIN</translation>
     </message>
     <message id="settings_datetime-la-automatic_time_update">
         <location filename="../plugin/AllDateTimeSettingsDisplay.qml" line="33"/>
         <source>Automatic time update</source>
-        <translation>Automatic update</translation>
+        <translation type="unfinished">تحديث تلقائي</translation>
     </message>
     <message id="settings_system-la-cert_business_category">
         <location filename="../plugin/CertificateDetailsPage.qml" line="51"/>
         <source>Business category</source>
-        <translation>Business category</translation>
+        <translation type="unfinished">فئة العمل</translation>
     </message>
     <message id="settings_system-la-cert_jurisdiction_country_name">
         <location filename="../plugin/CertificateDetailsPage.qml" line="53"/>
         <source>Jurisdiction country name</source>
-        <translation>Jurisdiction country name</translation>
+        <translation type="unfinished">Jurisdiction country name</translation>
     </message>
     <message id="settings_system-la-cert_jurisdiction_state_or_province_name">
         <location filename="../plugin/CertificateDetailsPage.qml" line="55"/>
@@ -1277,17 +1282,17 @@
     <message id="settings_datetime-la-date">
         <location filename="../plugin/CurrentDateSettingDisplay.qml" line="14"/>
         <source>Date</source>
-        <translation>Date</translation>
+        <translation type="unfinished">التاريخ</translation>
     </message>
     <message id="settings_datetime-la-time">
         <location filename="../plugin/CurrentTimeSettingDisplay.qml" line="13"/>
         <source>Time</source>
-        <translation>Time</translation>
+        <translation type="unfinished">الوقت</translation>
     </message>
     <message id="settings_datetime-la-timezone">
         <location filename="../plugin/CurrentTimeZoneSettingDisplay.qml" line="15"/>
         <source>Time zone</source>
-        <translation>Time zone</translation>
+        <translation type="unfinished">المنطقة زمنية</translation>
     </message>
     <message id="settings_datetime-la-localized-timezone">
         <location filename="../plugin/CurrentTimeZoneSettingDisplay.qml" line="18"/>
@@ -1298,112 +1303,112 @@
     <message id="settings_devicelock-he-enter_security_code">
         <location filename="../plugin/DeviceLockFeedback.qml" line="12"/>
         <source>Enter security code</source>
-        <translation>Enter security code</translation>
+        <translation type="unfinished">أدخل رمز الأمان</translation>
     </message>
     <message id="settings_devicelock-he-security_code_confirm_title">
         <location filename="../plugin/DeviceLockFeedback.qml" line="15"/>
         <source>Confirm with security code</source>
-        <translation>Confirm with security code</translation>
+        <translation type="unfinished">تأكيد رمز الأمان</translation>
     </message>
     <message id="settings_devicelock-bt-devicelock_confirm">
         <location filename="../plugin/DeviceLockFeedback.qml" line="19"/>
         <source>Confirm</source>
-        <translation>Confirm</translation>
+        <translation type="unfinished">تأكيد</translation>
     </message>
     <message id="settings_devicelock-bt-enter">
         <location filename="../plugin/DeviceLockFeedback.qml" line="23"/>
         <source>Enter</source>
         <extracomment>Devicelock UI&apos;s enter-key which is pressed to confirm the new security code.</extracomment>
-        <translation>Enter</translation>
+        <translation type="unfinished">تسجيل</translation>
     </message>
     <message id="settings_devicelock-he-enter_new_security_code">
         <location filename="../plugin/DeviceLockFeedback.qml" line="27"/>
         <source>Enter new security code</source>
         <extracomment>Enter a new security code</extracomment>
-        <translation>Enter new security code</translation>
+        <translation type="unfinished">أدخل رمز أمان جديد</translation>
     </message>
     <message id="settings_devicelock-he-authorize">
         <location filename="../plugin/DeviceLockFeedback.qml" line="63"/>
         <source>Authorize</source>
-        <translation>Authorise</translation>
+        <translation type="unfinished">تفويض</translation>
     </message>
     <message id="settings_devicelock-he-reenter_new_security_code">
         <location filename="../plugin/DeviceLockFeedback.qml" line="94"/>
         <source>Re-enter new security code</source>
         <extracomment>Re-enter the security code that was just entered</extracomment>
-        <translation>Re-enter new security code</translation>
+        <translation type="unfinished">أعد إدخال رمز الحماية الجديد</translation>
     </message>
     <message id="settings_devicelock-he-reentered_security_code_mismatch">
         <location filename="../plugin/DeviceLockFeedback.qml" line="101"/>
         <source>Re-entered security code did not match.</source>
         <extracomment>Shown when a new security code is entered twice for confirmation but the two entered lock codes are not the same.</extracomment>
-        <translation>Security codes do not match</translation>
+        <translation type="unfinished">لا تتطابق رموز الأمان.</translation>
     </message>
     <message id="settings_devicelock-he-new_security_code_same_as_old">
         <location filename="../plugin/DeviceLockFeedback.qml" line="106"/>
         <source>The new security code cannot be the same as the current security code.</source>
         <extracomment>Shown when the new security code is not allowed because it is the same as the current security code.</extracomment>
-        <translation>New security code cannot be the same as the current one</translation>
+        <translation type="unfinished">لا يمكن أن يكون رمز الأمان الجديد هو نفسه الرمز الحالي.</translation>
     </message>
     <message id="settings_devicelock-he-security-code-expired">
         <location filename="../plugin/DeviceLockFeedback.qml" line="110"/>
         <source>The security code has expired and must be changed.</source>
-        <translation>The security code has expired and must be changed</translation>
+        <translation type="unfinished">إنتهت صلاحية رمز الحماية ويجب تغييرها.</translation>
     </message>
     <message id="settings_devicelock-la-fingerprint_feedback_partial_print">
         <location filename="../plugin/DeviceLockFeedback.qml" line="114"/>
         <source>Adjust your grip</source>
-        <translation>Adjust your grip</translation>
+        <translation type="unfinished">إضبط قبضتك</translation>
     </message>
     <message id="settings_devicelock-la-fingerprint_feedback_print_unclear">
         <location filename="../plugin/DeviceLockFeedback.qml" line="118"/>
         <source>Press firmer</source>
-        <translation>Press more firmly</translation>
+        <translation type="unfinished">إضغط بقوة أكثر</translation>
     </message>
     <message id="settings_devicelock-la-fingerprint_feedback_sensor_is_dirty">
         <location filename="../plugin/DeviceLockFeedback.qml" line="122"/>
         <source>Clean the sensor</source>
-        <translation>Clean the sensor</translation>
+        <translation type="unfinished">قم بتنظيف المستشعر</translation>
     </message>
     <message id="settings_devicelock-la-fingerprint_feedback_swipe_faster">
         <location filename="../plugin/DeviceLockFeedback.qml" line="126"/>
         <source>Swipe faster</source>
-        <translation>Swipe faster</translation>
+        <translation type="unfinished">إسحب بشكل أسرع</translation>
     </message>
     <message id="settings_devicelock-la-fingerprint_feedback_swipe_slower">
         <location filename="../plugin/DeviceLockFeedback.qml" line="130"/>
         <source>Swipe slower</source>
-        <translation>Swipe more slowly</translation>
+        <translation type="unfinished">إسحب بشكل أبطأ</translation>
     </message>
     <message id="settings_devicelock-la-devicelock_unrecognized_finger_enter_security_code">
         <location filename="../plugin/DeviceLockFeedback.qml" line="135"/>
         <source>Unrecognized finger. Enter your security code</source>
-        <translation>Unrecognised fingerprint. Enter your security code</translation>
+        <translation type="unfinished">بصمة غير معروفة. أدخل رمز الأمان الخاص بك</translation>
     </message>
     <message id="settings_devicelock-la-devicelock_unrecognized_finger">
         <location filename="../plugin/DeviceLockFeedback.qml" line="137"/>
         <source>Unrecognized finger</source>
-        <translation>Unrecognised fingerprint</translation>
+        <translation type="unfinished">بصمة غير معروفة</translation>
     </message>
     <message id="settings_devicelock-he-devicelock_final_chance">
         <location filename="../plugin/DeviceLockFeedback.qml" line="145"/>
         <source>Final chance</source>
-        <translation>Last try</translation>
+        <translation type="unfinished">أخر محاولة</translation>
     </message>
     <message id="settings_devicelock-la-devicelock_last_chance">
         <location filename="../plugin/DeviceLockFeedback.qml" line="147"/>
         <source>Entering an incorrect security code once more will permanently block your access to the device.</source>
-        <translation>Entering incorrent security code one more time will permanently block your access to the device.</translation>
+        <translation type="unfinished">سيؤدي إدخال رمز أمان غير صحيح مرة أخرى إلى حظر وصولك إلى الجهاز بشكل دائم.</translation>
     </message>
     <message id="settings_devicelock-la-incorrect_security_code">
         <location filename="../plugin/DeviceLockFeedback.qml" line="153"/>
         <source>Incorrect security code</source>
-        <translation>Incorrect security code</translation>
+        <translation type="unfinished">رمز الأمان غير صحيحة</translation>
     </message>
     <message id="settings_devicelock-la-contact_support">
         <location filename="../plugin/DeviceLockFeedback.qml" line="158"/>
         <source>Please contact your IT support</source>
-        <translation>Contact your IT support</translation>
+        <translation type="unfinished">يرجى الإتصال بدعم التقني الخاص بك</translation>
     </message>
     <message id="settings_devicelock-la-temporarily_locked">
         <location filename="../plugin/DeviceLockFeedback.qml" line="162"/>
@@ -1595,6 +1600,10 @@
         <translation>
             <numerusform>PIN code cannot be longer than %n digit</numerusform>
             <numerusform>PIN code cannot be longer than %n digits</numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message id="settings_pin-he-enter_new_pin">
@@ -1711,6 +1720,10 @@
         <translation>
             <numerusform>%n try left</numerusform>
             <numerusform>%n tries left</numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message id="settings_pin-la-last_puk_warning">
@@ -1732,6 +1745,10 @@
         <translation>
             <numerusform>%n try left. Contact your network service provider for the PUK code.</numerusform>
             <numerusform>%n tries left. Contact your network service provider for the PUK code.</numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message id="settings_pin-la-notify_correct_unlock_code">
