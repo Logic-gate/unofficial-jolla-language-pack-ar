@@ -25,3 +25,7 @@
 /usr/share/jolla-settings/pages/datetime/datetime.qml:16
 /usr/share/jolla-settings/pages/battery/mainpage.qml:10
 /usr/share/jolla-settings/pages/developermode/developermode.qml:24
+/usr/share/jolla-settings/pages/sounds/SoundsPage.qml:17
+/usr/share/jolla-settings/pages/topmenu/topmenu.qml:14
+/usr/share/jolla-settings/pages/usb/usb.qml:9
+/usr/share/jolla-settings/pages/sideloading/sideloading.qml:9

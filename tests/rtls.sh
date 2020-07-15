@@ -2,6 +2,9 @@
 
 # Append rtl_.qml to all translated qml file in FILES.txt.
 
+RED='\033[0;31m'
+GREEN='\033[0;32m'
+N='\033[0m' 
 RTLSTRING=rtl._qml
 FILES=FILES.txt
 PATTERN="// RTL SUPPORT"
@@ -20,7 +23,7 @@ do
     #       continue;
     #   else
           sed -i "$LINE"r<(cat $RTLSTRING) $FILE
-          echo $FILE "Appended --> Line" $LINE
+          echo -e $FILE "${GREEN}Appended${N} --> ${GREEN}Line${N}" $LINE
     # fi
     done < $FILES
     elif [ "$arg" == "-d" ] || [ "$arg" == "--default" ]
@@ -32,9 +35,9 @@ do
           grep -v -x -f $RTLSTRING $FILE > $TEMP
           mv $TEMP $FILE
           chmod 644 $FILE
-        echo $FILE "Deleted RTL SUPPORT --> Line" $LINE
+        echo -e $FILE "${RED}Deleted RTL SUPPORT${N} --> ${RED}Line${N}" $LINE
         else
-          echo $FILE "No RTL Support Found"
+          echo -e $FILE "${RED}No RTL Support Found${N}"
           continue
       fi
     done < $FILES
