@@ -9,7 +9,7 @@ RTLSTRING=${RTLSTRING:=rtl._qml}
 FILES=${FILES:=FILES.txt}
 PATTERN=${PATTERN:="// RTL SUPPORT"}
 TEMP="$(mktemp)"
-TS=`date --rfc-3339=seconds`
+TS=`date --rfc-2822`
 
 
 SUM () {
