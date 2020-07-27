@@ -1,87 +1,88 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
-<TS version="2.1" language="en_GB">
+<TS version="2.1" language="ar">
 <context>
     <name></name>
     <message id="qtn_ener_charging">
-        <location filename="notifications/batterynotifier.cpp" line="404"></location>
+        <location filename="notifications/batterynotifier.cpp" line="403"></location>
         <source>Charging</source>
-        <translation>Charging...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message id="qtn_ener_charcomp">
-        <location filename="notifications/batterynotifier.cpp" line="408"></location>
+        <location filename="notifications/batterynotifier.cpp" line="407"></location>
         <source>Charging complete</source>
-        <translation>Charging complete</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message id="qtn_ener_remcha">
-        <location filename="notifications/batterynotifier.cpp" line="412"></location>
+        <location filename="notifications/batterynotifier.cpp" line="411"></location>
         <source>Disconnect charger from power supply to save energy</source>
-        <translation>Unplug charger from power supply to save energy</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message id="qtn_ener_repcharger">
-        <location filename="notifications/batterynotifier.cpp" line="416"></location>
+        <location filename="notifications/batterynotifier.cpp" line="415"></location>
         <source>Charging not started. Replace charger.</source>
-        <translation>Oops, charging does not work. Try another charger.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message id="qtn_ener_rebatt">
-        <location filename="notifications/batterynotifier.cpp" line="420"></location>
+        <location filename="notifications/batterynotifier.cpp" line="419"></location>
         <source>Recharge battery</source>
-        <translation>Recharge battery</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message id="qtn_ener_ent_psnote">
-        <location filename="notifications/batterynotifier.cpp" line="424"></location>
+        <location filename="notifications/batterynotifier.cpp" line="423"></location>
         <source>Entering power save mode</source>
-        <translation>Turning on power saving mode...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message id="qtn_ener_exit_psnote">
-        <location filename="notifications/batterynotifier.cpp" line="428"></location>
+        <location filename="notifications/batterynotifier.cpp" line="427"></location>
         <source>Exiting power save mode</source>
-        <translation>Turning off power saving mode...</translation>
+        <translation type="unfinished"></translation>
     </message>
-    <message id="qtn_ener_lowbatt">
+    <message id="qtn_ener_lowbatt_with_percentage">
         <location filename="notifications/batterynotifier.cpp" line="432"></location>
-        <source>Low battery</source>
-        <translation>Low battery</translation>
+        <source>Low battery: %1%</source>
+        <extracomment>Shown when the battery is low. %1 = current battery level as a percentage</extracomment>
+        <translation type="unfinished"></translation>
     </message>
     <message id="qtn_ener_nopowcharge">
         <location filename="notifications/batterynotifier.cpp" line="436"></location>
         <source>Not enough power to charge</source>
-        <translation>Not enough power to charge</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message id="qtn_ap_lipstick">
-        <location filename="notifications/notificationmanager.cpp" line="498"></location>
+        <location filename="notifications/notificationmanager.cpp" line="497"></location>
         <source>System</source>
-        <translation>System</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message id="qtn_shut_high_temp_warning">
         <location filename="notifications/thermalnotifier.cpp" line="35"></location>
         <source>Device is getting hot. Close all apps.</source>
-        <translation>Device is getting hot. Close all apps.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message id="qtn_shut_high_temp_alert">
         <location filename="notifications/thermalnotifier.cpp" line="39"></location>
         <source>Device is overheating. turn it off.</source>
-        <translation>Device is overheating. Turn it off.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message id="qtn_shut_low_temp_warning">
         <location filename="notifications/thermalnotifier.cpp" line="43"></location>
         <source>Low temperature warning</source>
-        <translation>Battery temperature low. Take device indoors.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message id="qtn_shut_high_temp">
-        <location filename="shutdownscreen.cpp" line="80"></location>
+        <location filename="shutdownscreen.cpp" line="85"></location>
         <source>Temperature too high. Device shutting down.</source>
-        <translation>Temperature is too high, device is shutting down</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message id="qtn_shut_unplug_usb">
-        <location filename="shutdownscreen.cpp" line="85"></location>
+        <location filename="shutdownscreen.cpp" line="90"></location>
         <source>USB cable plugged in. Unplug the USB cable to shutdown.</source>
-        <translation>Unplug USB cable to shut down</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message id="qtn_shut_batt_empty">
-        <location filename="shutdownscreen.cpp" line="90"></location>
+        <location filename="shutdownscreen.cpp" line="95"></location>
         <source>Battery empty. Device shutting down.</source>
-        <translation>Battery empty, device is shutting down soon</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

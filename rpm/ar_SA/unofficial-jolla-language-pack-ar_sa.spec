@@ -6,7 +6,7 @@
 
 Name: unofficial-jolla-language-pack-%{RPM_SUFFIX}
 Version:	1.1.0
-Release:	1.1.0
+Release:	1.2.5
 Summary:	Unofficial community Arabic translation for Jolla
 
 Group: Qt/Qt
@@ -20,6 +20,18 @@ Packager: mad_dev
 %include rpm/%{CONFLANG}/common.inc
 
 %changelog
+* Mon Jul 27 2020 mad_dev 1.1.0 1.2.5
+- Inconsistency with "%" placement
+* Mon Jul 27 2020 mad_dev 1.1.0 1.2.4
+- Inconsistency with "%" placement
+* Mon Jul 27 2020 mad_dev 1.1.0 1.2.3
+- Inconsistency with "%" placement
+* Mon Jul 27 2020 mad_dev 1.1.0 1.2.2
+- "%" issue fixed
+* Mon Jul 27 2020 mad_dev 1.1.0 1.2.1
+- Test
+* Mon Jul 27 2020 mad_dev 1.1.0 1.2.0
+- First build from the pootle
 * Wed Jul 15 2020 mad_dev 1.1.0 1.1.0
 - Complete settings, typos fixes
 * Tue Jul 12 2020 mad_dev 1.1.0 1.0.9

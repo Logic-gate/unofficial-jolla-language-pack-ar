@@ -29,3 +29,5 @@
 /usr/share/jolla-settings/pages/topmenu/topmenu.qml:14
 /usr/share/jolla-settings/pages/usb/usb.qml:9
 /usr/share/jolla-settings/pages/sideloading/sideloading.qml:9
+/usr/share/accounts/ui/GoogleSettingsDisplay.qml:17
+/usr/share/accounts/ui/TwitterSettingsDisplay.qml:9
