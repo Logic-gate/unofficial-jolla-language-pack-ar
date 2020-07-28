@@ -31,3 +31,9 @@
 /usr/share/jolla-settings/pages/sideloading/sideloading.qml:9
 /usr/share/accounts/ui/GoogleSettingsDisplay.qml:17
 /usr/share/accounts/ui/TwitterSettingsDisplay.qml:9
+/usr/lib/qt5/qml/com/jolla/settings/accounts/AccountSummary.qml:24
+/usr/lib/qt5/qml/com/jolla/settings/accounts/JollaAccountSettingsDisplay.qml:7
+/usr/share/jolla-settings/pages/bluetooth/bluetoothSettings.qml:10
+/usr/share/jolla-settings/pages/topmenu/topmenu.qml:9
+/usr/lib/qt5/qml/com/jolla/settings/SettingsListView.qml:7
+/usr/lib/qt5/qml/com/jolla/settings/SettingsPageLink.qml:16
