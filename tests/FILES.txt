@@ -2,6 +2,7 @@
 /usr/share/jolla-calendar/pages/EventViewPage.qml:11
 /usr/share/jolla-clock/pages/ClockEditDialog.qml:120
 /usr/lib/qt5/qml/com/jolla/gallery/ambience/AmbienceSettingsView.qml:429
+/usr/lib/qt5/qml/com/jolla/gallery/ambience/AmbienceSettingsView.qml:285
 /usr/share/jolla-settings/pages/jolla-email/email.qml:24
 /usr/share/jolla-settings/pages/jolla-clock/clock.qml:33
 /usr/share/jolla-settings/pages/jolla-camera/SettingsPage.qml:68
@@ -34,6 +35,7 @@
 /usr/lib/qt5/qml/com/jolla/settings/accounts/AccountSummary.qml:24
 /usr/lib/qt5/qml/com/jolla/settings/accounts/JollaAccountSettingsDisplay.qml:7
 /usr/share/jolla-settings/pages/bluetooth/bluetoothSettings.qml:10
+/usr/lib/qt5/qml/Sailfish/Bluetooth/BluetoothDeviceColumnView.qml:136
 /usr/share/jolla-settings/pages/topmenu/topmenu.qml:9
 /usr/lib/qt5/qml/com/jolla/settings/SettingsListView.qml:7
 /usr/lib/qt5/qml/com/jolla/settings/SettingsPageLink.qml:16

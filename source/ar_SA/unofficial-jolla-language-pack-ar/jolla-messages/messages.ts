@@ -303,7 +303,7 @@
         <location filename="../settings/SimCardMessagingSettings.qml" line="145"></location>
         <source>Extra large (%1 MB)</source>
         <extracomment>MMS maximum message size ComboBox item</extracomment>
-        <translation>كبير جداً (%1 MB)</translation>
+        <translation>كبير جداً (1% MB)</translation>
     </message>
     <message id="settings_messages-la-mms_size_extra_large">
         <location filename="../settings/SimCardMessagingSettings.qml" line="148"></location>

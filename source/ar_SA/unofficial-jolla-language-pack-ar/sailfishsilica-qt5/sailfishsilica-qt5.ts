@@ -468,23 +468,23 @@
         <location filename="../components/src/declarativeformatter.cpp" line="325"></location>
         <source>in %nm</source>
         <extracomment>Number of minutes in the future (short form)</extracomment>
-        <translation><numerusform>بعد %n د</numerusform>
-        <numerusform>بعد %n د</numerusform>
-        <numerusform>بعد %n د</numerusform>
-        <numerusform>بعد %n د</numerusform>
-        <numerusform>بعد %n د</numerusform>
-        <numerusform>بعد %n د</numerusform>
+        <translation><numerusform>بعد %n دقيقة</numerusform>
+        <numerusform>بعد دقيقة</numerusform>
+        <numerusform>بعد دقيقتين</numerusform>
+        <numerusform>بعد %n دقائق</numerusform>
+        <numerusform>بعد %n دقيقة</numerusform>
+        <numerusform>بعد %n دقيقة</numerusform>
         </translation></message>
     <message id="sailfishsilica-minutes-short" numerus="yes">
         <location filename="../components/src/declarativeformatter.cpp" line="328"></location>
         <source>%nm ago</source>
         <extracomment>Number of minutes in the past (short form)</extracomment>
-        <translation><numerusform>قبل %n د</numerusform>
-        <numerusform>قبل %n د</numerusform>
-        <numerusform>قبل %n د</numerusform>
-        <numerusform>قبل %n د</numerusform>
-        <numerusform>قبل %n د</numerusform>
-        <numerusform>قبل %n د</numerusform>
+        <translation><numerusform>قبل %n دقيقة</numerusform>
+        <numerusform>قبل دقيقة</numerusform>
+        <numerusform>قبل دقيقتين</numerusform>
+        <numerusform>قبل %n دقائق</numerusform>
+        <numerusform>قبل %n دقيقة</numerusform>
+        <numerusform>قبل %n دقيقة</numerusform>
         </translation></message>
     <message id="sailfishsilica-minutes-future" numerus="yes">
         <location filename="../components/src/declarativeformatter.cpp" line="333"></location>
@@ -512,23 +512,23 @@
         <location filename="../components/src/declarativeformatter.cpp" line="345"></location>
         <source>in %nh</source>
         <extracomment>Number of hours in the future (short form)</extracomment>
-        <translation><numerusform>بعد %n س</numerusform>
-        <numerusform>بعد %n س</numerusform>
-        <numerusform>بعد %n س</numerusform>
-        <numerusform>بعد %n س</numerusform>
-        <numerusform>بعد %n س</numerusform>
-        <numerusform>بعد %n س</numerusform>
+        <translation><numerusform>بعد %n ساعة</numerusform>
+        <numerusform>بعد ساعة</numerusform>
+        <numerusform>بعد ساعتين</numerusform>
+        <numerusform>بعد %n ساعات</numerusform>
+        <numerusform>بعد %n ساعة</numerusform>
+        <numerusform>بعد %n ساعة</numerusform>
         </translation></message>
     <message id="sailfishsilica-hours-short" numerus="yes">
         <location filename="../components/src/declarativeformatter.cpp" line="348"></location>
         <source>%nh ago</source>
         <extracomment>Number of hours in the past (short form)</extracomment>
-        <translation><numerusform>قبل %n س</numerusform>
-        <numerusform>قبل %n س</numerusform>
-        <numerusform>قبل %n س</numerusform>
-        <numerusform>قبل %n س</numerusform>
-        <numerusform>قبل %n س</numerusform>
-        <numerusform>قبل %n س</numerusform>
+        <translation><numerusform>قبل %n ساعة</numerusform>
+        <numerusform>قبل ساعة</numerusform>
+        <numerusform>قبل ساعتين</numerusform>
+        <numerusform>قبل %n ساعات</numerusform>
+        <numerusform>قبل %n ساعة</numerusform>
+        <numerusform>قبل %n ساعة</numerusform>
         </translation></message>
     <message id="sailfishsilica-hours-future" numerus="yes">
         <location filename="../components/src/declarativeformatter.cpp" line="353"></location>
@@ -556,23 +556,23 @@
         <location filename="../components/src/declarativeformatter.cpp" line="365"></location>
         <source>in %nd</source>
         <extracomment>Number of days in the future (short form)</extracomment>
-        <translation><numerusform>بعد %n ي</numerusform>
-        <numerusform>بعد %n ي</numerusform>
-        <numerusform>بعد %n ي</numerusform>
-        <numerusform>بعد %n ي</numerusform>
-        <numerusform>بعد %n ي</numerusform>
-        <numerusform>بعد %n ي</numerusform>
+        <translation><numerusform>بعد %n يوم</numerusform>
+        <numerusform>بعد يوم</numerusform>
+        <numerusform>بعد يومين</numerusform>
+        <numerusform>بعد %n أيام</numerusform>
+        <numerusform>بعد %n يوم</numerusform>
+        <numerusform>بعد %n يوم</numerusform>
         </translation></message>
     <message id="sailfishsilica-days-short" numerus="yes">
         <location filename="../components/src/declarativeformatter.cpp" line="368"></location>
         <source>%nd ago</source>
         <extracomment>Number of days in the past (short form)</extracomment>
-        <translation><numerusform>قبل %n ي</numerusform>
-        <numerusform>قبل %n ي</numerusform>
-        <numerusform>قبل %n ي</numerusform>
-        <numerusform>قبل %n ي</numerusform>
-        <numerusform>قبل %n ي</numerusform>
-        <numerusform>قبل %n ي</numerusform>
+        <translation><numerusform>قبل %n يوم</numerusform>
+        <numerusform>قبل يوم</numerusform>
+        <numerusform>قبل يومين</numerusform>
+        <numerusform>قبل %n أيام</numerusform>
+        <numerusform>قبل %n يوم</numerusform>
+        <numerusform>قبل %n يوم</numerusform>
         </translation></message>
     <message id="sailfishsilica-days-future" numerus="yes">
         <location filename="../components/src/declarativeformatter.cpp" line="373"></location>
@@ -679,39 +679,39 @@
     <message id="sailfishsilica-bytes" numerus="yes">
         <location filename="../components/src/declarativeformatter.cpp" line="662"></location>
         <source>%n B</source>
-        <translation><numerusform>n% B</numerusform>
-        <numerusform>n% B</numerusform>
-        <numerusform>n% B</numerusform>
-        <numerusform>n% B</numerusform>
-        <numerusform>n% B</numerusform>
-        <numerusform>n% B</numerusform>
+        <translation><numerusform></numerusform>
+        <numerusform></numerusform>
+        <numerusform></numerusform>
+        <numerusform></numerusform>
+        <numerusform></numerusform>
+        <numerusform></numerusform>
         </translation></message>
     <message id="sailfishsilica-kilobytes">
         <location filename="../components/src/declarativeformatter.cpp" line="668"></location>
         <source>%1 kB</source>
-        <translation>1% kB</translation>
+        <translation></translation>
     </message>
     <message id="sailfishsilica-megabytes">
         <location filename="../components/src/declarativeformatter.cpp" line="674"></location>
         <source>%1 MB</source>
-        <translation>1% MB</translation>
+        <translation></translation>
     </message>
     <message id="sailfishsilica-gigabytes">
         <location filename="../components/src/declarativeformatter.cpp" line="680"></location>
         <source>%1 GB</source>
-        <translation>1% GB</translation>
+        <translation></translation>
     </message>
     <message id="sailfishsilica-terabytes">
         <location filename="../components/src/declarativeformatter.cpp" line="684"></location>
         <source>%1 TB</source>
-        <translation>1% TB</translation>
+        <translation></translation>
     </message>
     <message id="sailfishsilica-formatTimepoint">
         <location filename="../components/src/declarativeformatter.cpp" line="732"></location>
         <location filename="../components/src/declarativeformatter.cpp" line="809"></location>
         <source>%1, %2</source>
         <extracomment>Format timepoint - %1: short time, %2: short date</extracomment>
-        <translation>1%, 2%</translation>
+        <translation></translation>
     </message>
     <message id="sailfishsilica-time_format_short_12h">
         <location filename="../components/src/declarativeformatter.cpp" line="826"></location>

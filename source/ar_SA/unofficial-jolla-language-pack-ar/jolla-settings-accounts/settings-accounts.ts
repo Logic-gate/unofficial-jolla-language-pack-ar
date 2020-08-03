@@ -1159,7 +1159,7 @@ Password for account outgoing server</extracomment>
         <location filename="../extensions/ui/EmailCryptoKeySelection.qml" line="97"></location>
         <source>S/MIME key %1</source>
         <extracomment>%1: identifier of the signing key, usually 8 hexadecimal characters</extracomment>
-        <translation>مفتاح S/MIME - 1% </translation>
+        <translation>مفتاح S/MIME - 1%</translation>
     <translatorcomment>Added - to circumvent rtl ltr mismatch</translatorcomment></message>
     <message id="settings-accounts-la-no_stored_key">
         <location filename="../extensions/ui/EmailCryptoKeySelection.qml" line="136"></location>

@@ -1100,7 +1100,7 @@
     <message id="settings_nfc_switch-la-nfc">
         <location filename="../nfc/NfcSwitch.qml" line="9"></location>
         <source>NFC</source>
-        <translation>الإتصال بالحقل القريب (NFC)</translation>
+        <translation>NFC</translation>
     </message>
     <message id="settings_pin-la-notify_general_error">
         <location filename="../pin/ModemPin.qml" line="30"></location>
@@ -2822,7 +2822,7 @@
     <message id="settings_system-nfc">
         <location filename="LayoutTranslations.qml" line="124"></location>
         <source>NFC</source>
-        <translation>NFC</translation>
+        <translation>الإتصال بالحقل القريب (NFC)</translation>
     </message>
     <message id="settings_system-users">
         <location filename="LayoutTranslations.qml" line="127"></location>
