@@ -24,7 +24,7 @@ def get(url):
 def hsfetch():
 	raw = get(join(BASE, FILES))
 	if raw.status_code==200:
-		hash256=hashlib.sha256(raw.text).hexdigest()
+		hash256=hashlib.sha256(raw.text.encode('utf-8')).hexdigest()
 		# PrettyLog('Sha256Sum || Github', hash256)
 		return hash256
 	else:
@@ -32,7 +32,7 @@ def hsfetch():
 
 def hslocal():
 	raw = open(FILES, 'r')
-	hash256=hashlib.sha256(raw.read()).hexdigest()
+	hash256=hashlib.sha256(raw.read().encode('utf-8')).hexdigest()
 	raw.flush()
 	raw.close()
 	# PrettyLog('Sha256Sum || Local', hash256)
@@ -82,7 +82,7 @@ if __name__ == '__main__':
 	data = json.loads(match())
 	match =all((data['Sha256Git'] in data['Sha256Local'], data['Sha256GitLogged'] in data['Sha256LocalLogged']))
 	if match:
-		print "Up-to-date...all is good"
+		print("Up-to-date...all is good")
 	else:
-		print "There is a mismatch..."
-		print json.dumps(data, indent=4)
+		print("There is a mismatch...")
+		print(json.dumps(data, indent=4))
