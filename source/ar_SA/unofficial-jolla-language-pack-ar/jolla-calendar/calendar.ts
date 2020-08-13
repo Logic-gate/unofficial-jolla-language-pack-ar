@@ -26,7 +26,7 @@
     <message id="calendar-ph-invite_people">
         <location filename="pages/AttendeeSelectionPage.qml" line="92"></location>
         <source>Invite People</source>
-        <translation>أدعو الأشخاص</translation>
+        <translation>أدعُ الأشخاص</translation>
     </message>
     <message id="calendar-search_contact">
         <location filename="pages/AttendeeSelectionPage.qml" line="117"></location>
@@ -36,7 +36,7 @@
     <message id="calendar-invalid_email_address">
         <location filename="pages/AttendeeSelectionPage.qml" line="120"></location>
         <source>Invalid email address</source>
-        <translation>البريد خاطئ</translation>
+        <translation>البريد الإلكتروني خاطئ</translation>
     </message>
     <message id="calendar-invited_attendee">
         <location filename="pages/AttendeeSelectionPage.qml" line="201"></location>
@@ -160,7 +160,7 @@
     <message id="calendar-add-event_name">
         <location filename="pages/EventEditPage.qml" line="155"></location>
         <source>Event name</source>
-        <translation>إسم الحدث</translation>
+        <translation>اسم الحدث</translation>
     </message>
     <message id="calendar-add-event_location">
         <location filename="pages/EventEditPage.qml" line="171"></location>
@@ -177,11 +177,11 @@
         <source>%n people invited</source>
         <translation><numerusform>%n شخص مدعو</numerusform>
         <numerusform>شخص واحد مدعو</numerusform>
-        <numerusform>شخصان مدعوون</numerusform>
+        <numerusform>شخصان مدعوان</numerusform>
         <numerusform>%n أشخاص مدعوون</numerusform>
         <numerusform>%n شخصاً مدعو</numerusform>
         <numerusform>%n شخصاً مدعو</numerusform>
-        </translation></message>
+        </translation><translatorcomment>%n تعني رقم... مثال: 4 أشخاص مدعوون.</translatorcomment></message>
     <message id="calendar-invite_people">
         <location filename="pages/EventEditPage.qml" line="202"></location>
         <source>Invite people</source>
@@ -272,7 +272,7 @@
         <location filename="pages/EventEditPage.qml" line="358"></location>
         <source>Fourth %1 Every Month</source>
         <extracomment>%1 is replaced with weekday name</extracomment>
-        <translation> رابع %1 من كل شهر</translation>
+        <translation>رابع %1 من كل شهر</translation>
     </message>
     <message id="calendar-add-every_month_by_day_of_week_fifth">
         <location filename="pages/EventEditPage.qml" line="362"></location>
@@ -305,7 +305,7 @@
     <message id="calendar-add-remind_me">
         <location filename="pages/EventEditPage.qml" line="540"></location>
         <source>Remind me</source>
-        <translation>تذكيري</translation>
+        <translation>ذكرني</translation>
     </message>
     <message id="calendar-event-he-edit_recurring">
         <location filename="pages/EventEditRecurringPage.qml" line="27"></location>

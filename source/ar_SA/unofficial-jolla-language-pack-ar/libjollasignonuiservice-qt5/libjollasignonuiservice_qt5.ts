@@ -7,13 +7,13 @@
         <location filename="../lib/libjollasignonuiservice/entryview.qml" line="26"></location>
         <location filename="../lib/libjollasignonuiservice/inprocessentryview.qml" line="17"></location>
         <source>Username</source>
-        <translation>إسم المستخدم</translation>
+        <translation>اسم المستخدم</translation>
     </message>
     <message id="signonui-ph-username">
         <location filename="../lib/libjollasignonuiservice/entryview.qml" line="28"></location>
         <location filename="../lib/libjollasignonuiservice/inprocessentryview.qml" line="19"></location>
         <source>Enter Username</source>
-        <translation>إدخل إسم المستخدم</translation>
+        <translation>ادخل اسم المستخدم</translation>
     </message>
     <message id="signonui-la-password">
         <location filename="../lib/libjollasignonuiservice/entryview.qml" line="39"></location>

@@ -21,17 +21,17 @@
     <message id="components_contacts-la-detail_type_first_name">
         <location filename="common/common.js" line="94"></location>
         <source>first name</source>
-        <translation>الإسم الأول</translation>
+        <translation>الاسم الأول</translation>
     </message>
     <message id="components_contacts-la-detail_type_last_name">
         <location filename="common/common.js" line="96"></location>
         <source>last name</source>
-        <translation>الإسم الأخير</translation>
+        <translation>الاسم الأخير</translation>
     </message>
     <message id="components_contacts-la-detail_type_middle_name">
         <location filename="common/common.js" line="98"></location>
         <source>middle name</source>
-        <translation>الإسم الأوسط</translation>
+        <translation>الاسم الأوسط</translation>
     </message>
     <message id="components_contacts-la-detail_type-company">
         <location filename="common/common.js" line="105"></location>
@@ -41,7 +41,7 @@
     <message id="components_contacts-la-detail_type_job_title">
         <location filename="common/common.js" line="107"></location>
         <source>job title</source>
-        <translation>الإسم الوظيفي</translation>
+        <translation>الاسم الوظيفي</translation>
     </message>
     <message id="components_contacts-la-detail_type_role">
         <location filename="common/common.js" line="109"></location>
@@ -554,7 +554,7 @@
         <location filename="ContactHeader.qml" line="112"></location>
         <source>Copy name</source>
         <extracomment>Menu option to copy the contact's display name shown in the contact card header</extracomment>
-        <translation>إنسخ الإسم</translation>
+        <translation>انسخ الاسم</translation>
     </message>
     <message id="components_contacts-me-copy_contact_information">
         <location filename="ContactHeader.qml" line="120"></location>
@@ -566,13 +566,13 @@
         <location filename="ContactImportPage.qml" line="52"></location>
         <source>Importing contacts from %1...</source>
         <extracomment>Importing contacts from a specified file</extracomment>
-        <translation>جاري إستيراد جهات الإتصال من 1% ...</translation>
+        <translation>جار استيراد جهات الاتصال من 1% ...</translation>
     </message>
     <message id="components_contacts-la-importing_contacts_from_sim">
         <location filename="ContactImportPage.qml" line="56"></location>
         <source>Importing contacts from SIM card...</source>
         <extracomment>Importing contacts from SIM</extracomment>
-        <translation>جاري إستيراد جهات الإتصال من بطاقة SIM...</translation>
+        <translation>جار استيراد جهات الاتصال من بطاقة SIM...</translation>
     </message>
     <message id="components_contacts-la-failed_to_import_contacts_file">
         <location filename="ContactImportPage.qml" line="62"></location>
@@ -653,7 +653,7 @@
         <location filename="ContactLinksPage.qml" line="141"></location>
         <source>Finding links...</source>
         <extracomment>Displayed while the page is in the process of loading links (i.e. associated contacts with similar details)</extracomment>
-        <translation>جاري البحث عن روابط...</translation>
+        <translation>جار البحث عن روابط...</translation>
     </message>
     <message id="components_contacts-me-add_links">
         <location filename="ContactLinksPage.qml" line="153"></location>
@@ -835,7 +835,7 @@
         <location filename="recipientfield/OnlineSearchItem.qml" line="160"></location>
         <source>Enter more characters</source>
         <extracomment>Enter more characters to search from online address book is shown until enough characters are shown.</extracomment>
-        <translation>أدخل المزيد من الأحرف</translation>
+        <translation>ادخل المزيد من الأحرف</translation>
     </message>
     <message id="components_contacts-la-search_online_address_book">
         <location filename="recipientfield/OnlineSearchItem.qml" line="164"></location>

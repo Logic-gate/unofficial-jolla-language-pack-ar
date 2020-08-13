@@ -34,7 +34,7 @@
     <message id="messages-message_state_downloading">
         <location filename="../messages.qml" line="255"></location>
         <source>Downloading...</source>
-        <translation>جاري التحميل...</translation>
+        <translation>جار التحميل...</translation>
     </message>
     <message id="messages-message_state_waiting">
         <location filename="../messages.qml" line="258"></location>

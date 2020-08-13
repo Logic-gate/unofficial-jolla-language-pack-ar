@@ -24,19 +24,19 @@
         <location filename="CalendarEventView.qml" line="206"></location>
         <source>Failed to accept invitation</source>
         <extracomment>Failed to send invitation response (accept)</extracomment>
-        <translation>Could not accept invitation</translation>
+        <translation>فشل قبول الدعوة</translation>
     </message>
     <message id="sailfish_calendar-la-response_failed_body_tentative">
         <location filename="CalendarEventView.qml" line="211"></location>
         <source>Failed to tentatively accept invitation</source>
         <extracomment>Failed to send invitation response (tentative)</extracomment>
-        <translation>Could not tentatively accept invitation</translation>
+        <translation>فشل قبول الدعوة مؤقتاً</translation>
     </message>
     <message id="sailfish_calendar-la-la-response_failed_body_decline">
         <location filename="CalendarEventView.qml" line="216"></location>
         <source>Failed to decline invitation</source>
         <extracomment>Failed to send invitation response (decline)</extracomment>
-        <translation>Could not decline invitation</translation>
+        <translation>فشل رفض الدعوة</translation>
     </message>
     <message id="sailfish_calendar-la-people_count" numerus="yes">
         <location filename="CalendarEventView.qml" line="261"></location>
@@ -97,7 +97,7 @@
     <message id="sailfish_calendar-reminder-never">
         <location filename="CommonCalendarTranslations.js" line="7"></location>
         <source>Never</source>
-        <translation>أبداً</translation>
+        <translation>مطلقاً</translation>
     </message>
     <message id="sailfish_calendar-reminder-at_time_of_event">
         <location filename="CommonCalendarTranslations.js" line="10"></location>
@@ -109,7 +109,7 @@
         <source>%n days</source>
         <extracomment>e.g. '5 days', count of days prior to event start. Fragment of "&lt;X days&gt;, &lt;Y hours&gt;, &lt;Z minutes&gt; before".</extracomment>
         <translation><numerusform>%n يوم</numerusform>
-        <numerusform>يوماً واحد</numerusform>
+        <numerusform>يوماً واحداً</numerusform>
         <numerusform>يومان</numerusform>
         <numerusform>%n أيام</numerusform>
         <numerusform>%n يوماً</numerusform>
@@ -120,7 +120,7 @@
         <source>%n hours</source>
         <extracomment>e.g. '5 hours', count of hours prior to event start. Fragment of "&lt;X days&gt;, &lt;Y hours&gt;, &lt;Z minutes&gt; before".</extracomment>
         <translation><numerusform>%n ساعة</numerusform>
-        <numerusform>ساعة واحد</numerusform>
+        <numerusform>ساعة واحدة</numerusform>
         <numerusform>ساعتان</numerusform>
         <numerusform>%n ساعات</numerusform>
         <numerusform>%n ساعة</numerusform>
@@ -227,7 +227,7 @@
         <location filename="InvitationResponseButtons.qml" line="66"></location>
         <source>Accepted: %1</source>
         <extracomment>Subject modifier for accept response. %1 is original invitation subject</extracomment>
-        <translation>القبول: %1</translation>
+        <translation>مقبول: %1</translation>
     </message>
     <message id="sailfish_calendar-la-event_attendbutton_maybe">
         <location filename="InvitationResponseButtons.qml" line="79"></location>
@@ -251,14 +251,14 @@
         <location filename="InvitationResponseButtons.qml" line="100"></location>
         <source>Declined: %1</source>
         <extracomment>Subject modifier for decline response. %1 is original invitation subject</extracomment>
-        <translation>رفض: %1</translation>
+        <translation>مرفوض: %1</translation>
     </message>
     <message id="sailfish_calendar-la-date_month_pattern">
         <location filename="TimeRangeSelector.qml" line="74"></location>
         <location filename="TimeRangeSelector.qml" line="75"></location>
         <source>%1.%2</source>
         <extracomment>Pattern for date and month, %1 is day, %2 is month</extracomment>
-        <translation>1%.‫2%</translation>
-    </message>
+        <translation></translation>
+    <translatorcomment>Leave empty</translatorcomment></message>
 </context>
 </TS>

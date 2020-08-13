@@ -19,7 +19,7 @@
         <location filename="pages/SyncEndpointDelegate.qml" line="31"></location>
         <source>Receiving contacts</source>
         <extracomment>Displayed when in the process of transferring contacts from another device</extracomment>
-        <translation>جاري إستيراد جهات الإتصال...</translation>
+        <translation>جار استيراد جهات الاتصال...</translation>
     </message>
     <message id="settings_sync-la-last_sync_date">
         <location filename="pages/SyncEndpointDelegate.qml" line="37"></location>

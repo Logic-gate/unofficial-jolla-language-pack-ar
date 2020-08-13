@@ -7,7 +7,7 @@
         <location filename="../settings/about/280-android.qml" line="14"></location>
         <source>Android is a trademark of Google Inc. The Android robot is reproduced or modified from work created and shared by Google and used according to terms described in the Creative Commons 3.0 Attribution License.</source>
         <extracomment>For about device page</extracomment>
-        <translation>نظام أندرويد هو علامة تجارية تتبع إلى .Google Inc. تم إعادة إنتاج أو تعديل روبوت نظام أندرويد من العمل الذي تم إنشاؤه و مشاركته من قبل Google و تم إستخدامه وفق البنود المذكورة في Creative Commons 3.0 Attribution Licence.</translation>
+        <translation>نظام أندرويد هو علامة تجارية تتبع إلى .Google Inc. تم إعادة انتاج أو تعديل روبوت نظام أندرويد من العمل الذي تم انشاؤه و مشاركته من قبل Google و تم استخدامه وفق البنود المذكورة في Creative Commons 3.0 Attribution Licence.</translation>
     </message>
     <message id="apkd_settings-la-error_getting_application_state">
         <location filename="../settings/application/apkConfigurationPage.qml" line="55"></location>
@@ -27,7 +27,7 @@
     <message id="apkd_settings-la-allow_background_service_start_description">
         <location filename="../settings/application/apkConfigurationPage.qml" line="109"></location>
         <source>When this is off, you won't get app notifications</source>
-        <translation>عند إغلاق هذا لا يمكنك الحصول على إشعارات التطبيق</translation>
+        <translation>عند إغلاق هذا, لا يمكنك الحصول على إشعارات التطبيق</translation>
     </message>
     <message id="apkd_settings-la-package_storage">
         <location filename="../settings/application/apkConfigurationPage.qml" line="125"></location>
@@ -52,7 +52,7 @@
     <message id="apkd_settings-la-appsize_cache">
         <location filename="../settings/application/apkConfigurationPage.qml" line="135"></location>
         <source>Cache:</source>
-        <translation>الكاشي</translation>
+        <translation>ذاكرة التخزين المؤقت Cache</translation>
     <translatorcomment>cache refers to storage that houses data for future use...it needs to a known word, if not then let's just use cache in arabic</translatorcomment></message>
     <message id="apkd_settings-la-package_actions">
         <location filename="../settings/application/apkConfigurationPage.qml" line="139"></location>
@@ -67,7 +67,7 @@
     <message id="apkd_settings-la-package_clear_cache">
         <location filename="../settings/application/apkConfigurationPage.qml" line="161"></location>
         <source>Clear cache</source>
-        <translation>إزالة الذاكرة المؤقتة (الكاشي)</translation>
+        <translation>إزالة الذاكرة المؤقتة (cache)</translation>
     </message>
     <message id="apkd_settings-la-clear_data_description">
         <location filename="../settings/application/apkConfigurationPage.qml" line="185"></location>
@@ -158,7 +158,7 @@
     <message id="apkd-failed_to_open_android_application_for_installing">
         <location filename="../src/apkdaemon.cpp" line="280"></location>
         <source>Failed to open %1 Android™ application package for installing.</source>
-        <translation>لايمكن فتح 1% حزمة نظام أندرويد™ ليتم تثبيتها</translation>
+        <translation>لا يمكن فتح 1% حزمة نظام أندرويد™ ليتم تثبيتها</translation>
     </message>
     <message id="apkd-application">
         <location filename="../src/apkdaemon.cpp" line="293"></location>
@@ -175,7 +175,7 @@
     <message id="apkd-could_not_determine_package_name">
         <location filename="../src/apkdaemon.cpp" line="350"></location>
         <source>Could not determine package name for %1. Aborting installation.</source>
-        <translation>تعذر تحديد إسم الحزمة لـ1%. إلغاء التثبيت.</translation>
+        <translation>تعذر تحديد اسم الحزمة لـ1%. إلغاء التثبيت.</translation>
     </message>
     <message id="apkd-app_uninstallation_disallowed">
         <location filename="../src/apkdaemon.cpp" line="433"></location>

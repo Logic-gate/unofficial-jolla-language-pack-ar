@@ -92,7 +92,7 @@ Playlists list item in the main view</extracomment>
         <location filename="../components/NewPlaylistDialog.qml" line="45"></location>
         <source>Playlist name</source>
         <extracomment>placeholder for the text field in add playlist dialog.</extracomment>
-        <translation>إسم قائمة التشغيل</translation>
+        <translation>اسم قائمة التشغيل</translation>
     </message>
     <message id="mediaplayer-he-play-queue">
         <location filename="../components/NowPlayingMenuItem.qml" line="11"></location>

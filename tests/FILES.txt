@@ -1,4 +1,4 @@
-/usr/share/jolla-calendar/pages/EventEditPage.qml:146
+u/usr/share/jolla-calendar/pages/EventEditPage.qml:146
 /usr/share/jolla-calendar/pages/EventViewPage.qml:11
 /usr/share/jolla-clock/pages/ClockEditDialog.qml:120
 /usr/lib/qt5/qml/com/jolla/gallery/ambience/AmbienceSettingsView.qml:429
@@ -39,3 +39,4 @@
 /usr/share/jolla-settings/pages/topmenu/topmenu.qml:9
 /usr/lib/qt5/qml/com/jolla/settings/SettingsListView.qml:7
 /usr/lib/qt5/qml/com/jolla/settings/SettingsPageLink.qml:16
+/usr/share/jolla-settings/pages/browser/browser.qml:69

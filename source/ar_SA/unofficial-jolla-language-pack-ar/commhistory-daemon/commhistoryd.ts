@@ -11,12 +11,12 @@
     <message id="qtn_msg_errors_group">
         <location filename="../src/locstrings.h" line="52"></location>
         <source>Warnings</source>
-        <translation>تحذير</translation>
+        <translation>تحذيرات</translation>
     </message>
     <message id="qtn_msg_missed_calls_group">
         <location filename="../src/locstrings.h" line="54"></location>
         <source>Missed calls</source>
-        <translation>مكالمة فائتة</translation>
+        <translation>مكالمات فائتة</translation>
     </message>
     <message id="qtn_msg_voicemail_group">
         <location filename="../src/locstrings.h" line="56"></location>
@@ -121,7 +121,7 @@ Hence, n=2 is wrong.</translatorcomment></message>
     <message id="txt_qtn_voicemail_notification_call">
         <location filename="../src/locstrings.h" line="88"></location>
         <source>Call voicemail</source>
-        <translation>الإتصال على البريد الصوتي</translation>
+        <translation>الإتصال بالبريد الصوتي</translation>
     </message>
     <message id="txt_qtn_voicemail_notification_show_voicemail">
         <location filename="../src/locstrings.h" line="90"></location>
@@ -151,7 +151,7 @@ Hence, n=2 is wrong.</translatorcomment></message>
     <message id="qtn_mms_notification_send_failed">
         <location filename="../src/locstrings.h" line="101"></location>
         <source>MMS sending failed</source>
-        <translation>فشل إرسال راسلة الوسائط المتعددة</translation>
+        <translation>فشل إرسال رسالة الوسائط المتعددة</translation>
     </message>
     <message id="qtn_mms_notification_download_failed">
         <location filename="../src/locstrings.h" line="103"></location>
@@ -171,22 +171,22 @@ Hence, n=2 is wrong.</translatorcomment></message>
     <message id="qtn_msg_group_chat_you_removed">
         <location filename="../src/locstrings.h" line="110"></location>
         <source>%1 removed you from this chat</source>
-        <translation>1% قام بإخراجك من هذه الدردشة</translation>
+        <translation>قام 1% بإخراجك من هذه الدردشة</translation>
     </message>
     <message id="qtn_msg_group_chat_person_removed">
         <location filename="../src/locstrings.h" line="112"></location>
         <source>%1 removed %2 from this chat</source>
-        <translation>1% قام بإخراج %2 من هذه الدردشة</translation>
+        <translation>قام 1% بإخراج 2% من هذه الدردشة</translation>
     </message>
     <message id="qtn_msg_group_chat_topic_changed">
         <location filename="../src/locstrings.h" line="115"></location>
         <source>%1 changed room topic to %2</source>
-        <translation>1% قام بتغيير موضوع الدردشة إلى %2</translation>
+        <translation>قام 1% بتغيير موضوع الدردشة إلى 2%</translation>
     </message>
     <message id="qtn_msg_group_chat_topic_cleared">
         <location filename="../src/locstrings.h" line="117"></location>
         <source>%1 removed the topic</source>
-        <translation>1% قام بإزالة الموضوع</translation>
+        <translation>قام 1% بإزالة الموضوع</translation>
     </message>
     <message id="qtn_msg_group_chat_topic_user_changed">
         <location filename="../src/locstrings.h" line="119"></location>
@@ -196,7 +196,7 @@ Hence, n=2 is wrong.</translatorcomment></message>
     <message id="qtn_msg_group_chat_topic_cleared_user">
         <location filename="../src/locstrings.h" line="121"></location>
         <source>You removed the topic</source>
-        <translation>قمت بإزالة الموضوع</translation>
+        <translation>لقد قمت بإزالة الموضوع</translation>
     </message>
     <message id="qtn_msg_error_sms_sending_failed">
         <location filename="../src/locstrings.h" line="125"></location>
@@ -236,12 +236,12 @@ Hence, n=2 is wrong.</translatorcomment></message>
     <message id="qtn_pers_authorization_req">
         <location filename="../src/locstrings.h" line="141"></location>
         <source>Authorization request %1</source>
-        <translation>طلب موافقة من %1</translation>
+        <translation>طلب صداقة من 1%</translation>
     </message>
     <message id="qtn_pers_offline">
         <location filename="../src/locstrings.h" line="143"></location>
         <source>You need to be online to perform this operation</source>
-        <translation>يجب أن تكون غير متصل لإتمام هذه العملية</translation>
+        <translation>يجب أن تكون متصل لإتمام هذه العملية</translation>
     </message>
     <message id="qtn_msg_group_chat">
         <location filename="../src/locstrings.h" line="146"></location>

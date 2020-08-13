@@ -65,7 +65,7 @@
         <location filename="ShareMethodList.qml" line="81"></location>
         <source>No sharing accounts available. You can add accounts in settings</source>
         <extracomment>Empty state placeholder for share page</extracomment>
-        <translation>لا توجد حسابات يمكنك المشاركة من خلالها. يمكنك إضافة حساب في الإعدادت</translation>
+        <translation>لا توجد حسابات يمكنك المشاركة من خلالها. يمكنك إضافة حساب من الإعدادت</translation>
     </message>
     <message id="transferui-he-share">
         <location filename="SharePage.qml" line="16"></location>
@@ -121,7 +121,7 @@
     <message id="transferui-remove-from-history">
         <location filename="TransfersPage.qml" line="324"></location>
         <source>Remove from history</source>
-        <translation>إزالة من التأريخ</translation>
+        <translation>إزالة من  سجل التاريخ</translation>
     </message>
     <message id="transferui-remorse_removed">
         <location filename="TransfersPage.qml" line="329"></location>
@@ -136,12 +136,12 @@
     <message id="transferui-me_clear-history">
         <location filename="TransfersPage.qml" line="364"></location>
         <source>Clear history</source>
-        <translation>تصفية التأريخ</translation>
+        <translation>تصفية سجل التاريخ</translation>
     </message>
     <message id="transferui-la-cleared_transfers">
         <location filename="TransfersPage.qml" line="369"></location>
         <source>Cleared transfers</source>
-        <translation>عميلات النقل المصفاة</translation>
+        <translation>عمليات النقل المصفاة</translation>
     </message>
     <message id="transferui-la-no_transfers">
         <location filename="TransfersPage.qml" line="382"></location>
@@ -156,7 +156,7 @@
     <message id="settings_transferui-transferui">
         <location filename="../settings/LayoutTranslations.qml" line="7"></location>
         <source>Transfers</source>
-        <translation>النقل</translation>
+        <translation>عمليات النقل</translation>
     </message>
 </context>
 </TS>

@@ -13,7 +13,7 @@
         <location filename="account.cpp" line="596"></location>
         <source>An account needs provisioning!</source>
         <extracomment>Provisioning notification preview summary</extracomment>
-        <translation>حسابك يتطلب إلى إعداد</translation>
+        <translation> يتطلب حسابك إلى إعداد</translation>
     </message>
     <message id="as-daemon_provisioning_failed_notification_body_preview">
         <location filename="account.cpp" line="600"></location>
@@ -55,7 +55,7 @@
         <location filename="account.cpp" line="645"></location>
         <source>Update via the settings application</source>
         <extracomment>Authorization notification body</extracomment>
-        <translation>يمكنك بالتحديث من خلال صفحة الإعدادت | الحسابات</translation>
+        <translation>يمكنك التحديث من خلال صفحة الإعدادت | الحسابات</translation>
     </message>
     <message id="as-daemon_sendmail_failed_notification_summary">
         <location filename="account.cpp" line="679"></location>

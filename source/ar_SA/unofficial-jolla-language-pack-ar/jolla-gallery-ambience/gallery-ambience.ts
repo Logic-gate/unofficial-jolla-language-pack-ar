@@ -162,13 +162,13 @@ Highlight color for ambience</extracomment>
         <location filename="../src/AmbienceSettingsView.qml" line="357"></location>
         <source>Ambience name</source>
         <extracomment>Write a name label for ambience in read-only mode</extracomment>
-        <translation>إسم الأجواء</translation>
+        <translation>اسم الأجواء</translation>
     </message>
     <message id="jolla-gallery-ambience-ph_write_name">
         <location filename="../src/AmbienceSettingsView.qml" line="361"></location>
         <source>Ambience name</source>
         <extracomment>Placeholder text for the write a name text field</extracomment>
-        <translation>إسم الأجواء</translation>
+        <translation>اسم الأجواء</translation>
     </message>
     <message id="jolla-gallery-ambience-la-select-as-favorite">
         <location filename="../src/AmbienceSettingsView.qml" line="399"></location>

@@ -285,7 +285,7 @@
     <message id="tutorial-bt-start">
         <location filename="../plugin/RecapItem.qml" line="38"></location>
         <source>Start</source>
-        <translation>بدأ</translation>
+        <translation>ابدأ</translation>
     </message>
     <message id="tutorial-la-well_done">
         <location filename="../plugin/RecapItem.qml" line="41"></location>

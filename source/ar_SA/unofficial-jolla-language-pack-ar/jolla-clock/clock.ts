@@ -144,12 +144,12 @@
     <message id="clock-ph-alarm_name">
         <location filename="pages/ClockEditDialog.qml" line="222"></location>
         <source>Alarm name</source>
-        <translation>إسم التنبيه</translation>
+        <translation>اسم التنبيه</translation>
     </message>
     <message id="clock-ph-timer_name">
         <location filename="pages/ClockEditDialog.qml" line="239"></location>
         <source>Timer name</source>
-        <translation>إسم مؤقّت</translation>
+        <translation>اسم مؤقّت</translation>
     </message>
     <message id="clock-la-units">
         <location filename="pages/ClockEditDialog.qml" line="252"></location>

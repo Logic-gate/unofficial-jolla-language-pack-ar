@@ -130,7 +130,7 @@
         <extracomment>"text part of '3 minute(s)'"</extracomment>
         <translation><numerusform>دقيقة</numerusform>
         <numerusform>دقيقة</numerusform>
-        <numerusform>دقيقة</numerusform>
+        <numerusform>دقيقتان</numerusform>
         <numerusform>دقائق</numerusform>
         <numerusform>دقيقة</numerusform>
         <numerusform>دقيقة</numerusform>

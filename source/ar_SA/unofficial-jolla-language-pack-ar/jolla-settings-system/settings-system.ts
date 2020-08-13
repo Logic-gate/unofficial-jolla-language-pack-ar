@@ -16,7 +16,7 @@
     <message id="settings_about-la-product_name">
         <location filename="../about/about.qml" line="82"></location>
         <source>Product name</source>
-        <translation>إسم المنتح</translation>
+        <translation>اسم المنتح</translation>
     </message>
     <message id="settings_about-la-imei">
         <location filename="../about/about.qml" line="105"></location>
@@ -352,22 +352,22 @@
     <message id="settings_developermode-va-simple_compositor">
         <location filename="../developermode/developermode.qml" line="714"></location>
         <source>Simple - Compositor only</source>
-        <translation type="unfinished"></translation>
+        <translation>بسيط - المُنشئ فقط</translation>
     </message>
     <message id="settings_developermode-va-detailed_compositor">
         <location filename="../developermode/developermode.qml" line="718"></location>
         <source>Detailed - Compositor only</source>
-        <translation type="unfinished"></translation>
+        <translation>مفصل - المُنشئ فقط</translation>
     </message>
     <message id="settings_developermode-va-simple_application">
         <location filename="../developermode/developermode.qml" line="722"></location>
         <source>Simple - Application only</source>
-        <translation type="unfinished"></translation>
+        <translation>بسيط - التطبيق فقط</translation>
     </message>
     <message id="settings_developermode-va-detailed_capplication">
         <location filename="../developermode/developermode.qml" line="726"></location>
         <source>Detailed - Application only</source>
-        <translation type="unfinished"></translation>
+        <translation>مفصل - التطبيق فقط</translation>
     </message>
     <message id="settings_developermode-bu-show_reboot_action">
         <location filename="../developermode/developermode.qml" line="747"></location>
@@ -390,18 +390,18 @@
         <location filename="../developermode/developermode.qml" line="805"></location>
         <source>Allow bootloader operations</source>
         <extracomment>User can unlock the bootloader and flash device with a flash tool.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>السماح بعمليات البوتلودر</translation>
     </message>
     <message id="settings_developermode-bu-enable_debug_home_location">
         <location filename="../developermode/developermode.qml" line="824"></location>
         <source>Store debug symbols to home partition</source>
         <extracomment>Content effectively under /home/.system/usr/lib/debug</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>تخزين رموز التصحيح (debug) في تجزئة مسار المنزل (home partition)</translation>
     </message>
     <message id="settings_developermode-la-preparing_changes">
         <location filename="../developermode/developermode.qml" line="857"></location>
         <source>Preparing changes</source>
-        <translation>تحضير التغييرات</translation>
+        <translation>تحضير التغيرات</translation>
     </message>
     <message id="settings_developermode-la-downloading_packages">
         <location filename="../developermode/developermode.qml" line="860"></location>
@@ -411,7 +411,7 @@
     <message id="settings_developermode-la-installing_debug_home_location">
         <location filename="../developermode/developermode.qml" line="864"></location>
         <source>Installing debug home location</source>
-        <translation type="unfinished"></translation>
+        <translation>تثبيت مسار منزل تتبع الأخطاء البرمجية (debug)</translation>
     </message>
     <message id="settings_developermode-la-installing_developer_mode">
         <location filename="../developermode/developermode.qml" line="867"></location>
@@ -421,7 +421,7 @@
     <message id="settings_developermode-la-removing_debug_home_location">
         <location filename="../developermode/developermode.qml" line="875"></location>
         <source>Removing debug home location</source>
-        <translation type="unfinished"></translation>
+        <translation>إزالة مسار منزل تتبع الأخطاء البرمجية (debug)</translation>
     </message>
     <message id="settings_developermode-la-removing_developer_mode">
         <location filename="../developermode/developermode.qml" line="878"></location>
@@ -451,12 +451,12 @@
     <message id="settings_developermode-ph-username">
         <location filename="../developermode/RegisterSSUDialog.qml" line="32"></location>
         <source>Username</source>
-        <translation>إسم المستخدم</translation>
+        <translation>اسم المستخدم</translation>
     </message>
     <message id="settings_developermode-lb-username">
         <location filename="../developermode/RegisterSSUDialog.qml" line="35"></location>
         <source>Username</source>
-        <translation>إسم المستخدم</translation>
+        <translation>اسم المستخدم</translation>
     </message>
     <message id="settings_developermode-ph-domain">
         <location filename="../developermode/RegisterSSUDialog.qml" line="60"></location>
@@ -1068,10 +1068,13 @@
         <location filename="../lockscreen/lockscreen.qml" line="50"></location>
         <source>You can have shortcuts to your favorite apps from Lock Screen. Select up to %n shortcuts which are then available in the Pulley Menu.</source>
         <extracomment>Takes max number of shortcuts as a parameter.</extracomment>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-        </translation>
-    </message>
+        <translation><numerusform>يمكنك الحصول على إختصارات لتطبيقاتك المفضلة من شاشة القفل. حدد ما يصل إلى %n إختصار و سوف يكون متاح بعد ذلك في قائمة البكرة.</numerusform>
+        <numerusform>يمكنك الحصول على إختصارات لتطبيقاتك المفضلة من شاشة القفل. حدد ما يصل إلى إختصار و سوف يكون متاح بعد ذلك في قائمة البكرة.</numerusform>
+        <numerusform>يمكنك الحصول على إختصارات لتطبيقاتك المفضلة من شاشة القفل. حدد ما يصل إلى إختصارين و سوف يكون متاح بعد ذلك في قائمة البكرة.</numerusform>
+        <numerusform>يمكنك الحصول على إختصارات لتطبيقاتك المفضلة من شاشة القفل. حدد ما يصل إلى %n إختصارات و سوف يكون متاح بعد ذلك في قائمة البكرة.</numerusform>
+        <numerusform>يمكنك الحصول على إختصارات لتطبيقاتك المفضلة من شاشة القفل. حدد ما يصل إلى %n إختصار و سوف يكون متاح بعد ذلك في قائمة البكرة.</numerusform>
+        <numerusform>يمكنك الحصول على إختصارات لتطبيقاتك المفضلة من شاشة القفل. حدد ما يصل إلى %n إختصار و سوف يكون متاح بعد ذلك في قائمة البكرة.</numerusform>
+        </translation></message>
     <message id="settings_shortcuts-la-select_shortcuts">
         <location filename="../lockscreen/lockscreen.qml" line="57"></location>
         <source>Select shortcuts</source>
@@ -1644,10 +1647,13 @@
         <location filename="../plugin/PinInput.qml" line="77"></location>
         <source>PIN cannot be more than %n digits.</source>
         <extracomment>Warns that the entered PIN was too long.</extracomment>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-        </translation>
-    </message>
+        <translation><numerusform>لا يمكن أن يكون رمز PIN أطول من %n رقم</numerusform>
+        <numerusform>لا يمكن أن يكون رمز PIN أطول من رقم واحد</numerusform>
+        <numerusform>لا يمكن أن يكون رمز PIN أطول من رقمين</numerusform>
+        <numerusform>لا يمكن أن يكون رمز PIN أطول من %n أرقام</numerusform>
+        <numerusform>لا يمكن أن يكون رمز PIN أطول من %n رقم</numerusform>
+        <numerusform>لا يمكن أن يكون رمز PIN أطول من %n رقم</numerusform>
+        </translation></message>
     <message id="settings_pin-he-enter_new_pin">
         <location filename="../plugin/PinInput.qml" line="81"></location>
         <source>Enter new PIN</source>
@@ -1759,10 +1765,13 @@
         <location filename="../plugin/SimPinInput.qml" line="92"></location>
         <source>%n attempts left</source>
         <extracomment>Warns about the number of retries available for PIN input</extracomment>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-        </translation>
-    </message>
+        <translation><numerusform>%n محاولة متبقية</numerusform>
+        <numerusform>محاولة واحدة متبقية</numerusform>
+        <numerusform>محاولتان متبقية</numerusform>
+        <numerusform>%n محاولات متبقية</numerusform>
+        <numerusform>%n محاولة متبقية</numerusform>
+        <numerusform>%n محاولة متبقية</numerusform>
+        </translation></message>
     <message id="settings_pin-la-last_puk_warning">
         <location filename="../plugin/SimPinInput.qml" line="101"></location>
         <source>Only 1 attempt left. If this goes wrong, SIM card will be permanently locked.</source>
@@ -1779,10 +1788,13 @@
         <location filename="../plugin/SimPinInput.qml" line="108"></location>
         <source>%n attempts left. Contact your network service provider for the PUK code.</source>
         <extracomment>Warns that the device has been locked with a PUK code (%1 = number of attempts remaining before SIM is permanently locked)</extracomment>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-        </translation>
-    </message>
+        <translation><numerusform>تبقى لديك %n محاولة. إتصل بمزود خدمة الشبكة للحصول على رمز PUK.</numerusform>
+        <numerusform>تبقى لديك محاولة واحدة. إتصل بمزود خدمة الشبكة للحصول على رمز PUK.</numerusform>
+        <numerusform>تبقى لديك محاولتان. إتصل بمزود خدمة الشبكة للحصول على رمز PUK.</numerusform>
+        <numerusform>تبقى لديك %n محاولات. إتصل بمزود خدمة الشبكة للحصول على رمز PUK.</numerusform>
+        <numerusform>تبقى لديك %n محاولة. إتصل بمزود خدمة الشبكة للحصول على رمز PUK.</numerusform>
+        <numerusform>تبقى لديك %n محاولة. إتصل بمزود خدمة الشبكة للحصول على رمز PUK.</numerusform>
+        </translation></message>
     <message id="settings_pin-la-notify_correct_unlock_code">
         <location filename="../plugin/SimPinQuery.qml" line="50"></location>
         <source>Unlock code correct</source>
@@ -3018,44 +3030,44 @@
         <translation>الوضع %1</translation>
     </message>
     <message id="settings_users-me-switch_to_user">
-        <location filename="../users/UserItem.qml" line="63"></location>
+        <location filename="../users/UserItem.qml" line="59"></location>
         <source>Switch to user</source>
         <translation type="unfinished"></translation>
     </message>
     <message id="settings_users-me-turn_off_calls_and_sms">
-        <location filename="../users/UserItem.qml" line="76"></location>
+        <location filename="../users/UserItem.qml" line="72"></location>
         <source>Turn off calls and SMS</source>
         <translation type="unfinished"></translation>
     </message>
     <message id="settings_users-me-turn_on_calls_and_sms">
-        <location filename="../users/UserItem.qml" line="78"></location>
+        <location filename="../users/UserItem.qml" line="74"></location>
         <source>Turn on calls and SMS</source>
         <translation type="unfinished"></translation>
     </message>
     <message id="settings_users-me-rename">
-        <location filename="../users/UserItem.qml" line="91"></location>
+        <location filename="../users/UserItem.qml" line="87"></location>
         <source>Rename</source>
         <translation type="unfinished"></translation>
     </message>
     <message id="settings_users-me-delete">
-        <location filename="../users/UserItem.qml" line="98"></location>
+        <location filename="../users/UserItem.qml" line="94"></location>
         <source>Delete</source>
         <translation type="unfinished"></translation>
     </message>
     <message id="settings_users-la-you">
-        <location filename="../users/UserItem.qml" line="158"></location>
+        <location filename="../users/UserItem.qml" line="154"></location>
         <source>You %1 </source>
         <extracomment>"You" means the current user, %1 is a bullet character</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message id="settings_users-ph-new_user_name">
-        <location filename="../users/UserItem.qml" line="202"></location>
+        <location filename="../users/UserItem.qml" line="198"></location>
         <source>New user name</source>
         <extracomment>Input field for the name of the new user (it can be anything, full name is expected)</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message id="settings_users-la-admin">
-        <location filename="../users/UserItem.qml" line="277"></location>
+        <location filename="../users/UserItem.qml" line="274"></location>
         <source>Admin</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3109,39 +3121,49 @@
         <source>Could not remove permissions</source>
         <translation type="unfinished"></translation>
     </message>
+    <message id="settings_users-me-hide_guest">
+        <location filename="../users/users.qml" line="165"></location>
+        <source>Hide guest user</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="settings_users-me-show_guest">
+        <location filename="../users/users.qml" line="167"></location>
+        <source>Show guest user</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message id="settings_users-he-users">
-        <location filename="../users/users.qml" line="162"></location>
+        <location filename="../users/users.qml" line="180"></location>
         <source>Users</source>
         <translation type="unfinished"></translation>
     </message>
     <message id="settings_users-la-user_switch_help">
-        <location filename="../users/users.qml" line="175"></location>
+        <location filename="../users/users.qml" line="193"></location>
         <source>Switch between users easily from Top menu, opened via a swipe from top of the display.</source>
         <translation type="unfinished"></translation>
     </message>
     <message id="settings_users-la-add_user">
-        <location filename="../users/users.qml" line="248"></location>
+        <location filename="../users/users.qml" line="266"></location>
         <source>Add user</source>
         <translation type="unfinished"></translation>
     </message>
     <message id="settings_users_la-security_required">
-        <location filename="../users/users.qml" line="319"></location>
+        <location filename="../users/users.qml" line="337"></location>
         <source>Security code required</source>
         <translation type="unfinished"></translation>
     </message>
     <message id="settings_users_la-security_description">
-        <location filename="../users/users.qml" line="330"></location>
+        <location filename="../users/users.qml" line="348"></location>
         <source>Adding users requires enabling security code to prevent unauthorized changes to the device. Security code cannot be disabled after users have been added.</source>
         <translation type="unfinished"></translation>
     </message>
     <message id="settings_users-la-delete_user">
-        <location filename="../users/users.qml" line="376"></location>
+        <location filename="../users/users.qml" line="394"></location>
         <source>Do you really want to delete %1?</source>
         <extracomment>%1 is user's name</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message id="settings_users-la-delete_user_warning">
-        <location filename="../users/users.qml" line="387"></location>
+        <location filename="../users/users.qml" line="405"></location>
         <source>Accepting this will remove everything the user has stored on the device (e.g. accounts, contacts, messages, documents, photos and other media).</source>
         <translation type="unfinished"></translation>
     </message>

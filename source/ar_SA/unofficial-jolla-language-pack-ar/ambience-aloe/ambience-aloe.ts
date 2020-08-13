@@ -21,7 +21,7 @@
     <message id="aloe-email">
         <location filename="AmbienceTranslations.qml" line="12"></location>
         <source>Email tone</source>
-        <translation>نغمة البريد</translation>
+        <translation>نغمة البريد الإلكتروني</translation>
     </message>
     <message id="aloe-message">
         <location filename="AmbienceTranslations.qml" line="14"></location>
@@ -36,7 +36,7 @@
     <message id="aloe-clock-alarm">
         <location filename="AmbienceTranslations.qml" line="18"></location>
         <source>Clock Alarm</source>
-        <translation>تنبيهات الساعة</translation>
+        <translation>نغمة تنبيهات الساعة</translation>
     </message>
 </context>
 </TS>

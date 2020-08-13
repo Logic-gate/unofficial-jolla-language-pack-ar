@@ -39,7 +39,7 @@
     <message id="devicelock-la-devicelock_last_chance">
         <location filename="qml/main.qml" line="53"></location>
         <source>Entering incorrent lock code once more will permanently block your access to the device.</source>
-        <translation>إن أدخلت رمز أمان غير صحيح مرة أخرى سيتم قفل جهازك بشكل دائم.</translation>
+        <translation>إن ادخلت رمز أمان غير صحيح مرة أخرى سيتم قفل جهازك بشكل دائم.</translation>
     </message>
     <message id="devicelock-la-devicelock_incorrect_lock_code">
         <location filename="qml/main.qml" line="58"></location>

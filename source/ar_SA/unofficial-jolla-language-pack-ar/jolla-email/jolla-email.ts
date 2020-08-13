@@ -43,7 +43,7 @@
         <extracomment>When singular "Downloading attachment", when plural "Downloading attachments"</extracomment>
         <translation><numerusform>تنزيل المرفق...</numerusform>
         <numerusform>تنزيل المرفق...</numerusform>
-        <numerusform>تنزيل المرفقات...</numerusform>
+        <numerusform>تنزيل المرفقان...</numerusform>
         <numerusform>تنزيل المرفقات...</numerusform>
         <numerusform>تنزيل المرفقات...</numerusform>
         <numerusform>تنزيل المرفقات...</numerusform>
@@ -78,7 +78,7 @@
         <extracomment>When plural "Remove all attachments" and singular "Remove attachment".</extracomment>
         <translation><numerusform>إزالة مرفق</numerusform>
         <numerusform>إزالة مرفق</numerusform>
-        <numerusform>إزالة مرفقات</numerusform>
+        <numerusform>إزالة مرفقان</numerusform>
         <numerusform>إزالة مرفقات</numerusform>
         <numerusform>إزالة مرفقات</numerusform>
         <numerusform>إزالة مرفقات</numerusform>
@@ -959,7 +959,7 @@ Synchronise account menu item</extracomment>
     <message id="jolla-email-newfolder_folder_name_placeholder">
         <location filename="../pages/NewFolderDialog.qml" line="37"></location>
         <source>Folder name</source>
-        <translation>إسم المجلد</translation>
+        <translation>اسم المجلد</translation>
     </message>
     <message id="jolla-email-newfolder_parent_label">
         <location filename="../pages/NewFolderDialog.qml" line="47"></location>
@@ -989,7 +989,7 @@ Synchronise account menu item</extracomment>
     <message id="email-ph-folder_rename">
         <location filename="../pages/RenameFolderDialog.qml" line="34"></location>
         <source>Enter folder name</source>
-        <translation>أدخل اسم المجلد</translation>
+        <translation>ادخل اسم المجلد</translation>
     </message>
     <message id="jolla-email-he-search_options">
         <location filename="../pages/SearchOptionsPage.qml" line="24"></location>

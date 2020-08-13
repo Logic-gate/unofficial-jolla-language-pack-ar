@@ -54,7 +54,7 @@
         <location filename="mainpage.qml" line="178"></location>
         <source>Downloading</source>
         <extracomment>Downloading system update menu item (disabled)</extracomment>
-        <translation>جاري التحميل...</translation>
+        <translation>جار التحميل...</translation>
     </message>
     <message id="settings_sailfishos-me-install_system_update">
         <location filename="mainpage.qml" line="182"></location>

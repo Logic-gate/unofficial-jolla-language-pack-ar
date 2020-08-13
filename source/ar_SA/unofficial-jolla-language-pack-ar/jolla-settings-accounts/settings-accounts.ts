@@ -35,20 +35,20 @@
         <location filename="../declarative/AccountBusyPage.qml" line="51"></location>
         <source>Creating account...</source>
         <extracomment>Notifies user that the account is currently being created.</extracomment>
-        <translation>جاري إنشاء الحساب...</translation>
+        <translation>جار إنشاء الحساب...</translation>
     </message>
     <message id="components_accounts-la-signing_into_account">
         <location filename="../declarative/AccountBusyPage.qml" line="55"></location>
         <location filename="../declarative/JollaAccountSignInDialog.qml" line="82"></location>
         <source>Signing in...</source>
         <extracomment>Notifies the device is in the process of signing into the account</extracomment>
-        <translation>جاري تسجيل الدخول...</translation>
+        <translation>جار تسجيل الدخول...</translation>
     </message>
     <message id="components_accounts-la-updating_account_credentials">
         <location filename="../declarative/AccountBusyPage.qml" line="59"></location>
         <source>Saving credentials...</source>
         <extracomment>Notifies user that the updated account credentials are currently being saved</extracomment>
-        <translation>جاري حفظ بيانات الإعتماد...</translation>
+        <translation>جار حفظ بيانات الاعتماد...</translation>
     </message>
     <message id="jolla_settings_accounts_extensions-he-consent">
         <location filename="../declarative/AccountCreationLegaleseDialog.qml" line="17"></location>
@@ -218,7 +218,7 @@
         <location filename="../declarative/AccountsUtil.qml" line="106"></location>
         <source>Allow apps to show and upload your contacts using the CardDAV protocol.</source>
         <extracomment>Describes the effect of enabling the "Contacts" service for a particular user account.</extracomment>
-        <translation>إسمح للتطبيقات بإظهار جهات اتصالك وتحميلها بإستخدام بروتوكول CardDAV</translation>
+        <translation>اسمح للتطبيقات بإظهار جهات اتصالك وتحميلها باستخدام بروتوكول CardDAV</translation>
     </message>
     <message id="components_accounts-la-service_description_email">
         <location filename="../declarative/AccountsUtil.qml" line="110"></location>
@@ -230,7 +230,7 @@
         <location filename="../declarative/AccountsUtil.qml" line="114"></location>
         <source>Allow apps to chat using your %1 IM account and change your online status.</source>
         <extracomment>Describes the effect of enabling the "Instant Messaging" service for a particular user account.</extracomment>
-        <translation>إسمح لتطبيقات الدردشة بإستخدام حساب الدردشة الخاص بك %1 وتغيير حالتك على الإنترنت.</translation>
+        <translation>اسمح لتطبيقات الدردشة باستخدام حساب الدردشة الخاص بك %1 وتغيير حالتك على الإنترنت.</translation>
     </message>
     <message id="components_accounts-la-service_description_microblogging">
         <location filename="../declarative/AccountsUtil.qml" line="118"></location>
@@ -242,7 +242,7 @@
         <location filename="../declarative/AccountsUtil.qml" line="122"></location>
         <source>Allow apps to show and update your %1 photos, videos and other content.</source>
         <extracomment>Describes the effect of enabling the "Sharing" service for a particular user account.</extracomment>
-        <translation>إسمح للتطبيقات بعرض و تحديث الصور و المقاطع و الفيديوهات ومحتويات أخرى من حسابك %1.</translation>
+        <translation>اسمح للتطبيقات بعرض و تحديث الصور و المقاطع و الفيديوهات ومحتويات أخرى من حسابك %1.</translation>
     </message>
     <message id="components_accounts-la-service_description_storage">
         <location filename="../declarative/AccountsUtil.qml" line="126"></location>
@@ -271,7 +271,7 @@
     <message id="components_accounts-la-username">
         <location filename="../declarative/AccountUsernameField.qml" line="10"></location>
         <source>Username</source>
-        <translation>إسم المستخدم</translation>
+        <translation>اسم المستخدم</translation>
     </message>
     <message id="settings_accounts-la-country">
         <location filename="../declarative/CountryValueButton.qml" line="19"></location>
@@ -301,7 +301,7 @@
         <location filename="../declarative/CredentialsUpdateDialog.qml" line="142"></location>
         <source>Enter password</source>
         <extracomment>Placeholder text for password</extracomment>
-        <translation>أدخل كلمة المرور</translation>
+        <translation>ادخل كلمة المرور</translation>
     </message>
     <message id="settings-accounts-me-sync_every_5_min">
         <location filename="../declarative/IntervalListModel.qml" line="13"></location>
@@ -348,22 +348,22 @@
     <message id="settings_accounts-la-first_name">
         <location filename="../declarative/JollaAccountCreationSecondDialog.qml" line="203"></location>
         <source>First name</source>
-        <translation>الإسم الأول</translation>
+        <translation>الاسم الأول</translation>
     </message>
     <message id="settings_accounts-ph-first_name">
         <location filename="../declarative/JollaAccountCreationSecondDialog.qml" line="206"></location>
         <source>Enter first name</source>
-        <translation>أدخل الإسم الأول</translation>
+        <translation>ادخل الاسم الأول</translation>
     </message>
     <message id="settings_accounts-la-last_name">
         <location filename="../declarative/JollaAccountCreationSecondDialog.qml" line="221"></location>
         <source>Last name</source>
-        <translation>الإسم الأخير</translation>
+        <translation>الاسم الأخير</translation>
     </message>
     <message id="settings_accounts-ph-last_name">
         <location filename="../declarative/JollaAccountCreationSecondDialog.qml" line="224"></location>
         <source>Enter last name</source>
-        <translation>أدخل الإسم الأخير</translation>
+        <translation>ادخل الاسم الأخير</translation>
     </message>
     <message id="settings_accounts-la-email">
         <location filename="../declarative/JollaAccountCreationSecondDialog.qml" line="241"></location>
@@ -373,7 +373,7 @@
     <message id="settings_accounts-ph-email">
         <location filename="../declarative/JollaAccountCreationSecondDialog.qml" line="244"></location>
         <source>Enter email address</source>
-        <translation>أدخل البريد الإلكتروني</translation>
+        <translation>ادخل البريد الإلكتروني</translation>
     </message>
     <message id="settings_accounts-la-phone_optional">
         <location filename="../declarative/JollaAccountCreationSecondDialog.qml" line="262"></location>
@@ -383,7 +383,7 @@
     <message id="settings_accounts-ph-phone_optional">
         <location filename="../declarative/JollaAccountCreationSecondDialog.qml" line="265"></location>
         <source>Enter phone number (optional)</source>
-        <translation>أدخل رقم الهاتف (إختياري)</translation>
+        <translation>ادخل رقم الهاتف (اختياري)</translation>
     </message>
     <message id="settings_accounts-la-language">
         <location filename="../declarative/JollaAccountCreationSecondDialog.qml" line="294"></location>
@@ -417,19 +417,19 @@
         <location filename="../declarative/JollaAccountCredentialsInput.qml" line="171"></location>
         <source>Checking username availability</source>
         <extracomment>Tells the user that the username availability is being checked</extracomment>
-        <translation>جاري التحقق من توفر إسم المستخدم...</translation>
+        <translation>جار التحقق من توفر اسم المستخدم...</translation>
     </message>
     <message id="settings_accounts-la_username_available">
         <location filename="../declarative/JollaAccountCredentialsInput.qml" line="192"></location>
         <source>Username is available</source>
         <extracomment>The entered username is available</extracomment>
-        <translation>إسم المستخدم غير متوفر</translation>
+        <translation>اسم المستخدم غير متوفر</translation>
     </message>
     <message id="settings_accounts-username_already_taken">
         <location filename="../declarative/JollaAccountCredentialsInput.qml" line="197"></location>
         <source>Sorry, this username is already taken</source>
         <extracomment>The entered username is not available as it is already taken</extracomment>
-        <translation>عذراً، إسم المستخدم هذا مأخوذ</translation>
+        <translation>عذراً، اسم المستخدم هذا مأخوذ</translation>
     </message>
     <message id="settings_accounts-la_username_invalid">
         <location filename="../declarative/JollaAccountCredentialsInput.qml" line="202"></location>
@@ -621,12 +621,12 @@
     <message id="settings_accounts-ph-username">
         <location filename="../declarative/JollaAccountSignInDialog.qml" line="169"></location>
         <source>Enter username</source>
-        <translation>أدخل إسم المستخدم</translation>
+        <translation>ادخل اسم المستخدم</translation>
     </message>
     <message id="settings_accounts-ph-password">
         <location filename="../declarative/JollaAccountSignInDialog.qml" line="180"></location>
         <source>Enter password</source>
-        <translation>أدخل كلمة المرور</translation>
+        <translation>ادخل كلمة المرور</translation>
     </message>
     <message id="settings-accounts-la-enable_at_least_one_service">
         <location filename="../declarative/MinimumServiceEnabledNotification.qml" line="14"></location>
@@ -660,13 +660,13 @@
         <location filename="../declarative/OAuthAccountSetupPage.qml" line="166"></location>
         <source>Loading...</source>
         <extracomment>Message displayed while waiting for authentication process to load</extracomment>
-        <translation>جاري التحميل...</translation>
+        <translation>جار التحميل...</translation>
     </message>
     <message id="components_accounts-la-updating_account">
         <location filename="../declarative/OAuthAccountSetupPage.qml" line="175"></location>
         <source>Updating account...</source>
         <extracomment>Message displayed while updating account details</extracomment>
-        <translation>جاري تحديث الحساب...</translation>
+        <translation>جار تحديث الحساب...</translation>
     </message>
     <message id="settings-accounts-la-sync_always_on">
         <location filename="../declarative/PeakSyncOptions.qml" line="27"></location>
@@ -872,13 +872,13 @@
         <location filename="../extensions/ui/EmailBusyPage.qml" line="24"></location>
         <source>Discovering account settings...</source>
         <extracomment>Notifies user that we are trying to retrieve the account settings</extracomment>
-        <translation>جاري إسترداد إعدادات الحساب...</translation>
+        <translation>جار استرداد إعدادات الحساب...</translation>
     </message>
     <message id="components_accounts-la-genericemail_checking_credentials">
         <location filename="../extensions/ui/EmailBusyPage.qml" line="27"></location>
         <source>Checking account credentials...</source>
         <extracomment>Checking account credentials</extracomment>
-        <translation>جاري التحقق من بيانات إعتماد الحساب...</translation>
+        <translation>جار التحقق من بيانات اعتماد الحساب...</translation>
     </message>
     <message id="components_accounts-he-genericemail_connection_error">
         <location filename="../extensions/ui/EmailBusyPage.qml" line="57"></location>
@@ -1001,7 +1001,7 @@ Description displayed when authentication fails for outgoing server.</extracomme
         <location filename="../extensions/ui/EmailCommon.qml" line="113"></location>
         <source>Enter username</source>
         <extracomment>Placeholder text for account incoming server username</extracomment>
-        <translation>أدخل إسم المستخدم</translation>
+        <translation>ادخل اسم المستخدم</translation>
     </message>
     <message id="components_accounts-la-genericemail_incoming_username">
         <location filename="../extensions/ui/EmailCommon.qml" line="116"></location>
@@ -1016,13 +1016,13 @@ Description displayed when authentication fails for outgoing server.</extracomme
         <extracomment>Placeholder text for password of account login
 ----------
 Password for account incoming server</extracomment>
-        <translation>أدخل كلمة المرور</translation>
+        <translation>ادخل كلمة المرور</translation>
     </message>
     <message id="components_accounts-ph-genericemail_incoming_server">
         <location filename="../extensions/ui/EmailCommon.qml" line="159"></location>
         <source>Enter server address</source>
         <extracomment>Placeholder text for account incoming server address</extracomment>
-        <translation>أدخل عنوان الخادم</translation>
+        <translation>ادخل عنوان الخادم</translation>
     </message>
     <message id="components_accounts-la-genericemail_incoming_server">
         <location filename="../extensions/ui/EmailCommon.qml" line="162"></location>
@@ -1046,7 +1046,7 @@ Password for account incoming server</extracomment>
         <location filename="../extensions/ui/EmailCommon.qml" line="195"></location>
         <source>Enter port</source>
         <extracomment>Placeholder text for account incoming server port</extracomment>
-        <translation>أدخل المنفذ</translation>
+        <translation>ادخل المنفذ</translation>
     </message>
     <message id="components_accounts-la-genericemail_incoming_port">
         <location filename="../extensions/ui/EmailCommon.qml" line="198"></location>
@@ -1070,7 +1070,7 @@ Password for account incoming server</extracomment>
         <location filename="../extensions/ui/EmailCommon.qml" line="235"></location>
         <source>Enter server address</source>
         <extracomment>Placeholder text for account outgoing server address</extracomment>
-        <translation>أدخل عنوان الخادم</translation>
+        <translation>ادخل عنوان الخادم</translation>
     </message>
     <message id="components_accounts-la-genericemail_outgoing_server">
         <location filename="../extensions/ui/EmailCommon.qml" line="238"></location>
@@ -1088,7 +1088,7 @@ Password for account incoming server</extracomment>
         <location filename="../extensions/ui/EmailCommon.qml" line="269"></location>
         <source>Enter port</source>
         <extracomment>Placeholder text for account outgoing server port</extracomment>
-        <translation>أدخل المنفذ</translation>
+        <translation>ادخل المنفذ</translation>
     </message>
     <message id="components_accounts-la-genericemail_outgoing_port">
         <location filename="../extensions/ui/EmailCommon.qml" line="272"></location>
@@ -1105,12 +1105,12 @@ Password for account incoming server</extracomment>
         <location filename="../extensions/ui/EmailCommon.qml" line="294"></location>
         <source>Enter username</source>
         <extracomment>Placeholder text for server username</extracomment>
-        <translation>أدخل إسم المستخدم</translation>
+        <translation>ادخل اسم المستخدم</translation>
     </message>
     <message id="components_accounts-la-genericemail_outgoing_username">
         <location filename="../extensions/ui/EmailCommon.qml" line="296"></location>
         <source>Username</source>
-        <translation>إسم المستخدم</translation>
+        <translation>اسم المستخدم</translation>
     </message>
     <message id="components_accounts-la-genericemail_outgoing_password">
         <location filename="../extensions/ui/EmailCommon.qml" line="314"></location>
@@ -1119,7 +1119,7 @@ Password for account incoming server</extracomment>
         <extracomment>Placeholder text for outgoing server password
 ----------
 Password for account outgoing server</extracomment>
-        <translation>أدخل كلمة المرور</translation>
+        <translation>ادخل كلمة المرور</translation>
     </message>
     <message id="components_accounts-la-genericemail_certificates_label">
         <location filename="../extensions/ui/EmailCommon.qml" line="332"></location>
@@ -1208,14 +1208,14 @@ Password for account outgoing server</extracomment>
         <location filename="../extensions/ui/GoogleSettingsDisplay.qml" line="300"></location>
         <source>Your name</source>
         <extracomment>Placeholder text for your name</extracomment>
-        <translation>أدخل إسمك</translation>
+        <translation>ادخل اسمك</translation>
     </message>
     <message id="components_accounts-la-genericemail_your_name">
         <location filename="../extensions/ui/EmailSettingsDisplay.qml" line="334"></location>
         <location filename="../extensions/ui/GoogleSettingsDisplay.qml" line="303"></location>
         <source>Your name</source>
         <extracomment>Your name</extracomment>
-        <translation>إسمك</translation>
+        <translation>اسمك</translation>
     </message>
     <message id="settings-accounts-la-include_email_signature">
         <location filename="../extensions/ui/EmailSettingsDisplay.qml" line="342"></location>
@@ -1429,19 +1429,19 @@ Password for account outgoing server</extracomment>
         <location filename="../extensions/ui/JabberCommon.qml" line="29"></location>
         <source>Enter username</source>
         <extracomment>Placeholder text for XMPP username</extracomment>
-        <translation>أدخل إسم المستخدم</translation>
+        <translation>ادخل اسم المستخدم</translation>
     </message>
     <message id="components_accounts-la-jabber_username">
         <location filename="../extensions/ui/JabberCommon.qml" line="32"></location>
         <source>Username</source>
         <extracomment>XMPP username</extracomment>
-        <translation>إسم المستخدم</translation>
+        <translation>اسم المستخدم</translation>
     </message>
     <message id="components_accounts-ph-jabber_password_placeholder">
         <location filename="../extensions/ui/JabberCommon.qml" line="52"></location>
         <source>Enter password</source>
         <extracomment>Placeholder text for password</extracomment>
-        <translation>أدخل كلمة المرور</translation>
+        <translation>ادخل كلمة المرور</translation>
     </message>
     <message id="components_accounts-la-jabber_advanced_settings_header">
         <location filename="../extensions/ui/JabberCommon.qml" line="64"></location>
@@ -1452,7 +1452,7 @@ Password for account outgoing server</extracomment>
         <location filename="../extensions/ui/JabberCommon.qml" line="73"></location>
         <source>Enter server address (Optional)</source>
         <extracomment>Placeholder text for XMPP server address</extracomment>
-        <translation>أدخل عنوان الخادم (إختياري)</translation>
+        <translation>ادخل عنوان الخادم (اختياري)</translation>
     </message>
     <message id="components_accounts-la-jabber_server">
         <location filename="../extensions/ui/JabberCommon.qml" line="76"></location>
@@ -1464,7 +1464,7 @@ Password for account outgoing server</extracomment>
         <location filename="../extensions/ui/JabberCommon.qml" line="87"></location>
         <source>Enter port</source>
         <extracomment>Placeholder text for XMPP server port</extracomment>
-        <translation>أدخل المنفذ</translation>
+        <translation>ادخل المنفذ</translation>
     </message>
     <message id="components_accounts-la-jabber_port">
         <location filename="../extensions/ui/JabberCommon.qml" line="90"></location>
@@ -1671,13 +1671,13 @@ Password for account outgoing server</extracomment>
         <location filename="../extensions/ui/SIPCommon.qml" line="130"></location>
         <source>Username</source>
         <extracomment>Placeholder text for username override</extracomment>
-        <translation>إسم المستخدم</translation>
+        <translation>اسم المستخدم</translation>
     </message>
     <message id="components_accounts-la-sip_username">
         <location filename="../extensions/ui/SIPCommon.qml" line="134"></location>
         <source>Username</source>
         <extracomment>Username</extracomment>
-        <translation>إسم المستخدم</translation>
+        <translation>اسم المستخدم</translation>
     </message>
     <message id="components_accounts-ph-sip_server">
         <location filename="../extensions/ui/SIPCommon.qml" line="149"></location>
@@ -1948,7 +1948,7 @@ Password for account outgoing server</extracomment>
     <message id="accounts-settings-lb-webcal_name">
         <location filename="../extensions/ui/WebCalendarSettings.qml" line="141"></location>
         <source>Calendar name</source>
-        <translation>إسم التقويم</translation>
+        <translation>اسم التقويم</translation>
     </message>
     <message id="accounts-settings-lb-webcal_redirect">
         <location filename="../extensions/ui/WebCalendarSettings.qml" line="149"></location>
@@ -1958,7 +1958,7 @@ Password for account outgoing server</extracomment>
     <message id="accounts-settings-lb-webcal_redirect_description">
         <location filename="../extensions/ui/WebCalendarSettings.qml" line="151"></location>
         <source>Allow to follow HTTP redirections when the given URL is a link to another one.</source>
-        <translation>إسمح بمتابعة عمليات إعادة توجيه HTTP عندما يكون عنوان URL المحدد رابطًا إلى آخر</translation>
+        <translation>اسمح بمتابعة عمليات إعادة توجيه HTTP عندما يكون عنوان URL المحدد رابطًا إلى آخر</translation>
     </message>
     <message id="settings_accounts-la-yahoo_id">
         <location filename="../extensions/ui/yahoo.qml" line="14"></location>
@@ -2112,19 +2112,19 @@ Password for account outgoing server</extracomment>
         <location filename="../declarative/caldavaccountcalendarupdater.cpp" line="746"></location>
         <source>Getting calendar details...</source>
         <extracomment>Currently sending a server request to get more details about the user's calendars</extracomment>
-        <translation>جاري الحصول على تفاصيل التقويم...</translation>
+        <translation>جار الحصول على تفاصيل التقويم...</translation>
     </message>
     <message id="jollacomponents_internal_caldav-la-getting_available_calendars">
         <location filename="../declarative/caldavaccountcalendarupdater.cpp" line="751"></location>
         <source>Finding available calendars...</source>
         <extracomment>Currently sending a server request to get a list of the user's available calendars</extracomment>
-        <translation>جاري البحث عن التقاويم المتوفرة...</translation>
+        <translation>جار البحث عن التقاويم المتوفرة...</translation>
     </message>
     <message id="jollacomponents_internal_caldav-la-saving_details">
         <location filename="../declarative/caldavaccountcalendarupdater.cpp" line="756"></location>
         <source>Saving details...</source>
         <extracomment>Currently saving calendar details that were received</extracomment>
-        <translation>جاري حفظ التفاصيل...</translation>
+        <translation>جار حفظ التفاصيل...</translation>
     </message>
     <message id="jolla_account_provider-no_device_imei">
         <location filename="../declarative/jollaaccountprovider.cpp" line="313"></location>

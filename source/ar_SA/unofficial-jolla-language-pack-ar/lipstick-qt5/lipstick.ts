@@ -6,7 +6,7 @@
     <message id="qtn_ener_charging">
         <location filename="notifications/batterynotifier.cpp" line="403"></location>
         <source>Charging</source>
-        <translation>جاري الشحن...</translation>
+        <translation>جار الشحن...</translation>
     </message>
     <message id="qtn_ener_charcomp">
         <location filename="notifications/batterynotifier.cpp" line="407"></location>

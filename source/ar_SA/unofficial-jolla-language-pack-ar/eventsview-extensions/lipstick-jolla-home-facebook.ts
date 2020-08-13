@@ -7,7 +7,7 @@
         <location filename="facebook-delegate.qml" line="19"></location>
         <source>Notifications</source>
         <extracomment>Facebook notifications</extracomment>
-        <translation>تنبيهات</translation>
+        <translation>الإشعارات</translation>
     </message>
     <message id="lipstick-jolla-home-la-show-more-in-facebook">
         <location filename="facebook-delegate.qml" line="50"></location>
@@ -18,18 +18,18 @@
         <location filename="FacebookLikeable.qml" line="51"></location>
         <source>Failed to like</source>
         <extracomment>Facebook like operation failed.</extracomment>
-        <translation>إضافة الإعجاب فشلت</translation>
+        <translation>فشل عملية إضافة الإعجاب</translation>
     </message>
     <message id="lipstick-jolla-home-facebook-error-fail-to-remove-like">
         <location filename="FacebookLikeable.qml" line="53"></location>
         <source>Failed to remove like</source>
-        <translation>إزالة الإعجاب فشلت</translation>
+        <translation>فشل عملية إزالة الإعجاب</translation>
     </message>
     <message id="lipstick-jolla-home-facebook-error-fail-to-comment">
         <location filename="FacebookLikeable.qml" line="57"></location>
         <source>Failed to comment</source>
         <extracomment>Facebook comment operation failed.</extracomment>
-        <translation>إضافة التعليق فشل</translation>
+        <translation>فشل عملية إضافة التعليق</translation>
     </message>
     <message id="lipstick-jolla-home-facebook-la-you-like-this">
         <location filename="FacebookLikeable.qml" line="96"></location>
@@ -39,7 +39,7 @@
     <message id="gallery-fb-la-one-friend-likes-this">
         <location filename="FacebookLikeable.qml" line="99"></location>
         <source>%1 likes this</source>
-        <translation>1% معجب بهذا</translation>
+        <translation>أعجب 1% بهذا</translation>
     </message>
     <message id="lipstick-jolla-home-facebook-la-you-and-another-friend-likes-this">
         <location filename="FacebookLikeable.qml" line="104"></location>
