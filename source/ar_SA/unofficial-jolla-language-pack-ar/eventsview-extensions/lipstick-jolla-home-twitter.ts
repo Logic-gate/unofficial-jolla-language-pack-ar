@@ -18,7 +18,7 @@
         <location filename="TwitterFeedItem.qml" line="55"></location>
         <source>%1 retweeted</source>
         <extracomment>Shown above a tweet that is a retweet of somebody else's tweet. %1 = name of user who is retweeting</extracomment>
-        <translation>قام 1% بإعادة التغريد</translation>
+        <translation>قام %1 بإعادة التغريد</translation>
     </message>
 </context>
 </TS>

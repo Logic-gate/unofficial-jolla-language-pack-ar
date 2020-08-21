@@ -6,7 +6,7 @@
 
 Name: unofficial-jolla-language-pack-%{RPM_SUFFIX}
 Version:	1.1.0
-Release:	1.3.0
+Release:	1.3.1
 Summary:	Unofficial community Arabic translation for Jolla
 
 Group: Qt/Qt
@@ -20,6 +20,10 @@ Packager: mad_dev
 %include rpm/%{CONFLANG}/common.inc
 
 %changelog
+* Fri Aug 21 2020 mad_dev 1.1.0 1.3.1
+- Fixes in eventsview-extensions
+- translated sailfish-components-filemanager	
+- translated sailfish-components-gallery-qt5
 * Thu Aug 13 2020 mad_dev 1.1.0 1.3.0
 - Hamza wassal/qat'a fix - glottal stop
 - Util

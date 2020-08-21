@@ -40,3 +40,4 @@ u/usr/share/jolla-calendar/pages/EventEditPage.qml:146
 /usr/lib/qt5/qml/com/jolla/settings/SettingsListView.qml:7
 /usr/lib/qt5/qml/com/jolla/settings/SettingsPageLink.qml:16
 /usr/share/jolla-settings/pages/browser/browser.qml:69
+/usr/lib/qt5/qml/Sailfish/Gallery/ImageDetailsItem.qml:4

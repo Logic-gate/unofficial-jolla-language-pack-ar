@@ -3052,7 +3052,7 @@
     <message id="settings_users-me-delete">
         <location filename="../users/UserItem.qml" line="94"></location>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">حذف</translation>
     </message>
     <message id="settings_users-la-you">
         <location filename="../users/UserItem.qml" line="154"></location>
