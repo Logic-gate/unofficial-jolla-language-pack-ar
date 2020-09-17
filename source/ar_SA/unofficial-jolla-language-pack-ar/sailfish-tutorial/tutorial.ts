@@ -257,7 +257,7 @@
         <source>School pickup</source>
         <extracomment>Example alarm title</extracomment>
         <translation>المدرسة</translation>
-    <translatorcomment>removed pickup.</translatorcomment></message>
+    </message>
     <message id="tutorial-alarm_model_lunch">
         <location filename="../plugin/PulleyLesson.qml" line="543"></location>
         <source>Lunch</source>

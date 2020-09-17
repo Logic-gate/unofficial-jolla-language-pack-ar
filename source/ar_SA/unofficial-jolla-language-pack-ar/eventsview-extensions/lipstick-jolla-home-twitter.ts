@@ -12,7 +12,7 @@
     <message id="lipstick-jolla-home-la-show-more-in-twitter">
         <location filename="twitter-delegate.qml" line="58"></location>
         <source>Show more in Twitter</source>
-        <translation>شاهد المزيد في تويتر</translation>
+        <translation>أظهر المزيد في تويتر</translation>
     </message>
     <message id="lipstick-jolla-home-la-retweeted_by">
         <location filename="TwitterFeedItem.qml" line="55"></location>

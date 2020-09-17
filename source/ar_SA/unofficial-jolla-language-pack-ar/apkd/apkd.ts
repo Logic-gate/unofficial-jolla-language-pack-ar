@@ -18,7 +18,7 @@
         <location filename="../settings/application/apkConfigurationPage.qml" line="94"></location>
         <source>Version %1</source>
         <translation>الإصدار 1%</translation>
-    <translatorcomment>Check later during testing... .https://github.com/Logic-gate/unofficial-jolla-language-pack-ar/issues/49</translatorcomment></message>
+    </message>
     <message id="apkd_settings-la-allow_background_service_start">
         <location filename="../settings/application/apkConfigurationPage.qml" line="107"></location>
         <source>Allow application background services to start on bootup</source>
@@ -53,7 +53,7 @@
         <location filename="../settings/application/apkConfigurationPage.qml" line="135"></location>
         <source>Cache:</source>
         <translation>ذاكرة التخزين المؤقت Cache</translation>
-    <translatorcomment>cache refers to storage that houses data for future use...it needs to a known word, if not then let's just use cache in arabic</translatorcomment></message>
+    </message>
     <message id="apkd_settings-la-package_actions">
         <location filename="../settings/application/apkConfigurationPage.qml" line="139"></location>
         <source>Actions</source>

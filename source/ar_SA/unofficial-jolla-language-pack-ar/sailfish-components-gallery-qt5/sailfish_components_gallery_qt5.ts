@@ -52,7 +52,7 @@
         <location filename="DetailsPage.qml" line="50"></location>
         <source>Manual</source>
         <translation>يدوي</translation>
-    <translatorcomment>قد تكون كتيب, يعتمد على السياق</translatorcomment></message>
+    </message>
     <message id="components_gallery-value-white-balance-auto">
         <location filename="DetailsPage.qml" line="53"></location>
         <source>Auto</source>

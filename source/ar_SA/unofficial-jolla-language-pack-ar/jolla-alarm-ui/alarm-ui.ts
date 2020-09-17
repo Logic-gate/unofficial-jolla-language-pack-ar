@@ -17,7 +17,7 @@
     <message id="alarm-ui-me-alarm_dialog_showEvent">
         <location filename="../pages/CalendarAlarmDialog.qml" line="41"></location>
         <source>Show event</source>
-        <translation>مشاهدة الحدث</translation>
+        <translation>عرض الحدث</translation>
     </message>
     <message id="alarm-ui-la-now">
         <location filename="../pages/CalendarAlarmDialog.qml" line="104"></location>
@@ -101,17 +101,17 @@
     <message id="alarm-ui-me-alarm_dialog_call">
         <location filename="../pages/CallReminderAlarmDialog.qml" line="16"></location>
         <source>Call</source>
-        <translation>إتصل</translation>
+        <translation>اتصل</translation>
     </message>
     <message id="alarm-ui-alarm_dialog_call_back">
         <location filename="../pages/CallReminderAlarmDialog.qml" line="33"></location>
         <source>Call back</source>
-        <translation>إعادة الإتصال</translation>
+        <translation>إعادة الاتصال</translation>
     </message>
     <message id="alarm-ui-alarm_dialog_call_reminder">
         <location filename="../pages/CallReminderAlarmDialog.qml" line="58"></location>
         <source>Call reminder</source>
-        <translation>تذكير بالإتصال</translation>
+        <translation>تذكير بالاتصال</translation>
     </message>
     <message id="alarm-la-hours" numerus="yes">
         <location filename="../pages/TimerAlarmDialog.qml" line="35"></location>
@@ -150,13 +150,13 @@
         <location filename="../pages/TimerAlarmDialog.qml" line="48"></location>
         <source>%1 %2</source>
         <extracomment>Order of "2 hours 1 minute", when composed of strings "2 hours" and "1 minute"</extracomment>
-        <translation>1% 2%</translation>
+        <translation></translation>
     </message>
     <message id="alarm-la-minutes_and_seconds">
         <location filename="../pages/TimerAlarmDialog.qml" line="52"></location>
         <source>%1 %2</source>
         <extracomment>Order of "1 minute 12 seconds", when composed of strings "1 minute" and "12 seconds"</extracomment>
-        <translation>1% 2%</translation>
+        <translation></translation>
     </message>
     <message id="alarm-ui-la-missed_alarms">
         <location filename="../src/notificationmanager.cpp" line="167"></location>
@@ -167,7 +167,7 @@
         <location filename="../src/notificationmanager.cpp" line="170"></location>
         <location filename="../tests/tst_notificationmanager.cpp" line="124"></location>
         <source>Missed clock alarm</source>
-        <translation>تنبيه فائت من المنبه</translation>
+        <translation>تنبيه فائت من الساعة</translation>
     </message>
     <message id="alarm-ui-la-missed_calendar_alarms">
         <location filename="../src/notificationmanager.cpp" line="175"></location>

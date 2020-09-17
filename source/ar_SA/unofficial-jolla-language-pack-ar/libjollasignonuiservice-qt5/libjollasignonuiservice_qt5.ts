@@ -25,7 +25,7 @@
         <location filename="../lib/libjollasignonuiservice/entryview.qml" line="41"></location>
         <location filename="../lib/libjollasignonuiservice/inprocessentryview.qml" line="32"></location>
         <source>Enter Password</source>
-        <translation>أدخل كلمة المرور</translation>
+        <translation>ادخل كلمة المرور</translation>
     </message>
     <message id="signonui-bt-cancel">
         <location filename="../lib/libjollasignonuiservice/entryview.qml" line="50"></location>

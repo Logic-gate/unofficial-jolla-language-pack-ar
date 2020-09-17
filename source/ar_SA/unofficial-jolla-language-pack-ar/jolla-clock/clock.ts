@@ -204,7 +204,7 @@
         <numerusform>%0 أيام</numerusform>
         <numerusform>%0 يوماً</numerusform>
         <numerusform>%0 يوماً</numerusform>
-        </translation><translatorcomment>recheck later after testing</translatorcomment></message>
+        </translation></message>
     <message id="clock-la-hours" numerus="yes">
         <location filename="pages/MainPage.qml" line="46"></location>
         <source>%0 hour(s)</source>

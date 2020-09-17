@@ -230,7 +230,7 @@
         <location filename="pages/components/ToolBar.qml" line="287"></location>
         <source>Type URL or search</source>
         <extracomment>Placeholder text for url typing and searching</extracomment>
-        <translation>ابحث أو أدخل العنوان</translation>
+        <translation>ابحث أو ادخل العنوان</translation>
     </message>
     <message id="sailfish_browser-la-press_enter_to_search">
         <location filename="pages/components/Overlay.qml" line="409"></location>

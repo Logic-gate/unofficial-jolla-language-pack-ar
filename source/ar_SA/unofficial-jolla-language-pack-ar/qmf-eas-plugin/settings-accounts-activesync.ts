@@ -116,244 +116,244 @@
         <translation type="unfinished"></translation>
     </message>
     <message id="settings-accounts-la-details_email">
-        <location filename="../src/ui/SailfishEasCommon.qml" line="63"></location>
+        <location filename="../src/ui/SailfishEasCommon.qml" line="57"></location>
         <source>Email details</source>
         <translation type="unfinished"></translation>
     </message>
     <message id="settings-accounts-la-include_email_signature">
-        <location filename="../src/ui/SailfishEasCommon.qml" line="71"></location>
+        <location filename="../src/ui/SailfishEasCommon.qml" line="65"></location>
         <source>Include signature</source>
         <extracomment>Include signature in emails</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message id="settings-accounts-ph-email_signature">
-        <location filename="../src/ui/SailfishEasCommon.qml" line="80"></location>
+        <location filename="../src/ui/SailfishEasCommon.qml" line="74"></location>
         <source>Write signature here</source>
         <extracomment>Placeholder text for signature text area</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message id="settings_email-la-email_default_signature">
-        <location filename="../src/ui/SailfishEasCommon.qml" line="90"></location>
+        <location filename="../src/ui/SailfishEasCommon.qml" line="84"></location>
         <source>Sent from my %1 device</source>
         <extracomment>Default signature. %1 is an operating system name without the OS suffix</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message id="settings-accounts-la-oof_header">
-        <location filename="../src/ui/SailfishEasCommon.qml" line="101"></location>
+        <location filename="../src/ui/SailfishEasCommon.qml" line="95"></location>
         <source>Automatic replies</source>
         <translation type="unfinished"></translation>
     </message>
     <message id="components_accounts_la-oof_description">
-        <location filename="../src/ui/SailfishEasCommon.qml" line="107"></location>
+        <location filename="../src/ui/SailfishEasCommon.qml" line="101"></location>
         <source>Use automatic replies to notify others that you are out of the office, on vacation, or otherwise not available to respond on email.</source>
         <translation type="unfinished"></translation>
     </message>
     <message id="components_accounts-la-error-synchronizing_to_server">
-        <location filename="../src/ui/SailfishEasCommon.qml" line="136"></location>
+        <location filename="../src/ui/SailfishEasCommon.qml" line="130"></location>
         <source>Error synchronizing state to server</source>
         <translation type="unfinished"></translation>
     </message>
     <message id="components_accounts_la-oof_synchronizing">
-        <location filename="../src/ui/SailfishEasCommon.qml" line="138"></location>
+        <location filename="../src/ui/SailfishEasCommon.qml" line="132"></location>
         <source>Synchronizing...</source>
         <translation type="unfinished"></translation>
     </message>
     <message id="components_accounts-bt-oof_edit_settings">
-        <location filename="../src/ui/SailfishEasCommon.qml" line="156"></location>
+        <location filename="../src/ui/SailfishEasCommon.qml" line="150"></location>
         <source>Modify</source>
         <translation type="unfinished"></translation>
     </message>
     <message id="settings-accounts-la-sync_options">
-        <location filename="../src/ui/SailfishEasCommon.qml" line="168"></location>
+        <location filename="../src/ui/SailfishEasCommon.qml" line="162"></location>
         <source>Sync</source>
         <extracomment>Options for data to be synced with a remote server</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message id="components_accounts-la-activesync_calendar">
-        <location filename="../src/ui/SailfishEasCommon.qml" line="176"></location>
+        <location filename="../src/ui/SailfishEasCommon.qml" line="170"></location>
         <source>Calendar</source>
         <extracomment>Enables calendar sync</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message id="components_accounts-la-activesync_contacts">
-        <location filename="../src/ui/SailfishEasCommon.qml" line="184"></location>
+        <location filename="../src/ui/SailfishEasCommon.qml" line="178"></location>
         <source>Contacts</source>
         <extracomment>Enables contacts sync</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message id="settings-accounts-la-sync">
-        <location filename="../src/ui/SailfishEasCommon.qml" line="192"></location>
+        <location filename="../src/ui/SailfishEasCommon.qml" line="186"></location>
         <source>Sync</source>
         <translation type="unfinished"></translation>
     </message>
     <message id="settings-accounts-me-to_device_only">
-        <location filename="../src/ui/SailfishEasCommon.qml" line="199"></location>
+        <location filename="../src/ui/SailfishEasCommon.qml" line="193"></location>
         <source>To device only</source>
         <extracomment>Sync data to the device only, do not upload any data</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message id="settings-accounts-me-two_way_sync">
-        <location filename="../src/ui/SailfishEasCommon.qml" line="209"></location>
+        <location filename="../src/ui/SailfishEasCommon.qml" line="203"></location>
         <source>2-ways</source>
         <extracomment>Two-way sync. Data will downloaded as well as uploaded.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message id="components_accounts-la-activesync_mail">
-        <location filename="../src/ui/SailfishEasCommon.qml" line="224"></location>
+        <location filename="../src/ui/SailfishEasCommon.qml" line="218"></location>
         <source>Email</source>
         <extracomment>Enables email sync</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message id="scomponents_accounts-la-activesync-sync_schedule">
-        <location filename="../src/ui/SailfishEasCommon.qml" line="230"></location>
+        <location filename="../src/ui/SailfishEasCommon.qml" line="224"></location>
         <source>Sync schedule</source>
         <extracomment>Click to show options on how often sync happens</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message id="components_accounts-activesync-la-content_sync">
-        <location filename="../src/ui/SailfishEasCommon.qml" line="261"></location>
+        <location filename="../src/ui/SailfishEasCommon.qml" line="255"></location>
         <source>Content sync</source>
         <extracomment>Options for general content sync</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message id="components_accounts-la-activesync_sync-old-emails">
-        <location filename="../src/ui/SailfishEasCommon.qml" line="268"></location>
+        <location filename="../src/ui/SailfishEasCommon.qml" line="262"></location>
         <source>Sync old emails</source>
         <extracomment>Sync interval for old emails</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message id="components_accounts-me-activesync_sync-1-day">
-        <location filename="../src/ui/SailfishEasCommon.qml" line="278"></location>
+        <location filename="../src/ui/SailfishEasCommon.qml" line="272"></location>
         <source>1 day</source>
         <extracomment>1 day interval</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message id="components_accounts-me-activesync_sync-3-day">
-        <location filename="../src/ui/SailfishEasCommon.qml" line="283"></location>
+        <location filename="../src/ui/SailfishEasCommon.qml" line="277"></location>
         <source>3 days</source>
         <extracomment>3 days interval</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message id="components_accounts-me-activesync_sync-1-week">
-        <location filename="../src/ui/SailfishEasCommon.qml" line="288"></location>
+        <location filename="../src/ui/SailfishEasCommon.qml" line="282"></location>
         <source>1 week</source>
         <extracomment>1 week interval</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message id="components_accounts-me-activesync_sync-2-weeks">
-        <location filename="../src/ui/SailfishEasCommon.qml" line="293"></location>
-        <location filename="../src/ui/SailfishEasCommon.qml" line="315"></location>
+        <location filename="../src/ui/SailfishEasCommon.qml" line="287"></location>
+        <location filename="../src/ui/SailfishEasCommon.qml" line="309"></location>
         <source>2 weeks</source>
         <extracomment>2 weeks interval</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message id="components_accounts-me-activesync_sync-1-month">
-        <location filename="../src/ui/SailfishEasCommon.qml" line="298"></location>
-        <location filename="../src/ui/SailfishEasCommon.qml" line="318"></location>
+        <location filename="../src/ui/SailfishEasCommon.qml" line="292"></location>
+        <location filename="../src/ui/SailfishEasCommon.qml" line="312"></location>
         <source>1 month</source>
         <extracomment>1 month interval</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message id="components_accounts-la-activesync_sync-old-events">
-        <location filename="../src/ui/SailfishEasCommon.qml" line="307"></location>
+        <location filename="../src/ui/SailfishEasCommon.qml" line="301"></location>
         <source>Sync old events</source>
         <extracomment>Sync interval for old events</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message id="components_accounts-me-activesync_sync-3-months">
-        <location filename="../src/ui/SailfishEasCommon.qml" line="323"></location>
+        <location filename="../src/ui/SailfishEasCommon.qml" line="317"></location>
         <source>3 months</source>
         <extracomment>3 months interval</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message id="components_accounts-me-activesync_sync-6-months">
-        <location filename="../src/ui/SailfishEasCommon.qml" line="328"></location>
+        <location filename="../src/ui/SailfishEasCommon.qml" line="322"></location>
         <source>6 months</source>
         <extracomment>6 months interval</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message id="components_accounts-me-activesync_sync-all-events">
-        <location filename="../src/ui/SailfishEasCommon.qml" line="333"></location>
+        <location filename="../src/ui/SailfishEasCommon.qml" line="327"></location>
         <source>All events</source>
         <extracomment>All events</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message id="components_accounts-activesync-la-advanced_settings">
-        <location filename="../src/ui/SailfishEasCommon.qml" line="359"></location>
+        <location filename="../src/ui/SailfishEasCommon.qml" line="353"></location>
         <source>Advanced settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message id="components_accounts-la-activesync_sync-resolve_conflicts">
-        <location filename="../src/ui/SailfishEasCommon.qml" line="366"></location>
+        <location filename="../src/ui/SailfishEasCommon.qml" line="360"></location>
         <source>Resolve conflicts</source>
         <extracomment>Rules for solving sync conflicts</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message id="components_accounts-me-activesync_sync-conflicts-server">
-        <location filename="../src/ui/SailfishEasCommon.qml" line="375"></location>
+        <location filename="../src/ui/SailfishEasCommon.qml" line="369"></location>
         <source>Priority to server</source>
         <translation type="unfinished"></translation>
     </message>
     <message id="components_accounts-me-activesync_sync-conflicts-device">
-        <location filename="../src/ui/SailfishEasCommon.qml" line="379"></location>
+        <location filename="../src/ui/SailfishEasCommon.qml" line="373"></location>
         <source>Priority to device</source>
         <translation type="unfinished"></translation>
     </message>
     <message id="components_accounts-la-activesync_provisioning">
-        <location filename="../src/ui/SailfishEasCommon.qml" line="389"></location>
+        <location filename="../src/ui/SailfishEasCommon.qml" line="383"></location>
         <source>Provisioning</source>
         <extracomment>Inform the server that device can insure requested provision settings (device lock, ...)</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message id="components_accounts-la-activesync_provisioning_description">
-        <location filename="../src/ui/SailfishEasCommon.qml" line="392"></location>
+        <location filename="../src/ui/SailfishEasCommon.qml" line="386"></location>
         <source>When enabled, the device and server will exchange information to confirm if the device meets the server requirements.</source>
         <extracomment>Description informing the user about provisioning</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message id="components_accounts-me-activesync_peak-always-uptodate">
-        <location filename="../src/ui/SailfishEasCommon.qml" line="405"></location>
+        <location filename="../src/ui/SailfishEasCommon.qml" line="399"></location>
         <source>Always up-to-date</source>
         <translation type="unfinished"></translation>
     </message>
     <message id="components_accounts-me-activesync_peak-every-15-minutes">
-        <location filename="../src/ui/SailfishEasCommon.qml" line="410"></location>
+        <location filename="../src/ui/SailfishEasCommon.qml" line="404"></location>
         <source>Every 15 minutes</source>
         <extracomment>15 minutes interval</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message id="components_accounts-me-activesync_peak-every-30-minutes">
-        <location filename="../src/ui/SailfishEasCommon.qml" line="415"></location>
+        <location filename="../src/ui/SailfishEasCommon.qml" line="409"></location>
         <source>Every 30 minutes</source>
         <extracomment>30 minutes interval</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message id="components_accounts-me-activesync_peak-every-hour">
-        <location filename="../src/ui/SailfishEasCommon.qml" line="420"></location>
+        <location filename="../src/ui/SailfishEasCommon.qml" line="414"></location>
         <source>Every hour</source>
         <extracomment>1 hour interval</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message id="components_accounts-me-activesync_peak-every-2-hours">
-        <location filename="../src/ui/SailfishEasCommon.qml" line="425"></location>
+        <location filename="../src/ui/SailfishEasCommon.qml" line="419"></location>
         <source>Every 2 hours</source>
         <extracomment>2 hours interval</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message id="components_accounts-me-activesync_peak-twice-a-day">
-        <location filename="../src/ui/SailfishEasCommon.qml" line="430"></location>
+        <location filename="../src/ui/SailfishEasCommon.qml" line="424"></location>
         <source>Twice a day</source>
         <extracomment>12 hours interval</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message id="components_accounts-me-activesync_peak-once-a-day">
-        <location filename="../src/ui/SailfishEasCommon.qml" line="435"></location>
+        <location filename="../src/ui/SailfishEasCommon.qml" line="429"></location>
         <source>Once a day</source>
         <extracomment>24 hours interval</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message id="components_accounts-me-activesync_peak-manually">
-        <location filename="../src/ui/SailfishEasCommon.qml" line="440"></location>
+        <location filename="../src/ui/SailfishEasCommon.qml" line="434"></location>
         <source>Manually</source>
         <extracomment>Only manual sync</extracomment>
         <translation type="unfinished"></translation>

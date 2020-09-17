@@ -258,7 +258,7 @@
         <location filename="TimeRangeSelector.qml" line="75"></location>
         <source>%1.%2</source>
         <extracomment>Pattern for date and month, %1 is day, %2 is month</extracomment>
-        <translation></translation>
-    <translatorcomment>Leave empty</translatorcomment></message>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 </TS>

@@ -7,15 +7,15 @@
         <location filename="../qml/calling/CallEndedDialog.qml" line="165"></location>
         <location filename="../qml/main.qml" line="142"></location>
         <location filename="../qml/VoiceCallManager.qml" line="30"></location>
-        <location filename="../qml/VoiceCallManager.qml" line="690"></location>
+        <location filename="../qml/VoiceCallManager.qml" line="692"></location>
         <source>Call ended</source>
-        <translation type="unfinished"></translation>
+        <translation>انتهت المكالمة</translation>
     </message>
     <message id="voicecall-bt-send_message">
         <location filename="../qml/calling/CallEndedDialog.qml" line="184"></location>
         <source>Send message</source>
         <translation>إرسال الرسالة</translation>
-    <translatorcomment>شكراً, و لكن من الأفضل أن تكون الهمزة القطعية مكتوبة</translatorcomment></message>
+    </message>
     <message id="voicecall-bt-remove_reminder">
         <location filename="../qml/calling/CallEndedDialog.qml" line="209"></location>
         <source>Remove reminder</source>
@@ -29,17 +29,17 @@
     <message id="voicecall-bt-call_again">
         <location filename="../qml/calling/CallEndedDialog.qml" line="233"></location>
         <source>Call again</source>
-        <translation>إتصل مرة اخرى</translation>
+        <translation>اتصل مرة اخرى</translation>
     </message>
     <message id="voicecall-la-call_holding">
         <location filename="../qml/calling/CallingView.qml" line="213"></location>
         <source>Holding</source>
-        <translation type="unfinished"></translation>
+        <translation>انتظر</translation>
     </message>
     <message id="voicecall-la-call_ending">
         <location filename="../qml/calling/CallingView.qml" line="215"></location>
         <source>Ending call</source>
-        <translation>إنهاء المكالمة...</translation>
+        <translation>جاري إنهاء المكالمة...</translation>
     </message>
     <message id="voicecall-he-call_prompt-call_requested">
         <location filename="../qml/calling/CallPromptDialog.qml" line="16"></location>
@@ -59,17 +59,17 @@
     <message id="voicecall-la-call_prompt-call_now">
         <location filename="../qml/calling/CallPromptDialog.qml" line="81"></location>
         <source>Call now</source>
-        <translation>إتصل الأن</translation>
+        <translation>اتصل الأن</translation>
     </message>
     <message id="voicecall-he-calling_unavailable">
         <location filename="../qml/calling/CellularErrorDialog.qml" line="12"></location>
         <source>Calling is unavailable</source>
-        <translation>الإتصال غير متاح</translation>
+        <translation>الاتصال غير متاح</translation>
     </message>
     <message id="voicecall-la-reboot_required">
         <location filename="../qml/calling/CellularErrorDialog.qml" line="24"></location>
         <source>Reboot is required to recover calling, mobile data, and messaging</source>
-        <translation>يلزم إعادة التشغيل لإستعادة الإتصال و بيانات الجوال و الرسائل</translation>
+        <translation>يلزم إعادة التشغيل لإستعادة الاتصال و بيانات الجوال و الرسائل</translation>
     </message>
     <message id="voicecall-la-reboot">
         <location filename="../qml/calling/CellularErrorDialog.qml" line="30"></location>
@@ -79,17 +79,17 @@
     <message id="voicecall-la-warnings">
         <location filename="../qml/calling/CellularErrorDialog.qml" line="37"></location>
         <source>Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>تحذيرات</translation>
     </message>
     <message id="voicecall-he-conference_call">
         <location filename="../qml/calling/ConferenceManager.qml" line="26"></location>
         <source>Conference call</source>
-        <translation type="unfinished"></translation>
+        <translation>مكالمة مؤتمرية</translation>
     </message>
     <message id="voicecall-me-end_call">
         <location filename="../qml/calling/ConferenceManager.qml" line="51"></location>
         <source>End call</source>
-        <translation type="unfinished"></translation>
+        <translation>إنهاء المكالمة</translation>
     </message>
     <message id="voicecall-me-split_call">
         <location filename="../qml/calling/ConferenceManager.qml" line="56"></location>
@@ -101,42 +101,42 @@
         <location filename="../qml/calling/InCallView.qml" line="84"></location>
         <location filename="../qml/calling/InCallView.qml" line="556"></location>
         <source>End call</source>
-        <translation type="unfinished"></translation>
+        <translation>إنهاء المكالمة</translation>
     </message>
     <message id="voicecall-bt-cancel">
         <location filename="../qml/calling/InCallView.qml" line="82"></location>
         <location filename="../qml/calling/InCallView.qml" line="551"></location>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>رفض</translation>
     </message>
     <message id="voicecall-la-mute">
         <location filename="../qml/calling/InCallView.qml" line="87"></location>
         <source>Mute</source>
-        <translation type="unfinished"></translation>
+        <translation>كتم</translation>
     </message>
     <message id="voicecall-la-speaker">
         <location filename="../qml/calling/InCallView.qml" line="89"></location>
         <source>Speaker</source>
-        <translation type="unfinished"></translation>
+        <translation>المكبر</translation>
     </message>
     <message id="voicecall-la-held_state">
         <location filename="../qml/calling/InCallView.qml" line="92"></location>
         <location filename="../qml/calling/InCallView.qml" line="300"></location>
         <location filename="../qml/cover/InCallCover.qml" line="50"></location>
         <source>On hold</source>
-        <translation type="unfinished"></translation>
+        <translation>انتظار</translation>
     </message>
     <message id="voicecall-la-dialing_state">
         <location filename="../qml/calling/InCallView.qml" line="94"></location>
         <location filename="../qml/calling/InCallView.qml" line="302"></location>
         <source>Dialing</source>
-        <translation type="unfinished"></translation>
+        <translation>جاري الاتصال...</translation>
     </message>
     <message id="voicecall-la-alerting_state">
         <location filename="../qml/calling/InCallView.qml" line="96"></location>
         <location filename="../qml/calling/InCallView.qml" line="304"></location>
         <source>Alerting</source>
-        <translation type="unfinished"></translation>
+        <translation>يرن...</translation>
     </message>
     <message id="voicecall-la-incoming_state">
         <location filename="../qml/calling/InCallView.qml" line="98"></location>
@@ -462,8 +462,8 @@
         <location filename="../qml/pages/DialerView.qml" line="200"></location>
         <location filename="../qml/pages/PeopleView.qml" line="179"></location>
         <source>Send message</source>
-        <translation type="unfinished"></translation>
-    </message>
+        <translation>إرسال الرسالة</translation>
+    <translatorcomment>شكراً, و لكن من الأفضل أن تكون الهمزة القطعية مكتوبة</translatorcomment></message>
     <message id="voicecall-me-open_contact_card">
         <location filename="../qml/pages/CallHistoryView.qml" line="238"></location>
         <location filename="../tests/auto/tst_history.qml" line="227"></location>
@@ -495,13 +495,13 @@
         <location filename="../qml/pages/CallHistoryView.qml" line="300"></location>
         <source>Remove reminder</source>
         <extracomment>Remove a call reminder from a recent call entry.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>إزالة التذكير</translation>
     </message>
     <message id="voicecall-me-remove_reminder_with_time">
         <location filename="../qml/pages/CallHistoryView.qml" line="303"></location>
         <source>Remove reminder (%1)</source>
         <extracomment>Remove a call reminder from a recent call entry. %1 = the reminder alert time</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>إزالة التذكير (%1)</translation>
     </message>
     <message id="voicecall-me-clear_contact_history">
         <location filename="../qml/pages/CallHistoryView.qml" line="307"></location>

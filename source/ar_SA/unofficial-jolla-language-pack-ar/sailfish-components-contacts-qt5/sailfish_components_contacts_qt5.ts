@@ -519,7 +519,7 @@
         <source>contact</source>
         <extracomment>Placeholder name for contact vcard filename</extracomment>
         <translation>Contact</translation>
-    <translatorcomment>This is a filename. Keep as is</translatorcomment></message>
+    </message>
     <message id="components_contacts-la-deleted_contact">
         <location filename="ContactCardPullDownMenu.qml" line="47"></location>
         <source>Deleted contact</source>
@@ -801,7 +801,7 @@
         <source>No accounts available with presence functionality</source>
         <extracomment>Displayed when there are no presence accounts</extracomment>
         <translation>لا توجد حسابات متاحة بوظيفة التواجد</translation>
-    <translatorcomment>Change later</translatorcomment></message>
+    </message>
     <message id="components_contacts-la-no_presence_hint">
         <location filename="PresenceDetailsPage.qml" line="101"></location>
         <source>You can add or modify accounts in Settings | Accounts</source>

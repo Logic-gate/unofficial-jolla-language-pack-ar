@@ -137,7 +137,7 @@
         <location filename="../components/src/declarativeformatter.cpp" line="54"></location>
         <source>%1 %3</source>
         <extracomment>Format date - %1: day number, %2: month number, %3: month short name</extracomment>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message id="sailfishsilica-weekday_monday_standalone">
         <location filename="../components/src/declarativeformatter.cpp" line="71"></location>
@@ -679,39 +679,36 @@
     <message id="sailfishsilica-bytes" numerus="yes">
         <location filename="../components/src/declarativeformatter.cpp" line="662"></location>
         <source>%n B</source>
-        <translation><numerusform></numerusform>
-        <numerusform></numerusform>
-        <numerusform></numerusform>
-        <numerusform></numerusform>
-        <numerusform></numerusform>
-        <numerusform></numerusform>
-        </translation></message>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+        </translation>
+    </message>
     <message id="sailfishsilica-kilobytes">
         <location filename="../components/src/declarativeformatter.cpp" line="668"></location>
         <source>%1 kB</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message id="sailfishsilica-megabytes">
         <location filename="../components/src/declarativeformatter.cpp" line="674"></location>
         <source>%1 MB</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message id="sailfishsilica-gigabytes">
         <location filename="../components/src/declarativeformatter.cpp" line="680"></location>
         <source>%1 GB</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message id="sailfishsilica-terabytes">
         <location filename="../components/src/declarativeformatter.cpp" line="684"></location>
         <source>%1 TB</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message id="sailfishsilica-formatTimepoint">
         <location filename="../components/src/declarativeformatter.cpp" line="732"></location>
         <location filename="../components/src/declarativeformatter.cpp" line="809"></location>
         <source>%1, %2</source>
         <extracomment>Format timepoint - %1: short time, %2: short date</extracomment>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message id="sailfishsilica-time_format_short_12h">
         <location filename="../components/src/declarativeformatter.cpp" line="826"></location>

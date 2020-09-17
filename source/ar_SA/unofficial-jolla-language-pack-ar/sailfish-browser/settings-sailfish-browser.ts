@@ -18,7 +18,7 @@
         <location filename="browser.qml" line="58"></location>
         <source>Type home page</source>
         <extracomment>No home page, type home page</extracomment>
-        <translation>أدخل الصفحة الرئيسية</translation>
+        <translation>ادخل الصفحة الرئيسية</translation>
     </message>
     <message id="settings_browser-la-search_engine">
         <location filename="browser.qml" line="74"></location>

@@ -32,16 +32,7 @@
         <numerusform>%n رسائل جديدة</numerusform>
         <numerusform>%n رسالة جديدة</numerusform>
         <numerusform>%n رسالة جديدة</numerusform>
-        </translation><translatorcomment>n=2 should not have a variable. It sounds strange, but saying 2 of anything(dual) in arabic does not require mentioning the number. &#13;
-&#13;
-Example: 2 messages is Resaltan&#13;
- -- رسالتان -  nominative case, &#13;
-&#13;
-not 2 Resalah&#13;
-&#13;
-2 رسالة&#13;
-&#13;
-Hence, n=2 is wrong.</translatorcomment></message>
+        </translation></message>
     <message id="qtn_msg_contact_card_label">
         <location filename="../src/locstrings.h" line="61"></location>
         <source>Contact card</source>

@@ -90,7 +90,7 @@
         <location filename="../pages/MessagePartsPage.qml" line="54"></location>
         <source>%1 %2</source>
         <extracomment>This string is used to decide what order the date and time should appear together. First argument is the date, second is the time.</extracomment>
-        <translation>1% 2%</translation>
+        <translation></translation>
     </message>
     <message id="messages-mms_manual_download_prompt">
         <location filename="../pages/conversation/SMSMessageDelegate.qml" line="610"></location>

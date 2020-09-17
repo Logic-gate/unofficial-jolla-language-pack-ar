@@ -291,7 +291,7 @@ Artist all songs search field placeholder text</extracomment>
         <location filename="../plugins/jolla/qml/ArtistsPage.qml" line="31"></location>
         <source>%1, %2</source>
         <extracomment>the duration shown below the artist name in the artists page, %1 is hour string ("N hours"), %2 is minute string</extracomment>
-        <translation>1% 2%</translation>
+        <translation></translation>
     </message>
     <message id="mediaplayer-he-artists">
         <location filename="../plugins/jolla/qml/ArtistsPage.qml" line="97"></location>

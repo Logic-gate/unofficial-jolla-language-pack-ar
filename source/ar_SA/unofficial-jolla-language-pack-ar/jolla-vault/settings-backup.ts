@@ -87,130 +87,135 @@
         <extracomment>The account type and account name, e.g.: "Dropbox (username)"</extracomment>
         <translation type="unfinished"></translation>
     </message>
-    <message id="vault-la-back_up_data_to">
-        <location filename="../plugin/BackupRestoreStoragePicker.qml" line="168"></location>
-        <source>Back up data to</source>
+    <message id="vault-la-manually_back_up_to">
+        <location filename="../plugin/BackupRestoreStoragePicker.qml" line="129"></location>
+        <source>Manually back up to</source>
         <extracomment>Displayed before the list of items allowing the user to choose where data will be backed up to</extracomment>
         <translation type="unfinished"></translation>
     </message>
-    <message id="vault-la-cloud_backup_description">
-        <location filename="../plugin/BackupRestoreStoragePicker.qml" line="221"></location>
-        <source>The following data will be backed up: %1. Note that Gallery images and videos are not included.</source>
-        <extracomment>Describes the data that will be backed up to cloud storage</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message id="vault-la-local_backup_description">
-        <location filename="../plugin/BackupRestoreStoragePicker.qml" line="225"></location>
-        <source>The following data will be backed up: %1</source>
-        <extracomment>Describes the data that will be backed up to local storage</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
     <message id="vault-la-back_up">
-        <location filename="../plugin/BackupSettingsItem.qml" line="122"></location>
+        <location filename="../plugin/BackupSettingsItem.qml" line="155"></location>
         <source>Back up</source>
         <extracomment>Setting for changing the frequency of scheduled backups</extracomment>
         <translation type="unfinished"></translation>
     </message>
-    <message id="vault-me-manually">
-        <location filename="../plugin/BackupSettingsItem.qml" line="128"></location>
-        <source>Manually</source>
-        <extracomment>Backups will be done manually</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
     <message id="vault-me-daily">
-        <location filename="../plugin/BackupSettingsItem.qml" line="138"></location>
+        <location filename="../plugin/BackupSettingsItem.qml" line="162"></location>
         <source>Daily</source>
         <extracomment>Backups will be done daily</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message id="vault-me-weekly">
-        <location filename="../plugin/BackupSettingsItem.qml" line="145"></location>
+        <location filename="../plugin/BackupSettingsItem.qml" line="169"></location>
         <source>Weekly</source>
         <extracomment>Backups will be done weekly</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message id="vault-me-monthly">
-        <location filename="../plugin/BackupSettingsItem.qml" line="152"></location>
+        <location filename="../plugin/BackupSettingsItem.qml" line="176"></location>
         <source>Monthly</source>
         <extracomment>Backups will be done monthly</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message id="vault-la-day">
-        <location filename="../plugin/BackupSettingsItem.qml" line="168"></location>
+        <location filename="../plugin/BackupSettingsItem.qml" line="192"></location>
         <source>Day</source>
         <extracomment>Select day on which back up should be done</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message id="vault-me-one_month_after_last_backup">
-        <location filename="../plugin/BackupSettingsItem.qml" line="173"></location>
+        <location filename="../plugin/BackupSettingsItem.qml" line="197"></location>
         <source>One month after last backup</source>
         <extracomment>Select to schedule one month between backups</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message id="vault-me-first_day_of_month">
-        <location filename="../plugin/BackupSettingsItem.qml" line="180"></location>
+        <location filename="../plugin/BackupSettingsItem.qml" line="204"></location>
         <source>First day of month</source>
         <extracomment>Select to schedule backups on the first day of each month</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message id="vault-me-last_day_of_month">
-        <location filename="../plugin/BackupSettingsItem.qml" line="187"></location>
+        <location filename="../plugin/BackupSettingsItem.qml" line="211"></location>
         <source>Last day of month</source>
         <extracomment>Select to schedule backups on the last day of each month</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message id="vault-la-time">
-        <location filename="../plugin/BackupSettingsItem.qml" line="271"></location>
+        <location filename="../plugin/BackupSettingsItem.qml" line="296"></location>
         <source>Time</source>
         <extracomment>Select time at which backup should be done</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message id="vault-la-connection">
-        <location filename="../plugin/BackupSettingsItem.qml" line="294"></location>
+        <location filename="../plugin/BackupSettingsItem.qml" line="319"></location>
         <source>Connection</source>
         <extracomment>Setting for changing whether backups will be done over WLAN, mobile data connection etc.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message id="vault-me-wlan_only">
-        <location filename="../plugin/BackupSettingsItem.qml" line="300"></location>
+        <location filename="../plugin/BackupSettingsItem.qml" line="325"></location>
         <source>WLAN only</source>
         <extracomment>Backups will only be done over WLAN</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message id="vault-me-wlan_or_mobile_data">
-        <location filename="../plugin/BackupSettingsItem.qml" line="306"></location>
+        <location filename="../plugin/BackupSettingsItem.qml" line="331"></location>
         <source>WLAN or mobile data</source>
         <extracomment>Backups will only be done over either WLAN or mobile data connections, whichever is available</extracomment>
         <translation type="unfinished"></translation>
     </message>
+    <message id="vault-la-cloud_backup_description">
+        <location filename="../plugin/BackupUtils.qml" line="17"></location>
+        <source>The following data will be backed up: %1. Note that Gallery images and videos are not included.</source>
+        <extracomment>Describes the data that will be backed up to cloud storage</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="vault-la-local_backup_description">
+        <location filename="../plugin/BackupUtils.qml" line="23"></location>
+        <source>The following data will be backed up: %1</source>
+        <extracomment>Describes the data that will be backed up to local storage</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
     <message id="vault-la-add_cloud_account">
-        <location filename="../plugin/BackupUtils.qml" line="16"></location>
+        <location filename="../plugin/BackupUtils.qml" line="27"></location>
         <source>Add cloud account</source>
         <translation type="unfinished"></translation>
     </message>
     <message id="vault-la-cannot_connect_to_cloud_service">
-        <location filename="../plugin/BackupUtils.qml" line="19"></location>
+        <location filename="../plugin/BackupUtils.qml" line="30"></location>
         <source>Cannot connect to cloud service</source>
         <translation type="unfinished"></translation>
     </message>
     <message id="vault-la-create_backup_info">
-        <location filename="../plugin/BackupView.qml" line="50"></location>
+        <location filename="../plugin/BackupView.qml" line="54"></location>
         <source>Create a backup to protect your personal data. Use it later to restore your device just the way it was.</source>
         <translation type="unfinished"></translation>
     </message>
     <message id="vault-la-unable_to_connect_cloud_internet_connection_needed">
-        <location filename="../plugin/BackupView.qml" line="80"></location>
+        <location filename="../plugin/BackupView.qml" line="84"></location>
         <source>Unable to connect. An internet connection is needed to back up to cloud services.</source>
         <translation type="unfinished"></translation>
     </message>
     <message id="vault-bt-connect">
-        <location filename="../plugin/BackupView.qml" line="90"></location>
+        <location filename="../plugin/BackupView.qml" line="94"></location>
         <source>Connect</source>
         <extracomment>Connect to internet</extracomment>
         <translation type="unfinished"></translation>
     </message>
+    <message id="vault-la-manual_backup">
+        <location filename="../plugin/BackupView.qml" line="124"></location>
+        <source>Manual backup</source>
+        <extracomment>Section for manual backup</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="vault-la-back_up_now_to_a_cloud_account_or_memory_card">
+        <location filename="../plugin/BackupView.qml" line="135"></location>
+        <source>Back up now to a cloud account or memory card.</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message id="vault-bt-back_up_now">
-        <location filename="../plugin/BackupView.qml" line="129"></location>
+        <location filename="../plugin/BackupView.qml" line="154"></location>
         <source>Back up now</source>
         <extracomment>Start process of backing up data</extracomment>
         <translation type="unfinished"></translation>
@@ -233,12 +238,12 @@
         <translation type="unfinished"></translation>
     </message>
     <message id="vault-he-backup">
-        <location filename="../plugin/MainPage.qml" line="43"></location>
+        <location filename="../plugin/MainPage.qml" line="55"></location>
         <source>Backup</source>
         <translation type="unfinished"></translation>
     </message>
     <message id="vault-la-restore_device">
-        <location filename="../plugin/MainPage.qml" line="89"></location>
+        <location filename="../plugin/MainPage.qml" line="96"></location>
         <source>Restore device</source>
         <extracomment>Header for data restore section</extracomment>
         <translation type="unfinished"></translation>
@@ -276,6 +281,23 @@
         <location filename="../plugin/RestorePage.qml" line="85"></location>
         <source>Restore</source>
         <extracomment>Start process of restoring data from backup</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="vault-la-automatically_back_up_to">
+        <location filename="../plugin/ScheduledBackupStoragePicker.qml" line="26"></location>
+        <source>Automatically back up to</source>
+        <extracomment>Select an account for automatic backups</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="vault-la-none">
+        <location filename="../plugin/ScheduledBackupStoragePicker.qml" line="64"></location>
+        <source>None</source>
+        <extracomment>Indicates that user has not selected an account for automatic backup</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="vault-la-no_automatic_backups_scheduled">
+        <location filename="../plugin/ScheduledBackupStoragePicker.qml" line="103"></location>
+        <source>No automatic backups scheduled</source>
         <translation type="unfinished"></translation>
     </message>
     <message id="vault-ap-gallery">
@@ -334,114 +356,114 @@
         <translation type="unfinished"></translation>
     </message>
     <message id="sailfishbackup-la-idle">
-        <location filename="../sailfishbackup/sailfishbackup.cpp" line="250"></location>
+        <location filename="../sailfishbackup/sailfishbackup.cpp" line="253"></location>
         <source>Idle</source>
         <translation type="unfinished"></translation>
     </message>
     <message id="sailfishbackup-la-preparing">
-        <location filename="../sailfishbackup/sailfishbackup.cpp" line="254"></location>
+        <location filename="../sailfishbackup/sailfishbackup.cpp" line="257"></location>
         <source>Preparing</source>
         <extracomment>Currently preparing the backup or restore operation</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message id="sailfishbackup-la-backing_up_data_unit">
-        <location filename="../sailfishbackup/sailfishbackup.cpp" line="259"></location>
+        <location filename="../sailfishbackup/sailfishbackup.cpp" line="262"></location>
         <source>Backing up: %1</source>
         <extracomment>Currently backing up the data. %1 = name of data</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message id="sailfishbackup-la-restoring_data_unit">
-        <location filename="../sailfishbackup/sailfishbackup.cpp" line="263"></location>
+        <location filename="../sailfishbackup/sailfishbackup.cpp" line="266"></location>
         <source>Restoring: %1</source>
         <extracomment>Currently restoring the data. %1 = name of data</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message id="sailfishbackup-la-compressing_data">
-        <location filename="../sailfishbackup/sailfishbackup.cpp" line="271"></location>
+        <location filename="../sailfishbackup/sailfishbackup.cpp" line="274"></location>
         <source>Compressing data</source>
         <extracomment>Currently in the process of compressing the data to a backup file</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message id="sailfishbackup-la-extracting_data">
-        <location filename="../sailfishbackup/sailfishbackup.cpp" line="275"></location>
+        <location filename="../sailfishbackup/sailfishbackup.cpp" line="278"></location>
         <source>Extracting data</source>
         <extracomment>Currently in the process of extracting the data from a backup file</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message id="sailfishbackup-la-canceling">
-        <location filename="../sailfishbackup/sailfishbackup.cpp" line="278"></location>
+        <location filename="../sailfishbackup/sailfishbackup.cpp" line="281"></location>
         <source>Canceling</source>
         <translation type="unfinished"></translation>
     </message>
     <message id="sailfishbackup-la-uploading_backup">
-        <location filename="../sailfishbackup/sailfishbackup.cpp" line="284"></location>
+        <location filename="../sailfishbackup/sailfishbackup.cpp" line="287"></location>
         <source>Uploading backup</source>
         <extracomment>Currently uploading backup to a cloud service</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message id="sailfishbackup-la-downloading_backup">
-        <location filename="../sailfishbackup/sailfishbackup.cpp" line="288"></location>
+        <location filename="../sailfishbackup/sailfishbackup.cpp" line="291"></location>
         <source>Downloading backup</source>
         <extracomment>Currently downloading backup from a cloud service</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message id="sailfishbackup-la-finished">
-        <location filename="../sailfishbackup/sailfishbackup.cpp" line="293"></location>
+        <location filename="../sailfishbackup/sailfishbackup.cpp" line="296"></location>
         <source>Finished</source>
         <extracomment>Finished the data backup or restore process</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message id="sailfishbackup-la-canceled">
-        <location filename="../sailfishbackup/sailfishbackup.cpp" line="296"></location>
+        <location filename="../sailfishbackup/sailfishbackup.cpp" line="299"></location>
         <source>Canceled</source>
         <translation type="unfinished"></translation>
     </message>
     <message id="sailfishbackup-la-not_enough_disk_space">
-        <location filename="../sailfishbackup/sailfishbackup.cpp" line="301"></location>
+        <location filename="../sailfishbackup/sailfishbackup.cpp" line="304"></location>
         <source>Error: not enough disk space</source>
         <translation type="unfinished"></translation>
     </message>
     <message id="sailfishbackup-la-cannot_load_unit">
-        <location filename="../sailfishbackup/sailfishbackup.cpp" line="305"></location>
+        <location filename="../sailfishbackup/sailfishbackup.cpp" line="308"></location>
         <source>Error: cannot load %1</source>
         <extracomment>Shown when data backup/restore fails for a specific data set. %1 = name of data set, e.g. "Gallery", "Messages", "Browser"</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message id="sailfishbackup-la-file_processing_failed">
-        <location filename="../sailfishbackup/sailfishbackup.cpp" line="309"></location>
+        <location filename="../sailfishbackup/sailfishbackup.cpp" line="312"></location>
         <source>Error: file processing failed</source>
         <extracomment>Shown when data backup/restore fails for a specific data set. %1 = name of data set, e.g. "Gallery", "Messages", "Browser"</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message id="sailfishbackup-la-file_upload_failed">
-        <location filename="../sailfishbackup/sailfishbackup.cpp" line="314"></location>
+        <location filename="../sailfishbackup/sailfishbackup.cpp" line="317"></location>
         <source>Error: file upload failed</source>
         <translation type="unfinished"></translation>
     </message>
     <message id="sailfishbackup-la-file_download_failed">
-        <location filename="../sailfishbackup/sailfishbackup.cpp" line="317"></location>
+        <location filename="../sailfishbackup/sailfishbackup.cpp" line="320"></location>
         <source>Error: file download failed</source>
         <translation type="unfinished"></translation>
     </message>
     <message id="sailfishbackup-la-error">
-        <location filename="../sailfishbackup/sailfishbackup.cpp" line="320"></location>
-        <location filename="../sailfishbackup/sailfishbackup.cpp" line="1265"></location>
+        <location filename="../sailfishbackup/sailfishbackup.cpp" line="323"></location>
+        <location filename="../sailfishbackup/sailfishbackup.cpp" line="1360"></location>
         <source>Error</source>
         <translation type="unfinished"></translation>
     </message>
     <message id="sailfishbackup-la-backup">
-        <location filename="../sailfishbackup/sailfishbackup.cpp" line="1137"></location>
+        <location filename="../sailfishbackup/sailfishbackup.cpp" line="1232"></location>
         <source>Backup</source>
         <extracomment>Name of backup notification</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message id="sailfishbackup-la-backing_up_to_account">
-        <location filename="../sailfishbackup/sailfishbackup.cpp" line="1155"></location>
+        <location filename="../sailfishbackup/sailfishbackup.cpp" line="1250"></location>
         <source>Backing up to %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message id="sailfishbackup-la-backing_up_to_memory_card">
-        <location filename="../sailfishbackup/sailfishbackup.cpp" line="1159"></location>
+        <location filename="../sailfishbackup/sailfishbackup.cpp" line="1254"></location>
         <source>Backing up to memory card</source>
         <translation type="unfinished"></translation>
     </message>

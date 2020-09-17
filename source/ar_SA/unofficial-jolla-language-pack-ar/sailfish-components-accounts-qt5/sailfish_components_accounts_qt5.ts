@@ -252,62 +252,64 @@
         <translation type="unfinished"></translation>
     </message>
     <message id="sailfishaccounts-la-account_load_error">
-        <location filename="../lib/accountauthenticator.cpp" line="83"></location>
+        <location filename="../lib/accountauthenticator.cpp" line="99"></location>
         <source>Cannot load account for sign-in.</source>
         <translation type="unfinished"></translation>
     </message>
     <message id="sailfishaccounts-la-service_load_error">
-        <location filename="../lib/accountauthenticator.cpp" line="101"></location>
+        <location filename="../lib/accountauthenticator.cpp" line="117"></location>
         <source>Cannot find '%1' service for this account.</source>
         <translation type="unfinished"></translation>
     </message>
     <message id="sailfishaccounts-la-service_not_enabled">
-        <location filename="../lib/accountauthenticator.cpp" line="111"></location>
+        <location filename="../lib/accountauthenticator.cpp" line="127"></location>
         <source>Cannot authenticate, '%1' service is not enabled.</source>
         <translation type="unfinished"></translation>
     </message>
     <message id="sailfishaccounts-la-invalid_url">
-        <location filename="../lib/accountauthenticator.cpp" line="127"></location>
+        <location filename="../lib/accountauthenticator.cpp" line="143"></location>
         <source>Server address %1 for '%2' service is invalid.</source>
         <translation type="unfinished"></translation>
     </message>
     <message id="sailfishaccounts-la-invalid_credentials">
-        <location filename="../lib/accountauthenticator.cpp" line="138"></location>
+        <location filename="../lib/accountauthenticator.cpp" line="154"></location>
         <source>Cannot find valid sign-in credentials for this account.</source>
         <translation type="unfinished"></translation>
     </message>
     <message id="sailfishaccounts-la-auth_session_error">
-        <location filename="../lib/accountauthenticator.cpp" line="152"></location>
+        <location filename="../lib/accountauthenticator.cpp" line="168"></location>
         <source>Cannot create an authentication session for this account.</source>
         <translation type="unfinished"></translation>
     </message>
     <message id="sailfishaccounts-la-invalid_credentials_after_auth">
-        <location filename="../lib/accountauthenticator.cpp" line="233"></location>
+        <location filename="../lib/accountauthenticator.cpp" line="249"></location>
         <source>Cannot find valid sign-in credentials for the new account.</source>
         <translation type="unfinished"></translation>
     </message>
     <message id="sailfishaccounts-la-invalid_auth_session_on_sign_in">
-        <location filename="../lib/accountauthenticator.cpp" line="242"></location>
+        <location filename="../lib/accountauthenticator.cpp" line="258"></location>
         <source>Cannot find authentication details for the new account.</source>
         <translation type="unfinished"></translation>
     </message>
     <message id="sailfishaccounts-la-auth_error">
-        <location filename="../lib/accountauthenticator.cpp" line="264"></location>
+        <location filename="../lib/accountauthenticator.cpp" line="280"></location>
         <source>Authentication error: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message id="sailfishaccounts-la-auth_error_no_service">
-        <location filename="../lib/accountauthenticator.cpp" line="271"></location>
+        <location filename="../lib/accountauthenticator.cpp" line="287"></location>
         <source>Authentication error (for unknown service): %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message id="sailfish_components_accounts_qt5-la-invalid_server_url">
-        <location filename="../lib/accountauthenticator.cpp" line="287"></location>
+        <location filename="../lib/accountauthenticator.cpp" line="303"></location>
+        <location filename="../lib/accountauthenticator.cpp" line="368"></location>
         <source>Invalid URL. Check the server address and try again.</source>
         <translation type="unfinished"></translation>
     </message>
     <message id="sailfish_components_accounts_qt5-la-request_auth_failed">
-        <location filename="../lib/accountauthenticator.cpp" line="325"></location>
+        <location filename="../lib/accountauthenticator.cpp" line="341"></location>
+        <location filename="../lib/accountauthenticator.cpp" line="453"></location>
         <source>Check the sign-in details and try again. Authentication failed for url: %1</source>
         <translation type="unfinished"></translation>
     </message>

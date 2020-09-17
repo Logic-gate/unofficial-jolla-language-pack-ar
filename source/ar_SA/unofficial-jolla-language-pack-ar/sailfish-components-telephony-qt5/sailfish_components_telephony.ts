@@ -58,7 +58,7 @@
         <translation>%1 مغلق</translation>
     </message>
     <message id="sailfish-telephony-la-sim_operator_unknown">
-        <location filename="SimManager.qml" line="272"></location>
+        <location filename="SimManager.qml" line="274"></location>
         <source>Unknown</source>
         <extracomment>We don't know which operator is associated with the SIM</extracomment>
         <translation>غير معروف</translation>

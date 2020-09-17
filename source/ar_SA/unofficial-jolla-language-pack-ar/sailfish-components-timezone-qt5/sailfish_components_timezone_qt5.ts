@@ -25,74 +25,74 @@
         <extracomment>Coordinated Universal Time abbreviation, e.g. UTC+10:00 (aka GMT)</extracomment>
         <translation type="unfinished"></translation>
     </message>
-    <message id="components_timezone-area-Atlantic">
-        <location filename="zoneinfotranslations.h" line="3"></location>
-        <source>Atlantic</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message id="components_timezone-area-America">
-        <location filename="zoneinfotranslations.h" line="5"></location>
-        <source>America</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message id="components_timezone-area-Africa">
-        <location filename="zoneinfotranslations.h" line="7"></location>
-        <source>Africa</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message id="components_timezone-area-Australia">
-        <location filename="zoneinfotranslations.h" line="9"></location>
-        <source>Australia</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message id="components_timezone-area-Indian">
-        <location filename="zoneinfotranslations.h" line="11"></location>
-        <source>Indian</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message id="components_timezone-area-America-Kentucky">
-        <location filename="zoneinfotranslations.h" line="13"></location>
-        <source>America/Kentucky</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message id="components_timezone-area-America-Indiana">
-        <location filename="zoneinfotranslations.h" line="15"></location>
-        <source>America/Indiana</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message id="components_timezone-area-America-North_Dakota">
-        <location filename="zoneinfotranslations.h" line="17"></location>
-        <source>America/North_Dakota</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message id="components_timezone-area-Arctic">
-        <location filename="zoneinfotranslations.h" line="19"></location>
-        <source>Arctic</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message id="components_timezone-area-Asia">
-        <location filename="zoneinfotranslations.h" line="21"></location>
-        <source>Asia</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message id="components_timezone-area-America-Argentina">
-        <location filename="zoneinfotranslations.h" line="23"></location>
-        <source>America/Argentina</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message id="components_timezone-area-Antarctica">
-        <location filename="zoneinfotranslations.h" line="25"></location>
-        <source>Antarctica</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message id="components_timezone-area-Europe">
-        <location filename="zoneinfotranslations.h" line="27"></location>
+        <location filename="zoneinfotranslations.h" line="3"></location>
         <source>Europe</source>
         <translation type="unfinished"></translation>
     </message>
+    <message id="components_timezone-area-Asia">
+        <location filename="zoneinfotranslations.h" line="5"></location>
+        <source>Asia</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="components_timezone-area-America">
+        <location filename="zoneinfotranslations.h" line="7"></location>
+        <source>America</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="components_timezone-area-Indian">
+        <location filename="zoneinfotranslations.h" line="9"></location>
+        <source>Indian</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message id="components_timezone-area-Pacific">
-        <location filename="zoneinfotranslations.h" line="29"></location>
+        <location filename="zoneinfotranslations.h" line="11"></location>
         <source>Pacific</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="components_timezone-area-America-North_Dakota">
+        <location filename="zoneinfotranslations.h" line="13"></location>
+        <source>America/North_Dakota</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="components_timezone-area-Antarctica">
+        <location filename="zoneinfotranslations.h" line="15"></location>
+        <source>Antarctica</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="components_timezone-area-America-Argentina">
+        <location filename="zoneinfotranslations.h" line="17"></location>
+        <source>America/Argentina</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="components_timezone-area-America-Kentucky">
+        <location filename="zoneinfotranslations.h" line="19"></location>
+        <source>America/Kentucky</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="components_timezone-area-Arctic">
+        <location filename="zoneinfotranslations.h" line="21"></location>
+        <source>Arctic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="components_timezone-area-Atlantic">
+        <location filename="zoneinfotranslations.h" line="23"></location>
+        <source>Atlantic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="components_timezone-area-Australia">
+        <location filename="zoneinfotranslations.h" line="25"></location>
+        <source>Australia</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="components_timezone-area-Africa">
+        <location filename="zoneinfotranslations.h" line="27"></location>
+        <source>Africa</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="components_timezone-area-America-Indiana">
+        <location filename="zoneinfotranslations.h" line="29"></location>
+        <source>America/Indiana</source>
         <translation type="unfinished"></translation>
     </message>
     <message id="components_timezone-country-Andorra">

@@ -70,7 +70,7 @@
         <numerusform>1% + %n آخرون</numerusform>
         <numerusform>1% + %n آخر</numerusform>
         <numerusform>1% + %n آخر</numerusform>
-        </translation><translatorcomment>النص سيماثل: البريد + 4 آخرون....في حال المثنى هنالك ظمير مستتر 2 "عنوانين" أخرون, لذا تم إختيار آخرون مكان المثنى.</translatorcomment></message>
+        </translation></message>
     <message id="calendar-date_pattern_month_year">
         <location filename="pages/DatePickerPanel.qml" line="79"></location>
         <source>MMMM yyyy</source>
@@ -120,7 +120,7 @@
         <location filename="pages/DayTimesBackground.qml" line="97"></location>
         <source>%1 %2</source>
         <extracomment>Hour pattern in day page flickable for 12h mode, %1 is hour, %2 is am/pm indicator, shown at 12 and 6</extracomment>
-        <translation>1% 2%</translation>
+        <translation></translation>
     </message>
     <message id="calendar-event-event_cannot_be_modified">
         <location filename="pages/DeletableListDelegate.qml" line="19"></location>
@@ -181,7 +181,7 @@
         <numerusform>%n أشخاص مدعوون</numerusform>
         <numerusform>%n شخصاً مدعو</numerusform>
         <numerusform>%n شخصاً مدعو</numerusform>
-        </translation><translatorcomment>%n تعني رقم... مثال: 4 أشخاص مدعوون.</translatorcomment></message>
+        </translation></message>
     <message id="calendar-invite_people">
         <location filename="pages/EventEditPage.qml" line="202"></location>
         <source>Invite people</source>

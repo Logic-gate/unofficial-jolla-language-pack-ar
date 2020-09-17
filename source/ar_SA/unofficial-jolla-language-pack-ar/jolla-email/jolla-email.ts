@@ -214,7 +214,7 @@ Message priority low</extracomment>
         <location filename="../components/EmailComposer.qml" line="653"></location>
         <source>Request read receipt</source>
         <extracomment>Enables read receipt request</extracomment>
-        <translation>طلب إيضال للقراءة</translation>
+        <translation>طلب إيصال للقراءة</translation>
     </message>
     <message id="jolla-components_email-ph-attachments">
         <location filename="../components/EmailComposer.qml" line="697"></location>
@@ -410,7 +410,7 @@ Synchronise account menu item</extracomment>
         <translation>جار تحديث الحساب...</translation>
     </message>
     <message id="jolla-email-la-forwarded_email">
-        <location filename="../pages/AttachmentDelegate.qml" line="109"></location>
+        <location filename="../pages/AttachmentDelegate.qml" line="107"></location>
         <source>Forwarded email</source>
         <extracomment>Attached email with unknown title =&gt; use placeholder name</extracomment>
         <translation>بريد معاد توجيهه</translation>
@@ -468,7 +468,7 @@ Synchronise account menu item</extracomment>
         <translation>فشل حفظ الملف</translation>
     </message>
     <message id="jolla-email-la-all_day">
-        <location filename="../pages/CalendarInvite.qml" line="92"></location>
+        <location filename="../pages/CalendarInvite.qml" line="94"></location>
         <source>All day</source>
         <translation>كل اليوم</translation>
     </message>
@@ -811,7 +811,7 @@ Synchronise account menu item</extracomment>
         <location filename="../pages/MessageListView.qml" line="209"></location>
         <source>Sort by: %1</source>
         <extracomment>Selects message list sort method</extracomment>
-        <translation>التصنيف بـ: %1</translation>
+        <translation>التصنيف حسب %1</translation>
     </message>
     <message id="jolla-email-me-search">
         <location filename="../pages/MessageListView.qml" line="241"></location>
@@ -1362,7 +1362,7 @@ Synchronise account menu item</extracomment>
         <translation>الحساب الافتراضي لإرسال البريد</translation>
     </message>
     <message id="mail-ap-name">
-        <location filename="email.cpp" line="73"></location>
+        <location filename="email.cpp" line="74"></location>
         <source>Mail</source>
         <translation>البريد</translation>
     </message>

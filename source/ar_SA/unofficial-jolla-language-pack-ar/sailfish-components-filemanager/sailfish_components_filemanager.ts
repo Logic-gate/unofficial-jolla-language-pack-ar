@@ -174,7 +174,7 @@
         <location filename="DirectoryPage.qml" line="321"></location>
         <source>Moving failed</source>
         <translation>تعذر النقل</translation>
-    <translatorcomment>نقل بمعنى تحريك الملف</translatorcomment></message>
+    </message>
     <message id="filemanager-la-renaming_failed">
         <location filename="DirectoryPage.qml" line="325"></location>
         <source>Renaming failed</source>

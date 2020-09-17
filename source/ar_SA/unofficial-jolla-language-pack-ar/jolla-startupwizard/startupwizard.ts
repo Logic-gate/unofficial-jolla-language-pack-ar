@@ -175,7 +175,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message id="startupwizard-la-goodbye">
-        <location filename="../pre-user-session/main.qml" line="237"></location>
+        <location filename="../pre-user-session/main.qml" line="209"></location>
         <source>Goodbye!</source>
         <extracomment>Shut down message</extracomment>
         <translation type="unfinished"></translation>

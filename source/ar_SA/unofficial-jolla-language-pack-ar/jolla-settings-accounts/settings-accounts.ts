@@ -396,7 +396,7 @@
         <source>Birthday</source>
         <extracomment>Allows birthday to be selected</extracomment>
         <translation>تاريخ الميلاد</translation>
-    <translatorcomment>date of birth</translatorcomment></message>
+    </message>
     <message id="settings_accounts-la-age_disclaimer">
         <location filename="../declarative/JollaAccountCreationSecondDialog.qml" line="356"></location>
         <source>If you are under 13 please contact customer support for more information.</source>
@@ -479,13 +479,13 @@
         <location filename="../declarative/JollaAccountCredentialsInput.qml" line="381"></location>
         <source>Unable to log in with this username and password</source>
         <translation>تعذر تسجيل الدخول بإستخدام إسم المستخدم و كلمة المرور المدخلة</translation>
-    <translatorcomment>مدخلة عوضاً عن هاتان أو المدخلات السابقة و اللاحقة</translatorcomment></message>
+    </message>
     <message id="settings_accounts-la-forgot_your_password_link">
         <location filename="../declarative/JollaAccountForgotPasswordInfo.qml" line="90"></location>
         <source>%1Forgot your password?%2</source>
         <extracomment>Tap to show more information about retrieving a forgotten password (Text surrounded by %1 and %2 is underlined and colored differently)</extracomment>
         <translation>1%هل نسيت كلمة المرور الخاصة بك؟%2</translation>
-    <translatorcomment>check later during testing if %1 %2 order is significant</translatorcomment></message>
+    </message>
     <message id="settings_accounts-la-forgot_your_password_solution">
         <location filename="../declarative/JollaAccountForgotPasswordInfo.qml" line="109"></location>
         <source>Please go to account.jolla.com to reset your password. You also need to have access to the email address you provided when creating the account.</source>
@@ -520,7 +520,7 @@
         <location filename="../declarative/JollaAccountSetupDialog.qml" line="201"></location>
         <source>Other accounts can be set up later from Settings | Accounts.</source>
         <translation>يمكن إعداد حسابات أخرى لاحقًا في الإعدادات | الحسابات.</translation>
-    <translatorcomment>Path names must be revisited to make sure they match whenever they are mentioned</translatorcomment></message>
+    </message>
     <message id="settings_accounts-la-vkb_layout_change_hint">
         <location filename="../declarative/JollaAccountSetupDialog.qml" line="215"></location>
         <location filename="../declarative/JollaAccountSignInDialog.qml" line="153"></location>
@@ -630,6 +630,7 @@
     </message>
     <message id="settings-accounts-la-enable_at_least_one_service">
         <location filename="../declarative/MinimumServiceEnabledNotification.qml" line="14"></location>
+        <location filename="../extensions/ui/OnlineSyncAccountCreator.qml" line="187"></location>
         <source>At least one service must be enabled</source>
         <translation>يجب تمكين خدمة واحدة على الأقل</translation>
     </message>
@@ -717,13 +718,13 @@
         <source>Account is read-only</source>
         <extracomment>Displayed if the account is read-only</extracomment>
         <translation>صلاحيات الحساب تسمح للقراءة فقط</translation>
-    <translatorcomment>Account privileges allow for read only access</translatorcomment></message>
+    </message>
     <message id="accounts-la-account_limited">
         <location filename="../declarative/StandardAccountSettingsPullDownMenu.qml" line="26"></location>
         <source>Changes to account are limited</source>
         <extracomment>Displayed if the account is limited</extracomment>
         <translation>التغييرات على الحساب محدودة</translation>
-    <translatorcomment>I think it means...changes on account are limited, either way I am a bit confused</translatorcomment></message>
+    </message>
     <message id="accounts-me-update_credentials">
         <location filename="../declarative/StandardAccountSettingsPullDownMenu.qml" line="33"></location>
         <source>Update log-in details</source>
@@ -1154,13 +1155,13 @@ Password for account outgoing server</extracomment>
         <source>PGP key %1</source>
         <extracomment>%1: identifier of the signing key, usually 8 hexadecimal characters</extracomment>
         <translation>مفتاح %1 - PGP</translation>
-    <translatorcomment>Added - to circumvent rtl ltr mismatch</translatorcomment></message>
+    </message>
     <message id="settings-accounts-mi-smime_key">
         <location filename="../extensions/ui/EmailCryptoKeySelection.qml" line="97"></location>
         <source>S/MIME key %1</source>
         <extracomment>%1: identifier of the signing key, usually 8 hexadecimal characters</extracomment>
         <translation>مفتاح S/MIME - 1%</translation>
-    <translatorcomment>Added - to circumvent rtl ltr mismatch</translatorcomment></message>
+    </message>
     <message id="settings-accounts-la-no_stored_key">
         <location filename="../extensions/ui/EmailCryptoKeySelection.qml" line="136"></location>
         <source>No key stored on the device for this email</source>
@@ -1205,35 +1206,35 @@ Password for account outgoing server</extracomment>
     </message>
     <message id="components_accounts-ph-genericemail_your_name">
         <location filename="../extensions/ui/EmailSettingsDisplay.qml" line="331"></location>
-        <location filename="../extensions/ui/GoogleSettingsDisplay.qml" line="300"></location>
+        <location filename="../extensions/ui/GoogleSettingsDisplay.qml" line="295"></location>
         <source>Your name</source>
         <extracomment>Placeholder text for your name</extracomment>
         <translation>ادخل اسمك</translation>
     </message>
     <message id="components_accounts-la-genericemail_your_name">
         <location filename="../extensions/ui/EmailSettingsDisplay.qml" line="334"></location>
-        <location filename="../extensions/ui/GoogleSettingsDisplay.qml" line="303"></location>
+        <location filename="../extensions/ui/GoogleSettingsDisplay.qml" line="298"></location>
         <source>Your name</source>
         <extracomment>Your name</extracomment>
         <translation>اسمك</translation>
     </message>
     <message id="settings-accounts-la-include_email_signature">
         <location filename="../extensions/ui/EmailSettingsDisplay.qml" line="342"></location>
-        <location filename="../extensions/ui/GoogleSettingsDisplay.qml" line="312"></location>
+        <location filename="../extensions/ui/GoogleSettingsDisplay.qml" line="307"></location>
         <source>Include signature</source>
         <extracomment>Include signature in emails</extracomment>
         <translation>تضمين التوقيع</translation>
     </message>
     <message id="settings-accounts-ph-email_signature">
         <location filename="../extensions/ui/EmailSettingsDisplay.qml" line="351"></location>
-        <location filename="../extensions/ui/GoogleSettingsDisplay.qml" line="322"></location>
+        <location filename="../extensions/ui/GoogleSettingsDisplay.qml" line="317"></location>
         <source>Write signature here</source>
         <extracomment>Placeholder text for signature text area</extracomment>
         <translation>حرر توقيعك</translation>
     </message>
     <message id="settings_email-la-email_default_signature">
         <location filename="../extensions/ui/EmailSettingsDisplay.qml" line="361"></location>
-        <location filename="../extensions/ui/GoogleSettingsDisplay.qml" line="332"></location>
+        <location filename="../extensions/ui/GoogleSettingsDisplay.qml" line="327"></location>
         <source>Sent from my %1 device</source>
         <extracomment>Default signature. %1 is an operating system name without the OS suffix</extracomment>
         <translation>مرسل من جهازي %1</translation>
@@ -1276,7 +1277,7 @@ Password for account outgoing server</extracomment>
         <translation>تنزيل محتوى آخر</translation>
     </message>
     <message id="settings-accounts-la-no_folder">
-        <location filename="../extensions/ui/FolderListView.qml" line="55"></location>
+        <location filename="../extensions/ui/FolderListView.qml" line="63"></location>
         <source>No folders, account has not been synced yet.</source>
         <translation>لا توجد مجلدات. لم تتم مزامنة الحساب حتى الآن.</translation>
     </message>
@@ -1286,37 +1287,37 @@ Password for account outgoing server</extracomment>
         <translation>المجلدات المطلوب مزامنتها</translation>
     </message>
     <message id="settings-accounts-la-sync_folders">
-        <location filename="../extensions/ui/FolderSyncSettings.qml" line="52"></location>
+        <location filename="../extensions/ui/FolderSyncSettings.qml" line="47"></location>
         <source>Synced folders</source>
         <extracomment>Combobox title for syncing email folders</extracomment>
         <translation>المجلدات المتزامنة</translation>
     </message>
     <message id="settings-accounts-me-inbox_only">
-        <location filename="../extensions/ui/FolderSyncSettings.qml" line="58"></location>
+        <location filename="../extensions/ui/FolderSyncSettings.qml" line="53"></location>
         <source>Inbox only</source>
         <extracomment>Syncing email folders option</extracomment>
         <translation>البريد الوارد فقط</translation>
     </message>
     <message id="settings-accounts-me-inbox_all">
-        <location filename="../extensions/ui/FolderSyncSettings.qml" line="65"></location>
+        <location filename="../extensions/ui/FolderSyncSettings.qml" line="60"></location>
         <source>Inbox and subfolders</source>
         <extracomment>Syncing email folders option</extracomment>
         <translation>البريد الوارد و المجلدات الفرعية</translation>
     </message>
     <message id="settings-accounts-me-custom_folders">
-        <location filename="../extensions/ui/FolderSyncSettings.qml" line="72"></location>
+        <location filename="../extensions/ui/FolderSyncSettings.qml" line="67"></location>
         <source>Custom</source>
         <extracomment>Syncing email folders option (equivalent to "select folders to sync")</extracomment>
         <translation>مخصص</translation>
     </message>
     <message id="settings_accounts-bu-custom_folders">
-        <location filename="../extensions/ui/FolderSyncSettings.qml" line="129"></location>
+        <location filename="../extensions/ui/FolderSyncSettings.qml" line="124"></location>
         <source>Custom folders to sync</source>
         <extracomment>Please simplify to just "Custom folders" for longer translations</extracomment>
         <translation>المجلدات المخصصة للمزامنة</translation>
     </message>
     <message id="settings_accounts-la-none_selected">
-        <location filename="../extensions/ui/FolderSyncSettings.qml" line="142"></location>
+        <location filename="../extensions/ui/FolderSyncSettings.qml" line="137"></location>
         <source>No folders selected</source>
         <extracomment>Shown instead of the folder list in case no folders are selected</extracomment>
         <translation>لم يتم تحديد مجلدات</translation>
@@ -1357,70 +1358,70 @@ Password for account outgoing server</extracomment>
         <translation>شروط خدمة Google</translation>
     </message>
     <message id="settings-accounts-la-sync_options">
-        <location filename="../extensions/ui/GoogleSettingsDisplay.qml" line="177"></location>
+        <location filename="../extensions/ui/GoogleSettingsDisplay.qml" line="172"></location>
         <location filename="../extensions/ui/OnlineSyncAccountSettingsDisplay.qml" line="196"></location>
         <source>Sync</source>
         <extracomment>Options for data to be synced with a remote server</extracomment>
         <translation>تزامن</translation>
     </message>
     <message id="settings-accounts-la-sync">
-        <location filename="../extensions/ui/GoogleSettingsDisplay.qml" line="237"></location>
+        <location filename="../extensions/ui/GoogleSettingsDisplay.qml" line="232"></location>
         <location filename="../extensions/ui/OnlineSyncAccountSettingsDisplay.qml" line="205"></location>
         <source>Sync</source>
         <translation>مزامنة</translation>
     </message>
     <message id="settings-accounts-me-to_device_only">
-        <location filename="../extensions/ui/GoogleSettingsDisplay.qml" line="244"></location>
+        <location filename="../extensions/ui/GoogleSettingsDisplay.qml" line="239"></location>
         <location filename="../extensions/ui/OnlineSyncAccountSettingsDisplay.qml" line="209"></location>
         <source>To device only</source>
         <extracomment>Sync data to the device only, do not upload any data</extracomment>
         <translation>للجهاز فقط</translation>
     </message>
     <message id="settings-accounts-me-two_way_sync">
-        <location filename="../extensions/ui/GoogleSettingsDisplay.qml" line="252"></location>
+        <location filename="../extensions/ui/GoogleSettingsDisplay.qml" line="247"></location>
         <location filename="../extensions/ui/OnlineSyncAccountSettingsDisplay.qml" line="215"></location>
         <source>2-ways</source>
         <extracomment>Two-way sync. Data will downloaded as well as uploaded.</extracomment>
         <translation>ذو إتجاهين</translation>
     </message>
     <message id="settings-accounts-la-details_email_google">
-        <location filename="../extensions/ui/GoogleSettingsDisplay.qml" line="273"></location>
+        <location filename="../extensions/ui/GoogleSettingsDisplay.qml" line="268"></location>
         <source>Email details</source>
         <extracomment>Email details, note this is a section, should mention 'email' here</extracomment>
         <translation>تفاصيل البريد الإلكتروني</translation>
     </message>
     <message id="settings-accounts-la-email_services_requires_email_app">
-        <location filename="../extensions/ui/GoogleSettingsDisplay.qml" line="286"></location>
+        <location filename="../extensions/ui/GoogleSettingsDisplay.qml" line="281"></location>
         <source>Email services can be enabled for this account after installing the Email app from the Jolla Store.</source>
         <extracomment>Indicate that the Email app is required in order to enable email account services</extracomment>
         <translation>يمكن تفعيل خدمات البريد الإلكتروني لهذا الحساب بعد تثبيت تطبيق البريد الإلكتروني من متجر Jolla</translation>
     </message>
     <message id="settings-accounts-la-email_sync">
-        <location filename="../extensions/ui/GoogleSettingsDisplay.qml" line="341"></location>
+        <location filename="../extensions/ui/GoogleSettingsDisplay.qml" line="336"></location>
         <source>Email sync</source>
         <extracomment>Options for email sync</extracomment>
         <translation>تزامن البريد الإلكتروني</translation>
     </message>
     <message id="settings-accounts-la-content_sync">
-        <location filename="../extensions/ui/GoogleSettingsDisplay.qml" line="394"></location>
+        <location filename="../extensions/ui/GoogleSettingsDisplay.qml" line="389"></location>
         <location filename="../extensions/ui/OnlineSyncAccountSettingsDisplay.qml" line="254"></location>
         <source>Content sync</source>
         <extracomment>Options for data sync</extracomment>
         <translation>مزامنة المحتوى</translation>
     </message>
     <message id="settings-accounts-la-sync_content">
-        <location filename="../extensions/ui/GoogleSettingsDisplay.qml" line="403"></location>
+        <location filename="../extensions/ui/GoogleSettingsDisplay.qml" line="398"></location>
         <source>Sync content</source>
         <translation>زامن المحتوى</translation>
     </message>
     <message id="settings-accounts-la-sync_automatically">
-        <location filename="../extensions/ui/GoogleSettingsDisplay.qml" line="410"></location>
+        <location filename="../extensions/ui/GoogleSettingsDisplay.qml" line="405"></location>
         <source>Automatically</source>
         <extracomment>Sync data automatically as necessary</extracomment>
         <translation>تلقائياً</translation>
     </message>
     <message id="settings-accounts-la-sync_manually">
-        <location filename="../extensions/ui/GoogleSettingsDisplay.qml" line="419"></location>
+        <location filename="../extensions/ui/GoogleSettingsDisplay.qml" line="414"></location>
         <source>Manually</source>
         <extracomment>Only sync when user manually requests it; do not sync automatically</extracomment>
         <translation>يدويًا</translation>
@@ -1484,7 +1485,7 @@ Password for account outgoing server</extracomment>
         <location filename="../extensions/ui/JabberCommon.qml" line="109"></location>
         <source>Enter priority</source>
         <extracomment>Placeholder text for XMPP client priority</extracomment>
-        <translation>أدخل الأولوية</translation>
+        <translation>ادخل الأولوية</translation>
     </message>
     <message id="components_accounts-la-jabber_priority">
         <location filename="../extensions/ui/JabberCommon.qml" line="111"></location>
@@ -1572,7 +1573,7 @@ Password for account outgoing server</extracomment>
         <translation>الإعدادات المتقدمة</translation>
     </message>
     <message id="components_accounts-la-verifying_credentials">
-        <location filename="../extensions/ui/OnlineSyncAccountCreator.qml" line="168"></location>
+        <location filename="../extensions/ui/OnlineSyncAccountCreator.qml" line="174"></location>
         <source>Verifying credentials</source>
         <extracomment>In the process of verifying the username/password entered by the user</extracomment>
         <translation>التحقق من أوراق الإعتماد</translation>
@@ -1632,7 +1633,7 @@ Password for account outgoing server</extracomment>
         <location filename="../extensions/ui/SIPCommon.qml" line="49"></location>
         <source>Enter password</source>
         <extracomment>Placeholder text for password</extracomment>
-        <translation>أدخل كلمة المرور</translation>
+        <translation>ادخل كلمة المرور</translation>
     </message>
     <message id="components_accounts-la-sip_password">
         <location filename="../extensions/ui/SIPCommon.qml" line="53"></location>
@@ -1644,7 +1645,7 @@ Password for account outgoing server</extracomment>
         <location filename="../extensions/ui/SIPCommon.qml" line="69"></location>
         <source>Enter nickname (optional)</source>
         <extracomment>Placeholder text for account alias</extracomment>
-        <translation>أدخل لقبًا (إختياري)</translation>
+        <translation>أدخل لقباً (إختياري)</translation>
     </message>
     <message id="components_accounts-la-sip_alias">
         <location filename="../extensions/ui/SIPCommon.qml" line="73"></location>
@@ -1766,7 +1767,7 @@ Password for account outgoing server</extracomment>
         <location filename="../extensions/ui/SIPCommon.qml" line="289"></location>
         <source>Keepalive</source>
         <translation>إبقاء الإتصال حياً (Keep-Alive)</translation>
-    <translatorcomment>Must revisit</translatorcomment></message>
+    </message>
     <message id="components_accounts-la-sip_keepalive_mechanism">
         <location filename="../extensions/ui/SIPCommon.qml" line="302"></location>
         <source>Keep-Alive mechanism</source>
@@ -2081,7 +2082,7 @@ Password for account outgoing server</extracomment>
         <location filename="../declarative/caldavaccountcalendarupdater.cpp" line="710"></location>
         <source>The server response could not be processed.</source>
         <translation>تعذرت معالجة رد الخادم.</translation>
-    <translatorcomment>رد أفضل من إستجابة حيث أننا بعد إرسال الطلب نتوقع رد و ليس إستجابة</translatorcomment></message>
+    </message>
     <message id="jollacomponents_internal_caldav-la-server_no_current_user_principal">
         <location filename="../declarative/caldavaccountcalendarupdater.cpp" line="714"></location>
         <source>The server response did not provide the user details for the specified username.</source>
@@ -2218,7 +2219,7 @@ Error displayed when the response to the get application token request is invali
         <source>Parameters error: %2</source>
         <extracomment>Error displayed when the request to the Jolla server for an application code fails due to parameters error</extracomment>
         <translation>خطأ مُعامل: 2%</translation>
-    <translatorcomment>يجب أن تُحسن</translatorcomment></message>
+    </message>
     <message id="jolla_account_provider-app_token_params_error">
         <location filename="../declarative/jollaaccountprovider.cpp" line="870"></location>
         <source>Parameters error: %2</source>

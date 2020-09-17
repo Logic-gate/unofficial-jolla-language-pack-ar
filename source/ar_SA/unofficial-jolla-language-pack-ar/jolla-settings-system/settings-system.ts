@@ -1342,12 +1342,12 @@
         <location filename="../plugin/CurrentTimeZoneSettingDisplay.qml" line="18"></location>
         <source>%1, %2</source>
         <extracomment>%1 will be replaced by localized country and %2 with localized city</extracomment>
-        <translation>1%, 2%</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message id="settings_devicelock-he-enter_security_code">
         <location filename="../plugin/DeviceLockFeedback.qml" line="12"></location>
         <source>Enter security code</source>
-        <translation>أدخل رمز الأمان</translation>
+        <translation>ادخل رمز الأمان</translation>
     </message>
     <message id="settings_devicelock-he-security_code_confirm_title">
         <location filename="../plugin/DeviceLockFeedback.qml" line="15"></location>
@@ -1369,7 +1369,7 @@
         <location filename="../plugin/DeviceLockFeedback.qml" line="27"></location>
         <source>Enter new security code</source>
         <extracomment>Enter a new security code</extracomment>
-        <translation>أدخل رمز أمان جديد</translation>
+        <translation>ادخل رمز أمان جديد</translation>
     </message>
     <message id="settings_devicelock-he-authorize">
         <location filename="../plugin/DeviceLockFeedback.qml" line="63"></location>
@@ -1658,7 +1658,7 @@
         <location filename="../plugin/PinInput.qml" line="81"></location>
         <source>Enter new PIN</source>
         <extracomment>Enter a new PIN code</extracomment>
-        <translation>أدخل رمز PIN الجديد</translation>
+        <translation>ادخل رمز PIN الجديد</translation>
     </message>
     <message id="settings_pin-he-reenter_new_pin">
         <location filename="../plugin/PinInput.qml" line="84"></location>
@@ -1741,7 +1741,7 @@
         <location filename="../plugin/SimPinInput.qml" line="59"></location>
         <source>Enter PIN code</source>
         <extracomment>Request the user to enter a PIN code for SIM access</extracomment>
-        <translation>أدخل رمز PIN</translation>
+        <translation>ادخل رمز PIN</translation>
     </message>
     <message id="settings_pin-he-wrong_puk">
         <location filename="../plugin/SimPinInput.qml" line="64"></location>
@@ -1753,7 +1753,7 @@
         <location filename="../plugin/SimPinInput.qml" line="67"></location>
         <source>Enter PUK code</source>
         <extracomment>Request the user to enter a PUK code for SIM access</extracomment>
-        <translation>أدخل رمز PUK</translation>
+        <translation>ادخل رمز PUK</translation>
     </message>
     <message id="settings_pin-la-last_pin_warning">
         <location filename="../plugin/SimPinInput.qml" line="89"></location>
@@ -3052,7 +3052,7 @@
     <message id="settings_users-me-delete">
         <location filename="../users/UserItem.qml" line="94"></location>
         <source>Delete</source>
-        <translation type="unfinished">حذف</translation>
+        <translation>حذف</translation>
     </message>
     <message id="settings_users-la-you">
         <location filename="../users/UserItem.qml" line="154"></location>
@@ -3129,7 +3129,7 @@
     <message id="settings_users-me-show_guest">
         <location filename="../users/users.qml" line="167"></location>
         <source>Show guest user</source>
-        <translation type="unfinished"></translation>
+        <translation>إظهار المستخدم الزائر</translation>
     </message>
     <message id="settings_users-he-users">
         <location filename="../users/users.qml" line="180"></location>

@@ -34,7 +34,7 @@
     <message id="lipstick-jolla-home-facebook-la-you-like-this">
         <location filename="FacebookLikeable.qml" line="96"></location>
         <source>You like this</source>
-        <translation>أعجبني</translation>
+        <translation>أعجبك هذا</translation>
     </message>
     <message id="gallery-fb-la-one-friend-likes-this">
         <location filename="FacebookLikeable.qml" line="99"></location>
