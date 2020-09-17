@@ -1,4 +1,4 @@
-u/usr/share/jolla-calendar/pages/EventEditPage.qml:146
+/usr/share/jolla-calendar/pages/EventEditPage.qml:146
 /usr/share/jolla-calendar/pages/EventViewPage.qml:11
 /usr/share/jolla-clock/pages/ClockEditDialog.qml:120
 /usr/lib/qt5/qml/com/jolla/gallery/ambience/AmbienceSettingsView.qml:429
@@ -41,3 +41,13 @@ u/usr/share/jolla-calendar/pages/EventEditPage.qml:146
 /usr/lib/qt5/qml/com/jolla/settings/SettingsPageLink.qml:16
 /usr/share/jolla-settings/pages/browser/browser.qml:69
 /usr/lib/qt5/qml/Sailfish/Gallery/ImageDetailsItem.qml:4
+/usr/share/jolla-settings/pages/mobile/mainpage.qml:36
+/usr/share/jolla-settings/pages/advanced-networking/mainpage.qml:13
+/usr/share/jolla-settings/pages/mobile/SimMobileNetworkSettings.qml:46
+/usr/share/jolla-settings/pages/mobile/EditMobileNetworkPage.qml:156
+/usr/share/jolla-settings/pages/multisim/multisim.qml:12
+/usr/lib/qt5/qml/com/jolla/settings/multisim/DataSimSelector.qml:11
+/usr/share/jolla-settings/pages/tethering/mainpage.qml:13
+/usr/share/jolla-settings/pages/vpn/mainpage.qml:18
+/usr/share/jolla-settings/pages/flight/flightpage.qml:18
+/usr/share/jolla-settings/pages/FrontPage.qml:6
