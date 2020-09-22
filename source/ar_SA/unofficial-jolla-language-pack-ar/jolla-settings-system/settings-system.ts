@@ -2616,7 +2616,7 @@
         <location filename="../topmenu/topmenu.qml" line="82"></location>
         <source>These switches allow features to be toggled on and off, and provide access to their settings.</source>
         <extracomment>Label containing a description of what the switches are</extracomment>
-        <translation>تسمح مفاتيح التبديل هذه بتشغيل الميزات وإيقاف تشغيلها ، وتوفر الوصول إلى إعداداتها.</translation>
+        <translation>تسمح مفاتيح التبديل هذه بتشغيل الميزات وإيقاف تشغيلها، وتوفر الوصول إلى إعداداتها.</translation>
     </message>
     <message id="settings_topmenu-he-sliders">
         <location filename="../topmenu/topmenu.qml" line="117"></location>

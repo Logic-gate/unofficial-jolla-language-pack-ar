@@ -62,9 +62,12 @@
         <location filename="../fm/fmradio.cpp" line="74"></location>
         <source>%n channels</source>
         <extracomment>Number of FM radio channels (Used for fm radio subtitle)</extracomment>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-        </translation>
-    </message>
+        <translation><numerusform>%n قناة</numerusform>
+        <numerusform>قناة</numerusform>
+        <numerusform>قناتان</numerusform>
+        <numerusform>%n قناة</numerusform>
+        <numerusform>%n قناة</numerusform>
+        <numerusform>%n قناة</numerusform>
+        </translation></message>
 </context>
 </TS>

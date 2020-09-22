@@ -24,7 +24,7 @@
         <location filename="../settings/SettingsPage.qml" line="55"></location>
         <source>%1:%2 (%3Mpix)</source>
         <extracomment>template for resolution text, %1 and %2 are aspect ratio, %3 is megapixel value. e.g. 16:9 (2Mpix)"</extracomment>
-        <translation>1%:2% (%‫3Mpix)</translation>
+        <translation></translation>
     </message>
     <message id="camera_settings-ph-camera">
         <location filename="../settings/SettingsPage.qml" line="71"></location>

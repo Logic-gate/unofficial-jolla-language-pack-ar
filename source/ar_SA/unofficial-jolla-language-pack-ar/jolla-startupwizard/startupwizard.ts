@@ -7,36 +7,36 @@
         <location filename="../plugin/AndroidInstallationDialog.qml" line="56"></location>
         <source>Get Android™ App Support</source>
         <extracomment>Heading for page that allows user to install Android™ App Support.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>احصل على دعم تطبيق اندرويد™</translation>
     </message>
     <message id="startupwizard-he-do_you_want_to_use_android_apps">
         <location filename="../plugin/AndroidInstallationDialog.qml" line="78"></location>
         <source>Do you want to use Android™ apps?</source>
         <extracomment>Heading for page that allows user to install Android™ App Support.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>هل تريد استخدام تطبيقات اندرويد™؟</translation>
     </message>
     <message id="startupwizard-la-install_android_support">
         <location filename="../plugin/AndroidInstallationDialog.qml" line="92"></location>
         <source>If you want to use Android apps on the device, select this to install Android App Support.</source>
         <extracomment>Hint to user to install Android™ App Support.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>إذا أردت استخدام تطبيقات اندرويد على جهازك, قم بتحديد هذا الخيار لتثبيت دعم تطبيق اندرويد.</translation>
     </message>
     <message id="startupwizard-la-install_additional_android_stores">
         <location filename="../plugin/AndroidInstallationDialog.qml" line="129"></location>
         <source>You can install additional stores to your device to find your favorite Android apps like Facebook, Twitter and WhatsApp. For more Android apps and stores, visit the Store app later.</source>
         <extracomment>Explains how to install Android apps and stores later on.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>يمكنك تثبيت متاجر إضافية على جهازك لإيجاد تطبيقاتك المفضلة من اندرويد مثل فيسبوك, تويتر, واتساب. للمزيد قم بزيارة متجر التطبيقات لاحقا.</translation>
     </message>
     <message id="startupwizard-he-select_your_apps">
         <location filename="../plugin/ApplicationInstallationDialog.qml" line="50"></location>
         <source>Select your apps</source>
         <extracomment>Heading for page that allows the user to install applications</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>اختر تطبيقاتك</translation>
     </message>
     <message id="startupwizard-la-selected_apps_will_be_downloaded_and_installed">
         <location filename="../plugin/ApplicationInstallationDialog.qml" line="64"></location>
         <source>Selected apps will be downloaded from the Store and installed to your device.</source>
-        <translation type="unfinished"></translation>
+        <translation>سيتم تحميل التطبيقات المختارة من المتجر وتثبيتها على جهازك.</translation>
     </message>
     <message id="startupwizard-la-current_time_and_date">
         <location filename="../plugin/DateTimeDialog.qml" line="41"></location>
@@ -48,22 +48,22 @@
         <location filename="../plugin/DateTimeDialog.qml" line="45"></location>
         <source>The date and time were automatically retrieved. If these are not correct, please change them below.</source>
         <extracomment>Displayed when date and time are automatically retrieved from internet</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>تم استعادة الوقت والتاريخ آليا. إذا لم يكن ذلك صحيح, الرجاء تغييره.</translation>
     </message>
     <message id="startupwizard-la-select_time_and_date">
         <location filename="../plugin/DateTimeDialog.qml" line="48"></location>
         <source>Please select your date and time</source>
-        <translation type="unfinished"></translation>
+        <translation>اختر التاريخ و الوقت</translation>
     </message>
     <message id="startupwizard-he-dialog_accept">
         <location filename="../plugin/LanguagePickerDialog.qml" line="88"></location>
         <source>Accept</source>
-        <translation type="unfinished"></translation>
+        <translation>موافقة</translation>
     </message>
     <message id="startupwizard-he-eula">
         <location filename="../plugin/PlatformTermsOfUseDialog.qml" line="17"></location>
         <source>End User License Agreement</source>
-        <translation type="unfinished"></translation>
+        <translation>رخصة المستخدم النهائية</translation>
     </message>
     <message id="startupwizard-la-sailfish_eula_intro">
         <location filename="../plugin/PlatformTermsOfUseDialog.qml" line="23"></location>
@@ -92,47 +92,47 @@
     <message id="startupwizard-la-reject_eula_body_text">
         <location filename="../plugin/PlatformTermsOfUseDialog.qml" line="51"></location>
         <source>If you cannot accept the terms of this Agreement after having purchased a product incorporating Software, please return the product containing the Software to the seller in accordance with the applicable return policy.</source>
-        <translation type="unfinished"></translation>
+        <translation>إذا لم تتمكن من الموافقة على شروط هذه الاتفاقية بعد إتمام عملية الشراء للمنتج المتضمن للبرمجيات,الرجاء إعادته للبائع وفقا لسياسة الإرجاع.</translation>
     </message>
     <message id="startupwizard-la-user_data_encryption_failed">
         <location filename="../plugin/PleaseWaitPage.qml" line="36"></location>
         <source>User data encryption failed</source>
         <extracomment>Shown when user data encryption failed</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>فشل تشفير بيانات المستخدم</translation>
     </message>
     <message id="startupwizard-la-finalizing_user_data_encryption">
         <location filename="../plugin/PleaseWaitPage.qml" line="41"></location>
         <source>Encrypting user data,&lt;br&gt;please wait</source>
-        <translation type="unfinished"></translation>
+        <translation>جاري تشفير بيانات المستخدم&lt;br&gt;الرجاء الانتظار</translation>
     </message>
     <message id="startupwizard-la-starting_sailfish_please_wait">
         <location filename="../plugin/PleaseWaitPage.qml" line="47"></location>
         <source>Starting,&lt;br&gt;please wait</source>
         <extracomment>Shown when Sailfish OS is starting up</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>البدء,&lt;br&gt;الرجاء الانتظار</translation>
     </message>
     <message id="startupwizard-he-agree">
         <location filename="../plugin/TermsOfUseDialog.qml" line="54"></location>
         <source>Agree</source>
         <extracomment>Agree to and accept the legal terms of Sailfish OS End User License Agreement. User must agree to this before beginning to use the device.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>موافق</translation>
     </message>
     <message id="startupwizard-he-go_back">
         <location filename="../plugin/TermsOfUseDialog.qml" line="172"></location>
         <source>Go back</source>
         <extracomment>Return to the previous page</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>العودة</translation>
     </message>
     <message id="startupwizard-bt-reject_button">
         <location filename="../plugin/TermsOfUseDialog.qml" line="200"></location>
         <source>Reject and turn off</source>
         <extracomment>User chooses to reject the Sailfish OS End User License Agreement and turn off the device.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>رفض و إغلاق</translation>
     </message>
     <message id="startupwizard-la-ahoy">
         <location filename="../plugin/WelcomePage.qml" line="21"></location>
         <source>Ahoy!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ahoy!</translation>
     </message>
     <message id="startupwizard-he-next_page">
         <location filename="../plugin/WizardDialogHeader.qml" line="13"></location>
@@ -172,44 +172,44 @@
     <message id="startupwizard-la-your_apps_are_installing_in_background">
         <location filename="../plugin/WizardPostAccountCreationDialog.qml" line="213"></location>
         <source>Your apps are downloading and installing in the background.</source>
-        <translation type="unfinished"></translation>
+        <translation>جاري تحميل وتثبيت جميع تطبيقاتك في الخلفية.</translation>
     </message>
     <message id="startupwizard-la-goodbye">
         <location filename="../pre-user-session/main.qml" line="209"></location>
         <source>Goodbye!</source>
         <extracomment>Shut down message</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>مع السلامة</translation>
     </message>
     <message id="startupwizard-la-mandatory_security_code_subtitle">
         <location filename="../src/DeviceLockDialog.qml" line="24"></location>
         <source>A security code is required by the device policy</source>
-        <translation type="unfinished"></translation>
+        <translation>مطلوب رمز الأمان من سياسة الجهاز</translation>
     </message>
     <message id="startupwizard-la-recommended_security_code_subtitle">
         <location filename="../src/DeviceLockDialog.qml" line="27"></location>
         <source>Enter a security code to protect your device</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بإدخال رمز الأمان لحماية جهازك</translation>
     </message>
     <message id="startupwizard-la-user_data_encrypted">
         <location filename="../src/DeviceLockDialog.qml" line="37"></location>
         <source>User data encrypted</source>
         <extracomment>Shown when entering to the device lock for the first time</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>استخدم تشفير البيانات</translation>
     </message>
     <message id="startupwizard-la-skip_security_code">
         <location filename="../src/DeviceLockDialog.qml" line="40"></location>
         <source>Skip</source>
-        <translation type="unfinished"></translation>
+        <translation>تخطي</translation>
     </message>
     <message id="startupwizard-la-security_code_warning_no">
         <location filename="../src/DeviceLockWarningDialog.qml" line="22"></location>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation>لا</translation>
     </message>
     <message id="startupwizard-la-security_code_warning_yes">
         <location filename="../src/DeviceLockWarningDialog.qml" line="24"></location>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>نعم</translation>
     </message>
     <message id="startupwizard-la-recommended_security_code">
         <location filename="../src/DeviceLockWarningDialog.qml" line="38"></location>

@@ -43,7 +43,7 @@
         <location filename="SimErrorState.qml" line="98"></location>
         <source>No SIM card in %1 slot</source>
         <extracomment>Indicates a SIM has not been inserted into the SIM slot. %1 = the slot of the missing SIM, e.g. 'SIM1'</extracomment>
-        <translation>لا توجد بطاقة SIM في الفتحة 1%</translation>
+        <translation>لا توجد بطاقة SIM في الفتحة %1</translation>
     </message>
     <message id="sailfish-telephony-la-sim_disabled_with_name">
         <location filename="SimErrorState.qml" line="102"></location>
