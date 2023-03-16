@@ -8,7 +8,16 @@ Bringing Arabic to Sailfish. The project also includes a [RTL-support](https://g
 
 * Special thanks to [@jolla](https://jolla.com) for including Arabic into the [Pootle](https://translate.sailfishos.org/ar/)
 
-* Special thanks to [@reaamak](https://translate.sailfishos.org/accounts/reaamak/) for her translation contributions. 
+### Translators: 
+* [@reaamak](https://translate.sailfishos.org/accounts/reaamak/)
+* [@ghaid_ay](https://translate.sailfishos.org/accounts/ghaid_ay/)
+* [@Latifah99](https://translate.sailfishos.org/accounts/Latifah99/)
+* [@Mr_barkat](https://translate.sailfishos.org/accounts/Mr_barkat/)
+* [@Salamera](https://translate.sailfishos.org/accounts/Salamera/)
+* [@Amine_Py](https://translate.sailfishos.org/accounts/Amine_Py/)
+* [@had-med](https://translate.sailfishos.org/accounts/haf-med/)
+* [@babo](https://translate.sailfishos.org/accounts/babo/)
+* [@sharefih](https://translate.sailfishos.org/accounts/sharefih/)
 
 
 ## Builds
@@ -22,5 +31,7 @@ Latest build will always be released [here](https://github.com/Logic-gate/unoffi
 * [Archived Thread](https://web.archive.org/web/20200626114909/https://together.jolla.com/question/228890/unofficial-arabic-translation-canceled/)
 * [Screentshots](https://twitter.com/m4d_d3v). This is my twitter profile. 
 
-
+## Community Links
+* [Telegram](https://t.me/SFOS_AR)
+* [Matrix](https://matrix.to/#/%23SFOS_AR%3Amatrix.org)
 
